@@ -32,7 +32,7 @@ layout: home
 <body>
     <div class="container">
         <div class="image-container">
-            <img src="{{ 'Kirtman-Research-Group.github.io/assets/images/kirtman_pic.jpg'}}" 
+            <img src="{{ '[Kirtman-Research-Group.github.io/assets/images/kirtman_pic.jpg](https://github.com/Kirtman-Research-Group/Kirtman-Research-Group.github.io/blob/main/assets/images/kirtman_pic.jpg?raw=true)'}}" 
         </div>
         <div class="text-container">
             <h1>Welcome to Dr. Benjamin Kirtman Research Group</h1>
