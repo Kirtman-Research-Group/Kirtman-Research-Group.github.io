@@ -54,7 +54,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 <body>
     <div class="container">
         <div class="photo">
-            <img src="path_to_your_image.jpg" alt="Descriptive Alt Text">
+            <img src="/kirtman_pic.jpg"
         </div>
         <div class="text">
             <h1>Welcome to My Website</h1>
