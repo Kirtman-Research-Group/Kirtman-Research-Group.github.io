@@ -33,7 +33,7 @@ layout: home
 <body>
     <div class="container">
         <div class="image-container">
-            <img src="{{ '/assets/images/kirtman_pic.jpg' | relative_url }}" 
+            <img src="{{ 'Kirtman-Research-Group.github.io/assets/images/kirtman_pic.jpg'}}" 
         </div>
         <div class="text-container">
             <h1>Welcome to Dr. Benjamin Kirtman Research Group</h1>
