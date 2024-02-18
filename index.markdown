@@ -9,43 +9,42 @@ layout: home
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home Page</title>
+    <title>{{ site.title }}</title>
     <style>
         .container {
             display: flex;
             align-items: center;
             justify-content: center;
-            height: 100vh; /* Adjust the height as needed */
+            min-height: 100vh; /* Adjust based on your preference */
             padding: 20px;
         }
-        .photo {
-            flex: 1;
-            max-width: 50%;
+        .image-container {
+            flex: 1; /* Adjust the flex value if you need */
+            max-width: 40%; /* You can adjust the width */
         }
-        .photo img {
+        .image-container img {
             width: 100%;
             height: auto;
         }
-        .text {
-            flex: 1;
-            max-width: 50%;
-            padding-left: 20px; /* Adjust the spacing between text and photo */
+        .text-container {
+            flex: 1; /* Adjust the flex value if you need */
+            max-width: 60%; /* You can adjust the width */
+            padding-left: 20px; /* Adjust the spacing between image and text */
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="photo">
-            <img src="/assets/images/kirtman_pic.jpg" alt="Descriptive Alt Text">
+        <div class="image-container">
+            <img src="{{ '/assets/images/kirman_pic.jpg' | relative_url }}" alt="Dr. Benjamin Kirtman">
         </div>
-        <div class="text">
-            <h1>Welcome to My Website</h1>
-            <p>This is a brief introduction or description that you want to show beside your photo. You can customize this text to fit your needs.</p>
+        <div class="text-container">
+            <h1>Welcome to Dr. Benjamin Kirtman Research Group</h1>
+            <p>Welcome to the website dedicated to Dr. Benjamin Kirtman and his research group. Here you can find information on the research him and his group take part in, as well as learn more about Dr. Kirtman and his colleagues and students.</p>
             <!-- Add more text or elements as needed -->
         </div>
     </div>
 </body>
 </html>
-
 
 ---
