@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Welcome
 ---
 
 <div style="display: flex; align-items: center;">
