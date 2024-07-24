@@ -5,7 +5,7 @@ body {
 }
 
 .large-image {
-  width: 700px; /* or any other size you prefer */
+  width: 200px; /* or any other size you prefer */
   max-width: 100%;
   height: auto;
 }
