@@ -3,3 +3,9 @@
 body {
   font-family: 'Playfair Display', sans-serif;
 }
+
+.large-image {
+  width: 500px; /* or any other size you prefer */
+  max-width: 100%;
+  height: auto;
+}
