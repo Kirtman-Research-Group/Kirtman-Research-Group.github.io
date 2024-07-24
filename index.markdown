@@ -7,6 +7,9 @@ layout: home
     <img src="/assets/images/kirtman_pic.jpg" alt="Dr. Benjamin Kirtman" style="width: 400px; max-width: 100%; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 20px;">
-    Welcome to the website dedicated to Dr. Benjamin Kirtman and his research group. Here you can find information on the research him and his group take part in, as well as learn more about Dr. Kirtman and his colleagues and students.
+    <p style="font-weight: bold; text-decoration: underline;">Welcome To Our Lab Website</p>
+    <p>
+      The Kirtman Group at the University of Miami RSMAS specializes in climate modeling and climate variability research. Our group is very diverse with concentrations from climate predictability and prediction to weather-climate interactions and high-resolution ocean modeling. We also play an instrumental role in the North American Multi-Model Ensemble prediction system.
+    </p>
   </div>
 </div>
