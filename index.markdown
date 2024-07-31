@@ -26,7 +26,14 @@ layout: home
     margin: 0;
     padding: 0;
   }
+  .top-border, .bottom-border {
+    background-color: black;
+    height: 1px;
+    width: 100%;
+  }
 </style>
+
+<div class="top-border"></div>
 
 <div class="main-container">
   <div class="content-container" style="display: flex;">
@@ -70,3 +77,5 @@ layout: home
     </div>
   </div>
 </div>
+
+<div class="bottom-border"></div>
