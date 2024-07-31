@@ -77,11 +77,13 @@ permalink: /people/
   .columns {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap; /* Allow columns to wrap to the next line */
   }
   .column {
     flex: 1;
     text-align: center;
-    margin: 0 10px;
+    margin: 10px; /* Add margin to space out columns */
+    max-width: calc(33.333% - 20px); /* Ensure three columns per row */
   }
   .column img {
     width: 100%;
@@ -151,6 +153,54 @@ permalink: /people/
       <p class="navy">University of Miami, Rosenstiel School</p>
       <p class="purple">Contact Email: <a href="mailto:rxg1381@earth.miami.edu">rxg1381@earth.miami.edu</a></p>
       <p>My research interests include modeling and working with the WRF model to do high-resolution regional modeling over Florida through dynamical and statistical downscaling techniques. Outside of the office I love hiking and backpacking. I also love the beach and being outdoors.</p>
+    </div>
+  </div>
+</div>
+
+<div class="new-container">
+  <h2>Graduate Students</h2>
+  <div class="columns">
+    <div class="column">
+      <img src="/assets/images/karen.jpg" alt="Karen">
+      <p class="name">Karen Papazian</p>
+      <p class="navy">PhD Candidate</p>
+      <p class="purple">Contact Email: ​karen.papazian@rsmas.miami.edu</p>
+      <p>I am a current graduate student interested in the effects of climate change on extreme cold air outbreaks. I'm looking at how upper atmospheric features differ when using aquaplanet simulations with various pole to equator temperature gradients. Outside of research I enjoy traveling, watching baseball games (go Yankees) and going to Disney World!</p>
+    </div>
+    <div class="column">
+      <img src="/assets/images/vic.jpg" alt="Vic">
+      <p class="name">Victoria Schoenwald</p>
+      <p class="navy">PhD Candidate</p>
+      <p class="purple">Contact Email:​ victoria.schoenwald@rsmas.miami.edu</p>
+      <p>I am a current graduate student interested in how climate change and natural variability affect sea level rise and coastal flooding along the U.S. east coast. Outside of research you can find me at the beach looking for dolphins and doing yoga. I also enjoy traveling and hiking!</p>
+    </div>
+    <div class="column">
+      <img src="/assets/images/cait.jpg" alt="Cait">
+      <p class="name">Cait Collins</p>
+      <p class="navy">PhD Student</p>
+      <p class="purple">Contact Email:​ caitcollins@miami.edu</p>
+      <p>My research interests include elucidation of the dynamic Earth system through modeling, especially climate variability and predictability, and large-scale moisture dynamics and transport. Outside of research I enjoy exploring the backcountry with my family.</p>
+    </div>
+    <div class="column">
+      <img src="/assets/images/josiah.jpg" alt="Josiah">
+      <p class="name">Josiah Kaiser</p>
+      <p class="navy">PhD Student</p>
+      <p class="purple">Contact Email:​ jmk433@earth.miami.edu</p>
+      <p>I am a graduate student working with Dr. Ben Kirtman and Dr. Emily Becker. I am most interested in researching climate change and developing long term differential models to predict, and hopefully inform policy on, climate change, especially in high impact areas. Outside of research I enjoy creating music and learning mathematics. I generally just like to try new things and meet new people!</p>
+    </div>
+    <div class="column">
+      <img src="/assets/images/christina.jpg" alt="Christina">
+      <p class="name">Christina Schuler</p>
+      <p class="navy">PhD Student</p>
+      <p class="purple">​Contact Email:​ cts123@earth.miami.edu</p>
+      <p>My research interests include hurricanes, climate science, and coastal storm climatology. Some of my hobbies outside of school are playing violin, writing, and tracking storms across South Florida.</p>
+    </div>
+    <div class="column">
+      <img src="/assets/images/ian.jpg" alt="Ian">
+      <p class="name">Ian Gifford</p>
+      <p class="navy">PhD Student</p>
+      <p class="purple">​Contact Email:​ igifford@earth.miami.edu</p>
+      <p>I am a graduate student working with Dr. Ben Kirtman and Dr. Emily Becker. Anthropogenic climate change and its effects on the El Nino Southern Oscillation remains an open question. My research  pertains to predictions of the impacts on terrestrial North America (temperature and precipitation) related to possible future ENSO changes.</p>
     </div>
   </div>
 </div>
