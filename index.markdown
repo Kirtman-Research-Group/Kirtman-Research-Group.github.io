@@ -34,7 +34,7 @@ layout: home
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; padding-right: 20px;">
     <img src="/assets/images/seasoned_chaos.jpg" alt="Seasoned Chaos Blog" class="large-image" style="width: 100%; height: auto;">
     <div style="margin-top: 20px; padding: 10px; background-color: lightblue; border: 1px solid #000; text-align: center;">
-      <a href="/seasoned_chaos" style="text-decoration: none; font-weight: bold; color: black;">Visit Seasoned Chaos Blog</a>
+      <a href="https://seasonedchaos.github.io" style="text-decoration: none; font-weight: bold; color: black;">Visit Seasoned Chaos Blog</a>
     </div>
   </div>
   <div style="flex: 1;">
