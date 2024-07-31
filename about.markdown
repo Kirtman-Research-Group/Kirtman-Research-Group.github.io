@@ -16,7 +16,7 @@ permalink: /people/
     border-bottom: none;
   }
   .page-content {
-    padding-top: 20px;
+    padding-top: 0; /* Remove any top padding */
   }
   .container {
     background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for better readability */
@@ -26,20 +26,51 @@ permalink: /people/
     margin: 20px auto; /* Center the container on the page */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
+  .content-wrapper {
+    display: flex;
+    align-items: flex-start;
+  }
+  .content-wrapper img {
+    margin-right: 20px;
+    width: 250px;
+    height: auto;
+  }
+  .content-wrapper div {
+    flex: 1;
+  }
+  .content-wrapper h1 {
+    margin: 0;
+    font-size: 24px;
+    color: black;
+  }
+  .content-wrapper p {
+    margin: 0;
+    font-size: 16px; /* Smaller font size */
+    color: black;
+    font-style: italic;
+  }
+  .content-wrapper p.lightgreen a {
+    color: lightgreen;
+    text-decoration: none;
+  }
+  .content-wrapper p.lightblue a {
+    color: lightblue;
+    text-decoration: none;
+  }
 </style>
 
 <div class="container">
-  <div style="display: flex; align-items: flex-start; padding-top: 20px;">
-      <img src="/assets/images/ben.jpg" alt="Ben Kirtman" style="margin-right: 20px; width: 250px; height: auto;">
+  <div class="content-wrapper" style="padding-top: 20px;">
+      <img src="/assets/images/ben.jpg" alt="Ben Kirtman">
       <div>
-          <h1 style="margin: 0; font-size: 24px; color: black;">Ben Kirtman, PhD</h1>
-          <p style="margin: 0; font-size: 18px; color: black; font-style: italic;">Professor of Atmospheric Sciences</p>
-          <p style="margin: 0; font-size: 18px; color: black; font-style: italic;">William R. Middelthon III Endowed Chair in Earth Sciences</p>
-          <p style="margin: 0; font-size: 18px; color: lightgreen; font-style: italic;">
-              <a href="https://cimas.earth.miami.edu/" style="color: lightgreen; text-decoration: none;">Director: Cooperative Institute for Marine & Atmospheric Studies</a>
+          <h1>Ben Kirtman, PhD</h1>
+          <p>Professor of Atmospheric Sciences</p>
+          <p>William R. Middelthon III Endowed Chair in Earth Sciences</p>
+          <p class="lightgreen">
+              <a href="https://cimas.earth.miami.edu/">Director: Cooperative Institute for Marine & Atmospheric Studies</a>
           </p>
-          <p style="margin: 0; font-size: 18px; color: lightblue; font-style: italic;">
-              <a href="https://idsc.miami.edu/about/people/" style="color: lightblue; text-decoration: none;">Program Director: Climate and Environmental Hazards, Center for Computational Science, Rosenstiel School, University of Miami</a>
+          <p class="lightblue">
+              <a href="https://idsc.miami.edu/about/people/">Program Director: Climate and Environmental Hazards, Center for Computational Science, Rosenstiel School, University of Miami</a>
           </p>
       </div>
   </div>
