@@ -4,7 +4,7 @@ layout: home
 
 <div style="display: flex; align-items: center;">
   <div style="padding-right: 20px;">
-    <img src="/assets/images/kirtman_pic.jpg" alt="Dr. Benjamin Kirtman" class="large-image">
+    <img src="/assets/images/kirtman_pic.jpg" alt="Dr. Benjamin Kirtman" class="large-image" style="width: 300px; height: auto;">
   </div>
   <div>
     <p style="font-weight: bold; text-decoration: underline;">Welcome To Our Lab Website</p>
@@ -22,5 +22,8 @@ layout: home
       Miami, FL 33149<br>
       email: <a href="mailto:bkirtman@rsmas.miami.edu">bkirtman@rsmas.miami.edu</a>
     </p>
+    <div style="margin-top: 20px; padding: 10px; border: 1px solid #000; text-align: center;">
+      <a href="/research.markdown" style="text-decoration: none; font-weight: bold;">More About Our Research</a>
+    </div>
   </div>
 </div>
