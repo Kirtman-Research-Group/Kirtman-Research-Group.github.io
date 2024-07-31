@@ -111,7 +111,15 @@ permalink: /people/
   .former-container .content-wrapper h1 {
     font-weight: bold;
   }
-  .former-container .content-wrapper p.email, .former-container .content-wrapper p.affiliation, .former-container .content-wrapper p.research {
+  .former-container .content-wrapper p.email {
+    text-decoration: underline;
+    font-style: normal;
+    display: inline;
+  }
+  .former-container .content-wrapper p.email a {
+    text-decoration: none;
+  }
+  .former-container .content-wrapper p.affiliation, .former-container .content-wrapper p.research {
     text-decoration: underline;
     font-style: normal;
   }
@@ -221,10 +229,10 @@ permalink: /people/
       <img src="/assets/images/daniel.jpg" alt="Daniel Perlin">
       <div>
           <h1>Daniel Perlin</h1>
-          <p class="email">email: <a href="mailto:dnlperlin@gmail.com">dnlperlin@gmail.com</a></p>
+          <p><span class="email">Contact Email:</span> <a href="mailto:dnlperlin@gmail.com">dnlperlin@gmail.com</a></p>
           <p class="italic">Graduated Spring 2021</p>
-          <p class="affiliation">Current Affiliation: Aeronautical Design Engineer, Skink Works, Lockheed Martin Advanced Development Programs</p>
-          <p class="research">Undergraduate Research: With a personal interest in the application of machine learning to new fields, his undergraduate research focused on the development of a convolutional neural network model, using pattern recognition in climate model simulations to detect tropical cyclones.</p>
+          <p class="affiliation">Current Affiliation:</span> Aeronautical Design Engineer, Skink Works, Lockheed Martin Advanced Development Programs</p>
+          <p class="research">Undergraduate Research:</span> With a personal interest in the application of machine learning to new fields, his undergraduate research focused on the development of a convolutional neural network model, using pattern recognition in climate model simulations to detect tropical cyclones.</p>
       </div>
   </div>
 </div>
