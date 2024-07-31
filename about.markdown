@@ -129,10 +129,10 @@ permalink: /people/
           <h1>Ben Kirtman, PhD</h1>
           <p>Professor of Atmospheric Sciences</p>
           <p>William R. Middelthon III Endowed Chair in Earth Sciences</p>
-          <p class="lightgreen">
+          <p style="margin-top: 10px;" class="lightgreen">
               <a href="https://cimas.earth.miami.edu/">Director: Cooperative Institute for Marine & Atmospheric Studies</a>
           </p>
-          <p class="lightblue">
+          <p style="margin-top: 10px;" class="navy">
               <a href="https://idsc.miami.edu/about/people/">Program Director: Climate and Environmental Hazards, Center for Computational Science, Rosenstiel School, University of Miami</a>
           </p>
       </div>
