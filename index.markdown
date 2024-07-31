@@ -68,6 +68,13 @@ layout: home
   .active, .dot:hover {
     background-color: #717171;
   }
+  .slideshow-title {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
 </style>
 
 <div class="main-container">
@@ -113,6 +120,9 @@ layout: home
   </div>
 
   <div class="content-container">
+    <div class="slideshow-title">
+      Views from the Rosenstiel Campus on Virginia Key in Miami, FL
+    </div>
     <div class="slideshow-container">
       <div class="slides fade">
         <img src="/assets/images/pic1.jpg" style="width:100%">
@@ -198,7 +208,7 @@ layout: home
     }
     slides[slideIndex - 1].style.display = "block";
     dots[slideIndex - 1].className += " active";
-    setTimeout(showSlides, 2000); // Change image every 2 seconds
+    setTimeout(showSlides, 4000); // Change image every 4 seconds
   }
 
   function plusSlides(n) {
