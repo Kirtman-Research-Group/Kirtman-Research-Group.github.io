@@ -115,46 +115,46 @@ layout: home
   <div class="content-container">
     <div class="slideshow-container">
       <div class="slides fade">
-        <img src="/assets/images/pic1" style="width:100%">
+        <img src="/assets/images/pic1.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic2" style="width:100%">
+        <img src="/assets/images/pic2.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic3" style="width:100%">
+        <img src="/assets/images/pic3.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic4" style="width:100%">
+        <img src="/assets/images/pic4.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic5" style="width:100%">
+        <img src="/assets/images/pic5.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic6" style="width:100%">
+        <img src="/assets/images/pic6.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic7" style="width:100%">
+        <img src="/assets/images/pic7.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic8" style="width:100%">
+        <img src="/assets/images/pic8.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic9" style="width:100%">
+        <img src="/assets/images/pic9.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic10" style="width:100%">
+        <img src="/assets/images/pic10.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic11" style="width:100%">
+        <img src="/assets/images/pic11.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic12" style="width:100%">
+        <img src="/assets/images/pic12.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic13" style="width:100%">
+        <img src="/assets/images/pic13.jpg" style="width:100%">
       </div>
       <div class="slides fade">
-        <img src="/assets/images/pic14" style="width:100%">
+        <img src="/assets/images/pic14.jpg" style="width:100%">
       </div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
