@@ -57,8 +57,9 @@ permalink: /people/
     color: lightblue;
     text-decoration: none;
   }
-  h1.page-title, .page-title, .page-header h1, .page-header h1.page-title, .content-wrapper + h1, .container + h1 {
-    display: none; /* Hide the title on the page */
+  /* Hide the title on the page */
+  .page-title, h1.page-title {
+    display: none;
   }
 </style>
 
