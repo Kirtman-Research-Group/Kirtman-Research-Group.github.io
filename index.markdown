@@ -3,13 +3,16 @@ layout: home
 ---
 
 <style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
   html, body {
     background-image: url('/assets/images/cloud.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    margin: 0;
-    padding: 0;
     height: 100%;
     width: 100%;
   }
