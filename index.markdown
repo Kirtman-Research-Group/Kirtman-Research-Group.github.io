@@ -3,13 +3,16 @@ layout: home
 ---
 
 <style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
   html, body {
     background-image: url('/assets/images/cloud.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    margin: 0;
-    padding: 0;
     height: 100%;
     width: 100%;
   }
@@ -26,14 +29,7 @@ layout: home
     margin: 0;
     padding: 0;
   }
-  .top-border, .bottom-border {
-    background-color: black;
-    height: 1px;
-    width: 100%;
-  }
 </style>
-
-<div class="top-border"></div>
 
 <div class="main-container">
   <div class="content-container" style="display: flex;">
@@ -77,5 +73,3 @@ layout: home
     </div>
   </div>
 </div>
-
-<div class="bottom-border"></div>
