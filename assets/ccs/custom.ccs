@@ -10,6 +10,8 @@ body {
   height: auto;
 }
 
-.page-title {
+/* assets/css/custom.css */
+.page-id-people h1.page-title {
   display: none;
 }
+
