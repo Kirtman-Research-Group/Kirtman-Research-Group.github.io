@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="{{ site.baseurl }}/assets/images/ben.jpg" alt="Ben Kirtman" style="margin-right: 20px; width: 150px; height: auto;">
+    <img src="/assets/images/ben.jpg" alt="Ben Kirtman" style="margin-right: 20px; width: 150px; height: auto;">
     <div>
         <h1 style="margin: 0; font-size: 24px; color: black;">Ben Kirtman, PhD</h1>
         <p style="margin: 0; font-size: 18px; color: black; font-style: italic;">Professor of Atmospheric Sciences</p>
