@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meet our Group Members
+Title: People
 permalink: /people/
 ---
 
