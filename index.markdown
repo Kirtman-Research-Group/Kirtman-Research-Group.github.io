@@ -80,16 +80,16 @@ layout: home
     font-family: 'Roboto', sans-serif; /* Font for the slideshow title */
   }
   .research-box {
-    background-color: blue;
+    margin-top: 20px;
     padding: 10px;
+    background-color: lightblue;
+    border: 1px solid #000;
     text-align: center;
-    margin: 20px 0;
-    border-radius: 10px;
   }
   .research-box a {
-    color: black;
-    font-weight: bold;
     text-decoration: none;
+    font-weight: bold;
+    color: black;
   }
 </style>
 
@@ -103,6 +103,9 @@ layout: home
       <p>
         The Kirtman Group at the University of Miami's Rosenstiel School of Marine, Atmospheric & Earth Science specializes in climate modeling and climate variability research. Our group is very diverse with concentrations from climate predictability and prediction to weather-climate interactions and high-resolution ocean modeling. We also play an instrumental role in the North American Multi-Model Ensemble prediction system.
       </p>
+      <div class="research-box">
+        <a href="/research">Our Research</a>
+      </div>
     </div>
   </div>
 
@@ -121,10 +124,6 @@ layout: home
         Email Address: <a href="mailto:bkirtman@rsmas.miami.edu">bkirtman@rsmas.miami.edu</a>
       </p>
     </div>
-  </div>
-
-  <div class="research-box">
-    <a href="/research">Our Research</a>
   </div>
 
   <div class="content-container" style="display: flex;">
