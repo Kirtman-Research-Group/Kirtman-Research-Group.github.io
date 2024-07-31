@@ -50,7 +50,7 @@ permalink: /people/
     font-style: italic;
   }
   .content-wrapper p.lightgreen a {
-    color: lightgreen;
+    color: green;
     text-decoration: none;
   }
   .content-wrapper p.lightblue a {
