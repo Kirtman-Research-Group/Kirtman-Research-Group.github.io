@@ -47,7 +47,6 @@ permalink: /people/
     margin: 0;
     font-size: 14px; /* Smaller font size for all lines except the first */
     color: black;
-    font-style: italic;
   }
   .content-wrapper p.lightgreen a {
     color: green;
@@ -94,7 +93,6 @@ permalink: /people/
   .column p {
     font-size: 14px; /* Adjust the font size as needed */
     color: black;
-    font-style: italic;
     margin: 5px 0;
   }
   .column p.name {
@@ -111,14 +109,16 @@ permalink: /people/
   .former-container .content-wrapper h1 {
     font-weight: bold;
   }
-  .former-container .content-wrapper p.affiliation, .former-container .content-wrapper p.research {
-    font-style: normal;
-  }
-  .former-container .content-wrapper p.italic {
-    font-style: italic;
+  .former-container .content-wrapper p {
+    margin-top: 10px; /* Add margin between lines */
+    font-style: normal; /* Ensure no italic style */
   }
   .former-container .content-wrapper p.contact-email {
     font-style: normal;
+    margin-top: 5px;
+  }
+  .former-container .content-wrapper p.italic {
+    font-style: italic;
   }
 </style>
 
@@ -224,9 +224,9 @@ permalink: /people/
       <div>
           <h1>Daniel Perlin</h1>
           <p class="contact-email">Contact Email: <a href="mailto:dnlperlin@gmail.com">dnlperlin@gmail.com</a></p>
-          <p class="italic">Graduated Spring 2021</p>
-          <p> style="margin-top: 10px;"Current Affiliation: Aeronautical Design Engineer, Skink Works, Lockheed Martin Advanced Development Programs</p>
-          <p> style="margin-top: 10px;"Undergraduate Research: With a personal interest in the application of machine learning to new fields, his undergraduate research focused on the development of a convolutional neural network model, using pattern recognition in climate model simulations to detect tropical cyclones.</p>
+          <p class="italic" style="margin-top: 10px;">Graduated Spring 2021</p>
+          <p style="margin-top: 10px;">Current Affiliation: Aeronautical Design Engineer, Skink Works, Lockheed Martin Advanced Development Programs</p>
+          <p style="margin-top: 10px;">Undergraduate Research: With a personal interest in the application of machine learning to new fields, his undergraduate research focused on the development of a convolutional neural network model, using pattern recognition in climate model simulations to detect tropical cyclones.</p>
       </div>
   </div>
 </div>
