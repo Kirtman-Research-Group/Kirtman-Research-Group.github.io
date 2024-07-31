@@ -8,12 +8,17 @@ layout: home
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    margin: 0;
+    padding: 0;
   }
   .content-container {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 20px;
     border-radius: 10px;
     margin: 20px;
+  }
+  header, nav, .content {
+    border: none;
   }
 </style>
 
@@ -42,8 +47,6 @@ layout: home
     </p>
   </div>
 </div>
-
-<hr style="border: 1px solid gray; margin: 40px 0;">
 
 <div class="content-container" style="display: flex;">
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; padding-right: 20px;">
