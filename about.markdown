@@ -29,7 +29,6 @@ permalink: /people/
   .content-wrapper {
     display: flex;
     align-items: flex-start;
-    flex-direction: column;
   }
   .content-wrapper img {
     margin-right: 20px;
