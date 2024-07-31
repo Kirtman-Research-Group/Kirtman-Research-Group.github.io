@@ -108,6 +108,16 @@ permalink: /people/
   .column p.purple {
     color: purple;
   }
+  .former-container .content-wrapper h1 {
+    font-weight: bold;
+  }
+  .former-container .content-wrapper p.email, .former-container .content-wrapper p.affiliation, .former-container .content-wrapper p.research {
+    text-decoration: underline;
+    font-style: normal;
+  }
+  .former-container .content-wrapper p.italic {
+    font-style: italic;
+  }
 </style>
 
 <div class="container">
@@ -202,5 +212,19 @@ permalink: /people/
       <p class="purple">​Contact Email:​ <a href="mailto:igifford@earth.miami.edu">igifford@earth.miami.edu</a></p>
       <p>I am a graduate student working with Dr. Ben Kirtman and Dr. Emily Becker. Anthropogenic climate change and its effects on the El Nino Southern Oscillation remains an open question. My research  pertains to predictions of the impacts on terrestrial North America (temperature and precipitation) related to possible future ENSO changes.</p>
     </div>
+  </div>
+</div>
+
+<div class="new-container former-container">
+  <h2>Former Undergraduate Members</h2>
+  <div class="content-wrapper" style="padding-top: 20px;">
+      <img src="/assets/images/daniel.jpg" alt="Daniel Perlin">
+      <div>
+          <h1>Daniel Perlin</h1>
+          <p class="email">email: <a href="mailto:dnlperlin@gmail.com">dnlperlin@gmail.com</a></p>
+          <p class="italic">Graduated Spring 2021</p>
+          <p class="affiliation">Current Affiliation: Aeronautical Design Engineer, Skink Works, Lockheed Martin Advanced Development Programs</p>
+          <p class="research">Undergraduate Research: With a personal interest in the application of machine learning to new fields, his undergraduate research focused on the development of a convolutional neural network model, using pattern recognition in climate model simulations to detect tropical cyclones.</p>
+      </div>
   </div>
 </div>
