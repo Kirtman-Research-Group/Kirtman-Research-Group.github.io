@@ -6,7 +6,7 @@ layout: home
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; padding-right: 20px;">
     <img src="/assets/images/kirtman_pic.jpg" alt="Dr. Benjamin Kirtman" class="large-image" style="width: 100%; height: auto;">
     <div style="margin-top: 20px; padding: 10px; background-color: lightblue; border: 1px solid #000; text-align: center;">
-      <a href="/research" style="text-decoration: none; font-weight: bold; color: white;">More About Our Research</a>
+      <a href="/research" style="text-decoration: none; font-weight: bold; color: black;">More About Our Research</a>
     </div>
   </div>
   <div style="flex: 1;">
@@ -27,4 +27,3 @@ layout: home
     </p>
   </div>
 </div>
-
