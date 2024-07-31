@@ -1,6 +1,5 @@
 ---
 layout: page
-title: People
 permalink: /people/
 ---
 
@@ -45,7 +44,7 @@ permalink: /people/
   }
   .content-wrapper p {
     margin: 0;
-    font-size: 16px; /* Smaller font size */
+    font-size: 14px; /* Smaller font size for all lines except the first */
     color: black;
     font-style: italic;
   }
