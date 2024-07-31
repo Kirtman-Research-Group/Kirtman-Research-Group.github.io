@@ -225,8 +225,8 @@ permalink: /people/
           <h1>Daniel Perlin</h1>
           <p class="contact-email">Contact Email: <a href="mailto:dnlperlin@gmail.com">dnlperlin@gmail.com</a></p>
           <p class="italic">Graduated Spring 2021</p>
-          <p>Current Affiliation: Aeronautical Design Engineer, Skink Works, Lockheed Martin Advanced Development Programs</p>
-          <p>Undergraduate Research: With a personal interest in the application of machine learning to new fields, his undergraduate research focused on the development of a convolutional neural network model, using pattern recognition in climate model simulations to detect tropical cyclones.</p>
+          <p> style="margin-top: 10px;"Current Affiliation: Aeronautical Design Engineer, Skink Works, Lockheed Martin Advanced Development Programs</p>
+          <p> style="margin-top: 10px;"Undergraduate Research: With a personal interest in the application of machine learning to new fields, his undergraduate research focused on the development of a convolutional neural network model, using pattern recognition in climate model simulations to detect tropical cyclones.</p>
       </div>
   </div>
 </div>
