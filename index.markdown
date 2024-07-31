@@ -3,6 +3,8 @@ layout: home
 ---
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'); /* Example of importing a Google Font */
+
   html, body {
     background-image: url('/assets/images/cloud.jpg');
     background-size: cover;
@@ -12,6 +14,7 @@ layout: home
     padding: 0;
     height: 100%;
     width: 100%;
+    font-family: 'Arial', sans-serif; /* Default font for the page */
   }
   .content-container {
     background-color: rgba(255, 255, 255, 0.8);
@@ -74,6 +77,7 @@ layout: home
     text-decoration: underline;
     font-size: 1.5em;
     margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif; /* Font for the slideshow title */
   }
 </style>
 
@@ -88,14 +92,14 @@ layout: home
     <div style="flex: 1;">
       <p style="font-weight: bold; text-decoration: underline;">Welcome To Our Lab Website</p>
       <p>
-        The Kirtman Group at the University of Miami RSMAS specializes in climate modeling and climate variability research. Our group is very diverse with concentrations from climate predictability and prediction to weather-climate interactions and high-resolution ocean modeling. We also play an instrumental role in the North American Multi-Model Ensemble prediction system.
+        The Kirtman Group at the University of Miami's Rosenstiel School of Marine, Atmospheric & Earth Science specializes in climate modeling and climate variability research. Our group is very diverse with concentrations from climate predictability and prediction to weather-climate interactions and high-resolution ocean modeling. We also play an instrumental role in the North American Multi-Model Ensemble prediction system.
       </p>
       <p style="font-weight: bold; text-decoration: underline;">Contact</p>
       <p>
         Ben Kirtman<br>
         Professor of Atmospheric Sciences<br>
         Director: Cooperative Institute for Marine & Atmospheric Studies<br>
-        Rosenstiel School of Marine and Atmospheric Sciences<br>
+        Rosenstiel School of Marine, Atmospheric & Earth Science<br>
         University of Miami<br>
         4600 Rickenbacker Causeway<br>
         Miami, FL 33149<br>
@@ -208,7 +212,7 @@ layout: home
     }
     slides[slideIndex - 1].style.display = "block";
     dots[slideIndex - 1].className += " active";
-    setTimeout(showSlides, 4000); // Change image every 4 seconds
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
   }
 
   function plusSlides(n) {
