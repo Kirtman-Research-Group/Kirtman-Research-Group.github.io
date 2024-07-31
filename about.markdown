@@ -1,5 +1,6 @@
 ---
 layout: page
+title: People
 permalink: /people/
 ---
 
@@ -55,6 +56,9 @@ permalink: /people/
   .content-wrapper p.lightblue a {
     color: lightblue;
     text-decoration: none;
+  }
+  h1.page-title {
+    display: none; /* Hide the title on the page */
   }
 </style>
 
