@@ -79,6 +79,18 @@ layout: home
     margin-bottom: 10px;
     font-family: 'Roboto', sans-serif; /* Font for the slideshow title */
   }
+  .research-box {
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+    margin: 20px 0;
+    border-radius: 10px;
+  }
+  .research-box a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+  }
 </style>
 
 <div class="main-container">
@@ -109,6 +121,10 @@ layout: home
         Email Address: <a href="mailto:bkirtman@rsmas.miami.edu">bkirtman@rsmas.miami.edu</a>
       </p>
     </div>
+  </div>
+
+  <div class="research-box">
+    <a href="/research">Our Research</a>
   </div>
 
   <div class="content-container" style="display: flex;">
