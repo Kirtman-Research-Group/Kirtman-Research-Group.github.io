@@ -26,6 +26,48 @@ layout: home
     margin: 0;
     padding: 0;
   }
+  .slideshow-container {
+    position: relative;
+    max-width: 1000px;
+    margin: auto;
+  }
+  .slides {
+    display: none;
+  }
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  .prev:hover, .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  .active, .dot:hover {
+    background-color: #717171;
+  }
 </style>
 
 <div class="main-container">
@@ -69,4 +111,89 @@ layout: home
       </div>
     </div>
   </div>
+
+  <div class="content-container">
+    <div class="slideshow-container">
+      <div class="slides fade">
+        <img src="/assets/images/pic1" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic2" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic3" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic4" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic5" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic6" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic7" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic8" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic9" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic10" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic11" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic12" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic13" style="width:100%">
+      </div>
+      <div class="slides fade">
+        <img src="/assets/images/pic14" style="width:100%">
+      </div>
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    <br>
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+      <span class="dot" onclick="currentSlide(5)"></span>
+      <span class="dot" onclick="currentSlide(6)"></span>
+      <span class="dot" onclick="currentSlide(7)"></span>
+      <span class="dot" onclick="currentSlide(8)"></span>
+      <span class="dot" onclick="currentSlide(9)"></span>
+      <span class="dot" onclick="currentSlide(10)"></span>
+      <span class="dot" onclick="currentSlide(11)"></span>
+      <span class="dot" onclick="currentSlide(12)"></span>
+      <span class="dot" onclick="currentSlide(13)"></span>
+      <span class="dot" onclick="currentSlide(14)"></span>
+    </div>
+  </div>
 </div>
+
+<script>
+  let slideIndex = 0;
+  showSlides();
+
+  function showSlides() {
+    let slides = document.getElementsByClassName("slides");
+    let dots = document.getElementsByClassName("dot");
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {
+      slideIndex = 1;
+    }
+    for (let i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex - 1
