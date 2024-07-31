@@ -75,7 +75,7 @@ layout: home
     text-align: center;
     font-weight: bold;
     text-decoration: underline;
-    font-size: 1.5em;
+    font-size: 1.2em; /* Adjusted font size */
     margin-bottom: 10px;
     font-family: 'Roboto', sans-serif; /* Font for the slideshow title */
   }
@@ -212,7 +212,7 @@ layout: home
     }
     slides[slideIndex - 1].style.display = "block";
     dots[slideIndex - 1].className += " active";
-    setTimeout(showSlides, 2000); // Change image every 2 seconds
+    setTimeout(showSlides, 3000); // Change image every 3 seconds
   }
 
   function plusSlides(n) {
