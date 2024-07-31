@@ -96,16 +96,17 @@ layout: home
 
   <div class="content-container" style="display: flex;">
     <div style="flex: 1;">
-      <p style="font-weight: bold; text-decoration: underline;">Contact</p>
+      <p style="font-weight: bold; text-decoration: underline;">Contact Information</p>
       <p>
         Ben Kirtman<br>
-        Professor of Atmospheric Sciences<br>
-        Director: Cooperative Institute for Marine & Atmospheric Studies<br>
-        Rosenstiel School of Marine, Atmospheric & Earth Science<br>
-        University of Miami<br>
-        4600 Rickenbacker Causeway<br>
-        Miami, FL 33149<br>
-        email: <a href="mailto:bkirtman@rsmas.miami.edu">bkirtman@rsmas.miami.edu</a>
+        Professor in the Department of Atmospheric Sciences<br>
+        William R Middelthon III Chair of Earth Sciences<br>
+        Director of the Cooperative Institute for Marine & Atmospheric Studies<br>
+        Deputy Director Frost Institute for Data Science and Computing<br>
+        <br>
+        University of Miami's Rosenstiel School of Marine, Atmospheric & Earth Science<br>
+        Address: 4600 Rickenbacker Causeway Miami, FL 33149<br>
+        Email Address: <a href="mailto:bkirtman@rsmas.miami.edu">bkirtman@rsmas.miami.edu</a>
       </p>
     </div>
   </div>
