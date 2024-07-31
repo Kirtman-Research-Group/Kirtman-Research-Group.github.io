@@ -2,7 +2,22 @@
 layout: home
 ---
 
-<div style="display: flex;">
+<style>
+  body {
+    background-image: url('/assets/images/cloud.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .content-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+  }
+</style>
+
+<div class="content-container" style="display: flex;">
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; padding-right: 20px;">
     <img src="/assets/images/kirtman_pic.jpg" alt="Dr. Benjamin Kirtman" class="large-image" style="width: 100%; height: auto;">
     <div style="margin-top: 20px; padding: 10px; background-color: lightblue; border: 1px solid #000; text-align: center;">
@@ -30,7 +45,7 @@ layout: home
 
 <hr style="border: 1px solid gray; margin: 40px 0;">
 
-<div style="display: flex;">
+<div class="content-container" style="display: flex;">
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; padding-right: 20px;">
     <img src="/assets/images/seasoned_chaos.jpg" alt="Seasoned Chaos Blog" class="large-image" style="width: 100%; height: auto;">
   </div>
@@ -39,7 +54,7 @@ layout: home
     <p>
       A few members of the group (Kelsey, Kayla, Marybeth, Victoria, Emily, and Kurt) have started a blog about S2S predictability called ‘Seasoned Chaos’. If you haven’t checked it out yet, be sure to see the great work they’ve all done by clicking on the button below! Posts are very informative and fun. New posts are made every 1-2 months.
     </p>
-    <div style="margin-top: 30px; padding: 10px; background-color: lightblue; border: 1px solid #000; text-align: center;">
+    <div style="margin-top: 40px; padding: 10px; background-color: lightblue; border: 1px solid #000; text-align: center;">
       <a href="https://seasonedchaos.github.io/" style="text-decoration: none; font-weight: bold; color: black;">Visit Seasoned Chaos Blog</a>
     </div>
   </div>
