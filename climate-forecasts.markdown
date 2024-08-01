@@ -233,7 +233,7 @@ permalink: /climate-forecasts/
     <div>
       <p>In addition to NMME, University of Miami (RSMAS) maintains Community Climate System Model version 4.0 (CCSM4) experimental climate forecasts of southeastern US precipitation, 2-meter temperature, horizontal (u) winds, evaporation, runoff, and soil moisture on monthly and seasonal time-scales.</p>
       <p style="margin-top: 10px; font-size: 12px;">For climate southeastern US CCSM4 climate forecasts, please see the <a href="https://rsmas-ccsm4.weebly.com/">CCSM4 Southeastern US Climate Prediction website.</a></p>
-      <p style="margin-top: 10px;"> The <a href="https://rsmas-ccsm4.weebly.com/">CCSM4 Southeastern US Climate Prediction website</a> includes predictions on <a href="https://rsmas-ccsm4.weebly.com/monthly.html">monthly</a> and <a [href="https://rsmas-ccsm4.weebly.com/seasonal.html">seasonal</a> time-scales, and at present includes forecasts initialized April 2016 through the current month for lead times 0 through 5.  For more information on these predictions, visit the <a href="https://rsmas-ccsm4.weebly.com/faq.html">FAQ</a>.  </p>
+      <p style="margin-top: 10px;"> The <a href="https://rsmas-ccsm4.weebly.com/">CCSM4 Southeastern US Climate Prediction website</a> includes predictions on <a href="https://rsmas-ccsm4.weebly.com/monthly.html">monthly</a> and <a href="https://rsmas-ccsm4.weebly.com/seasonal.html">seasonal</a> time-scales, and at present includes forecasts initialized April 2016 through the current month for lead times 0 through 5.  For more information on these predictions, visit the <a href="https://rsmas-ccsm4.weebly.com/faq.html">FAQ</a>.  </p>
     </div>
     <img src="/assets/images/ccsm4.jpg" alt="CCSM4">
   </div>
