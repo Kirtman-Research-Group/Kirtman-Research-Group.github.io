@@ -253,7 +253,7 @@ permalink: /people/
   </div>
   <hr style="border: 1px solid black; margin: 20px 0;">
   <div class="content-wrapper" style="padding-top: 10px;">
-      <img src="/assets/images/patrick.jpg" alt="Patrick Barrett">
+      <img src="/assets/images/patrick.jpg" alt="Patrick Barrett" style="width: 150px; height: auto;">
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Patrick Barrett</h1>
           <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:pbarrett.business@gmail.com">pbarrett.business@gmail.com</a></p>
@@ -262,7 +262,7 @@ permalink: /people/
   </div>
   <hr style="border: 1px solid black; margin: 20px 0;">
   <div class="content-wrapper" style="padding-top: 10px;">
-      <img src="/assets/images/szandra.jpg" alt="Szandra Peter">
+      <img src="/assets/images/szandra.jpg" alt="Szandra Peter" style="width: 150px; height: auto;">
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Szandra Peter</h1>
           <p style="margin-top: 10px; font-size: 14px;">Previous Work: Predictability of North American and European heat waves.</p>
