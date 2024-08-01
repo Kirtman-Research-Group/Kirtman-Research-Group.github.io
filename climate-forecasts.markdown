@@ -41,7 +41,7 @@ permalink: /climate-forecasts/
     align-items: flex-start;
   }
   .nmme-container .nmme-title {
-    font-size: 28px; /* Slightly smaller font size */
+    font-size: 25px; /* Slightly smaller font size */
     color: black;
     margin-bottom: 10px; /* Less padding between title and text/image */
     width: 100%;
@@ -57,7 +57,7 @@ permalink: /climate-forecasts/
     margin-left: 20px;
   }
   .nmme-content p {
-    font-size: 14px; /* Smaller font size */
+    font-size: 12px; /* Smaller font size */
     color: black;
     margin: 0;
   }
