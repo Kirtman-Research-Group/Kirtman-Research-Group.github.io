@@ -234,7 +234,7 @@ permalink: /people/
 <div class="new-container former-container">
   <h2>Former Members</h2>
   <div class="content-wrapper" style="padding-top: 10px;">
-      <img src="/assets/images/simge.jpg" alt="Dr. Simge Bilgen">
+      <img src="/assets/images/simge.jpg" alt="Dr. Simge Bilgen"> 
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Simge Bilgen</h1>
           <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:sbilgen@rsmas.miami.edu">sbilgen@rsmas.miami.edu</a></p>
@@ -243,7 +243,7 @@ permalink: /people/
   </div>
   <hr style="border: 1px solid black; margin: 20px 0;">
   <div class="content-wrapper" style="padding-top: 10px;">
-      <img src="/assets/images/kayla.jpg" alt="Dr. Kayla Besong">
+      <img src="/assets/images/kayla.jpg" alt="Dr. Kayla Besong"> style="width: 150px; height: auto;">
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Kayla Besong</h1>
           <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:kbesong@sonomatech.com">kbesong@sonomatech.com</a></p>
