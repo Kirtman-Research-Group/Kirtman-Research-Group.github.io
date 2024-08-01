@@ -120,6 +120,25 @@ permalink: /people/
   .former-container .content-wrapper p.italic {
     font-style: italic;
   }
+  .smaller-image {
+    width: 150px;
+    height: auto;
+  }
+  .webpage-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: lightblue;
+    color: white;
+    border: 2px solid white;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  .webpage-button:hover {
+    background-color: #87CEEB; /* Darker shade of light blue */
+  }
+
 </style>
 
 <div class="container">
@@ -276,6 +295,8 @@ permalink: /people/
           <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:kelsey.malloy@earth.miami.edu">kelsey.malloy@earth.miami.edu</a></p>
           <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Postdoctoral Research Scientist at Columbia University working with Dr. Mike Tippett on S2S predictability of severe convective storm risk and how that might be impacted by climate change.</p>
           <p style="margin-top: 10px; font-size: 14px;">PhD Work: My research focused on subseasonal-to-seasonal (S2S) predictability of U.S. summer hydroclimate through understanding large-scale dynamical influences on the Great Plains low-level jet.</p>
+          <a href="https://kelseymalloy.github.io/" class="webpage-button">Webpage</a>
+
       </div>
   </div>
       <hr style="border: 1px solid black; margin: 20px 0;">
