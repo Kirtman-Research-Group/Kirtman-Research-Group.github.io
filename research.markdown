@@ -78,7 +78,7 @@ permalink: /research/
     margin-top: 1px; /* Reduce margin-top for images */
   }
   .third-container .image-wrapper img {
-    width: 48%; /* Increase image width to take up most of the container */
+    width: 100%; /* Increase image width to take up most of the container */
     height: auto;
   }
   .third-container .image-wrapper p {
@@ -99,7 +99,7 @@ permalink: /research/
   }
   .fourth-container p {
     text-align: center;
-    font-size: 10px;
+    font-size: 12px;
     color: black;
     margin-top: 5px;
   }
