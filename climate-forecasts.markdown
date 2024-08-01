@@ -190,6 +190,16 @@ permalink: /climate-forecasts/
   .webpage-button:hover {
     background-color: #87CEEB; /* Darker shade of light blue */
   }
+  .centered-image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px; /* Add some space between the text and the image */
+  }
+  .centered-image img {
+    width: 400px; /* Set the desired width */
+    height: auto;
+  }
 </style>
 
 <div class="nmme-container">
@@ -210,5 +220,8 @@ permalink: /climate-forecasts/
     </ul>
     <p style="margin-top: 10px;"> A description of the NMME system is provided <a href="https://www.cpc.ncep.noaa.gov/products/NMME/NMME_description.html">here.</a> </p>
     <p style="margin-top: 10px;"> Data access for hindcasts and real-time forecasts for all individual models and NMME ensemble mean is provided <a href="https://www.cpc.ncep.noaa.gov/products/NMME/data.html">here.</a> </p>
+  </div>
+  <div class="centered-image">
+    <img src="/assets/images/nmme2.jpg" alt="NMME 2">
   </div>
 </div>
