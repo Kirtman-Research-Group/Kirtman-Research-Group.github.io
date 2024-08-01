@@ -354,6 +354,8 @@ permalink: /people/
           <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:b.zavadoff@gmail.com">b.zavadoff@gmail.com</a></p>
           <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Assistant Scientist at CIMAS</p>
           <p style="margin-top: 10px; font-size: 14px;">PhD work: One portion of my research encompassed studying the modulation of summertime North Atlantic anticyclonic Rossby wave breaking variability by the Pacific Decadal Oscillation. An additional part of my research focused on Atmospheric Rivers impacting Western Europe and how they are influenced dynamically through features such as anticyclonic Rossby wave breaking as well as thermodynamically in a changing climate.</p>
+          <a href="https://bzavadoff.github.io/" class="webpage-button">Webpage</a>
+
       </div>
   </div>
       <hr style="border: 1px solid black; margin: 20px 0;">
@@ -402,6 +404,7 @@ permalink: /people/
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Sarah Larson</h1>
           <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Assistant Professor Dept. of Marine, Earth, & Atmospheric Sciences​​, North Carolina State University</p>
+          <a href="https://sarahmlarson.weebly.com/" class="webpage-button">Webpage</a>
       </div>
   </div>
       <hr style="border: 1px solid black; margin: 20px 0;">
@@ -426,6 +429,7 @@ permalink: /people/
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Hosmay Lopez</h1>
           <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Assistant Scientist Cooperative Institute for Marine and Atmospheric Studies, University of Miami NOAA/AOML/PHOD</p>
+          <a href="https://www.aoml.noaa.gov/people/hosmay-lopez/" class="webpage-button">Webpage</a>
       </div>
   </div>
   
