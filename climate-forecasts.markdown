@@ -18,6 +18,9 @@ permalink: /climate-forecasts/
   .page-content {
     padding-top: 0; /* Remove any top padding */
   }
+  .page-content h1 {
+    display: none; /* Hide the large title */
+  }
   .container {
     background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for better readability */
     padding: 20px;
@@ -138,5 +141,4 @@ permalink: /climate-forecasts/
   .webpage-button:hover {
     background-color: #87CEEB; /* Darker shade of light blue */
   }
-
 </style>
