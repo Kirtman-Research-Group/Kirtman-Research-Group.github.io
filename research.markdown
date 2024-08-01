@@ -38,23 +38,20 @@ permalink: /research/
     margin-bottom: 10px; /* Smaller distance between title and content */
     font-weight: bold;
   }
-  .third-container h4 {
-    font-size: 20px;
-    color: black;
-    font-weight: normal;
-    margin-top: 5px; /* Less padding between titles */
-  }
-  .content-wrapper {
+  .container .content-wrapper {
     display: flex;
     align-items: flex-start;
   }
-  .content-wrapper img {
+  .container .content-wrapper img {
     margin-right: 20px;
     width: 125px; /* Half the original width */
     height: auto;
   }
-  .content-wrapper div {
+  .container .content-wrapper div {
     flex: 1;
+  }
+  .container .content-wrapper div h2 {
+    margin-top: 0;
   }
   .content-wrapper p {
     margin: 0;
@@ -67,6 +64,12 @@ permalink: /research/
   }
   .content-wrapper p a:hover {
     text-decoration: underline;
+  }
+  .third-container h4 {
+    font-size: 20px;
+    color: black;
+    font-weight: normal;
+    margin-top: 5px; /* Less padding between titles */
   }
   .third-container .image-wrapper {
     display: flex;
@@ -90,10 +93,10 @@ permalink: /research/
 </style>
 
 <div class="container">
-  <h2>Research</h2>
   <div class="content-wrapper">
     <img src="/assets/images/kirtman_speaking.jpg" alt="Kirtman Speaking">
     <div>
+      <h2>Research</h2>
       <p>Many of our model experiments are performed using the computing facilities on campus. Special thanks to the <a href="https://idsc.miami.edu/">University of Miami Center for Computational Sciences (CCS)</a> for computational support.</p>
     </div>
   </div>
