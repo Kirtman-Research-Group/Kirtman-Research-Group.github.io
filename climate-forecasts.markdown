@@ -45,6 +45,7 @@ permalink: /climate-forecasts/
     color: black;
     margin-bottom: 10px; /* Less padding between title and text/image */
     width: 100%;
+    text-align: center; /* Center the title */
   }
   .nmme-content {
     display: flex;
@@ -194,7 +195,7 @@ permalink: /climate-forecasts/
     display: flex;
     justify-content: center;
     width: 100%;
-    margin-top: 20px; /* Add some space between the text and the image */
+    margin-top: 10px; /* Reduce the space between the text and the image */
   }
   .centered-image img {
     width: 400px; /* Set the desired width */
