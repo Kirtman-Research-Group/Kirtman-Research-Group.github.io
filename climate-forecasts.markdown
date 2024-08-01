@@ -186,9 +186,9 @@ permalink: /climate-forecasts/
   <div class="nmme-title">The North American Multi-Model Ensemble (NMME)</div>
   <div class="nmme-content">
     <div>
-      <p>University of Miami (RSMAS) contributes Community Climate System Model version 4.0 (CCSM4) hindcasts and forecasts to the North American Multi-Model Ensemble (NMME) System for Intra-Seasonal to Inter-Annual (ISI) Predictions.</p>
-      <p>NMME is a multi-model seasonal forecasting system that consists of coupled climate model hindcasts and forecasts from various North American modeling centers, including University of Miami's Rosenstiel School of Marine and Atmospheric Science (RSMAS).</p>
-      <p>For real-time NMME forecasts, data access to hindcasts, and more information, please visit the <a href="https://www.cpc.ncep.noaa.gov/products/NMME/">NMME website</a>.</p>
+      <p>University of Miami (Rosenstiel School) contributes Community Climate System Model version 4.0 (CCSM4) hindcasts and forecasts to the North American Multi-Model Ensemble (NMME) System for Intra-Seasonal to Inter-Annual (ISI) Predictions.</p>
+      <p style="margin-top: 10px; font-size: 14px;">NMME is a multi-model seasonal forecasting system that consists of coupled climate model hindcasts and forecasts from various North American modeling centers, including University of Miami's Rosenstiel School of Marine, Atmospheric and Earth Science.</p>
+      <p style="margin-top: 10px; font-size: 14px;">For real-time NMME forecasts, data access to hindcasts, and more information, please visit the <a href="https://www.cpc.ncep.noaa.gov/products/NMME/">NMME website</a>.</p>
     </div>
     <img src="/assets/images/nmme.jpg" alt="NMME">
   </div>
