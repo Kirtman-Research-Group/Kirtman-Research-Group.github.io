@@ -74,6 +74,10 @@ permalink: /climate-forecasts/
     font-size: 12px;
     color: black;
   }
+  .full-width-text ul {
+    list-style-type: disc;
+    padding-left: 40px; /* Adjust the padding to control indentation */
+  }
   .content-wrapper {
     display: flex;
     align-items: flex-start;
@@ -200,5 +204,9 @@ permalink: /climate-forecasts/
   </div>
   <div class="full-width-text">
     <p>The <a href="https://www.cpc.ncep.noaa.gov/products/NMME/">NMME website</a> includes real-time forecasts of global SST, precipitation and 2-meter temperature, and precipitation and 2-meter temperature over North America for individual models and the full NMME suite on the timescales listed below:</p>
+    <ul>
+      <li><a href="https://www.cpc.ncep.noaa.gov/products/NMME/monanom.shtml">Monthly Climate Anomaly Forecasts</a></li>
+      <li><a href="https://www.cpc.ncep.noaa.gov/products/NMME/seasanom.shtml">Seasonal Climate Anomaly Forecasts</a></li>
+    </ul>
   </div>
 </div>
