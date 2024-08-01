@@ -70,14 +70,15 @@ permalink: /research/
     color: black;
     font-weight: normal;
     margin-top: 5px; /* Less padding between titles */
+    margin-bottom: 5px; /* Reduce padding below h4 */
   }
   .third-container .image-wrapper {
     display: flex;
     justify-content: space-between;
-    margin-top: 20px;
+    margin-top: 10px; /* Reduce margin-top for images */
   }
   .third-container .image-wrapper img {
-    width: 100%; /* Increase image width to take up most of the container */
+    width: 48%; /* Increase image width to take up most of the container */
     height: auto;
   }
   .third-container .image-wrapper p {
@@ -88,7 +89,7 @@ permalink: /research/
   .third-container .description {
     font-size: 14px;
     color: black;
-    margin-top: 20px;
+    margin-top: 10px; /* Reduce margin-top for description */
   }
 </style>
 
