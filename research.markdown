@@ -21,7 +21,7 @@ permalink: /research/
   .page-content h1 {
     display: none; /* Hide the large title */
   }
-  .container, .new-container, .third-container {
+  .container, .new-container, .third-container, .fourth-container {
     background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for better readability */
     padding: 20px;
     border-radius: 8px;
@@ -29,10 +29,10 @@ permalink: /research/
     margin: 20px auto; /* Center the container on the page */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .new-container, .third-container {
+  .new-container, .third-container, .fourth-container {
     margin-top: 20px; /* Add space between containers */
   }
-  .container h2, .new-container h2, .third-container h3 {
+  .container h2, .new-container h2, .third-container h3, .fourth-container h3 {
     font-size: 25px;
     color: black;
     margin-bottom: 10px; /* Smaller distance between title and content */
@@ -78,7 +78,7 @@ permalink: /research/
     margin-top: 1px; /* Reduce margin-top for images */
   }
   .third-container .image-wrapper img {
-    width: 100%; /* Increase image width to take up most of the container */
+    width: 48%; /* Increase image width to take up most of the container */
     height: auto;
   }
   .third-container .image-wrapper p {
@@ -90,6 +90,18 @@ permalink: /research/
     font-size: 14px;
     color: black;
     margin-top: 1px; /* Reduce margin-top for description */
+  }
+  .fourth-container video {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  .fourth-container p {
+    text-align: center;
+    font-size: 10px;
+    color: black;
+    margin-top: 5px;
   }
 </style>
 
@@ -128,4 +140,12 @@ permalink: /research/
   <div class="description">
     <p>One of Dr. Kirtman’s projects is a collaborative effort including scientists from George Mason University and the National Center for Atmospheric Research. The project seeks to understand how ocean eddies impact large-scale climate variability. This requires global climate simulations conducted at resolutions that have never before been attempted. The figures above show a snap shot of the surface current speeds in this high-resolution simulation compared to the typical resolutions used. Capturing the details of these currents has been shown to dramatically affect the global distribution of rainfall.</p>
   </div>
+</div>
+
+<div class="fourth-container">
+  <video controls>
+    <source src="/assets/images/historical_simulation.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p>Here you will find a movie of our historical simulation from 1990-2010. The overall historical simulation is from 1940-2010.</p>
 </div>
