@@ -29,7 +29,7 @@ permalink: /climate-forecasts/
     margin: 20px auto; /* Center the container on the page */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .nmme-container {
+  .nmme-container, .ccsm4-container {
     background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent white background */
     padding: 20px;
     border-radius: 8px;
@@ -40,33 +40,33 @@ permalink: /climate-forecasts/
     flex-direction: column; /* Ensure title is above text and image */
     align-items: flex-start;
   }
-  .nmme-container .nmme-title {
+  .nmme-title, .ccsm4-title {
     font-size: 25px; /* Slightly smaller font size */
     color: black;
     margin-bottom: 10px; /* Less padding between title and text/image */
     width: 100%;
     text-align: center; /* Center the title */
   }
-  .nmme-content {
+  .nmme-content, .ccsm4-content {
     display: flex;
     align-items: flex-start;
     width: 100%;
   }
-  .nmme-content img {
+  .nmme-content img, .ccsm4-content img {
     width: 400px; /* Increased width */
     height: auto;
     margin-left: 20px;
   }
-  .nmme-content p {
+  .nmme-content p, .ccsm4-content p {
     font-size: 12px; /* Smaller font size */
     color: black;
     margin: 0;
   }
-  .nmme-container a {
+  .nmme-container a, .ccsm4-container a {
     color: blue;
     text-decoration: none;
   }
-  .nmme-container a:hover {
+  .nmme-container a:hover, .ccsm4-container a:hover {
     text-decoration: underline;
   }
   .full-width-text {
@@ -224,5 +224,16 @@ permalink: /climate-forecasts/
   </div>
   <div class="centered-image">
     <img src="/assets/images/nmme2.jpg" alt="NMME 2">
+  </div>
+</div>
+
+<div class="ccsm4-container">
+  <div class="ccsm4-title">CCSM4 Southeast US Climate Predictions (Experimental)</div>
+  <div class="ccsm4-content">
+    <div>
+      <p>In addition to NMME, University of Miami (RSMAS) maintains Community Climate System Model version 4.0 (CCSM4) experimental climate forecasts of southeastern US precipitation, 2-meter temperature, horizontal (u) winds, evaporation, runoff, and soil moisture on monthly and seasonal time-scales.</p>
+      <p style="margin-top: 10px; font-size: 12px;">For climate southeastern US CCSM4 climate forecasts, please see the <a href="https://rsmas-ccsm4.weebly.com/">CCSM4 Southeastern US Climate Prediction website.</a></p>
+    </div>
+    <img src="/assets/images/ccsm4.jpg" alt="CCSM4">
   </div>
 </div>
