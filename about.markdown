@@ -234,7 +234,7 @@ permalink: /people/
 <div class="new-container former-container">
   <h2>Former Members</h2>
   <div class="content-wrapper" style="padding-top: 10px;">
-      <img src="/assets/images/simge.jpg" alt="Dr. Simge Bilgen"> 
+      <img src="/assets/images/simge.jpg" alt="Dr. Simge Bilgen" style="width: 150px; height: auto;"> 
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Simge Bilgen</h1>
           <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:sbilgen@rsmas.miami.edu">sbilgen@rsmas.miami.edu</a></p>
@@ -273,7 +273,7 @@ permalink: /people/
       <img src="/assets/images/kelsey.jpg" alt="Dr. Kelsey Malloy" style="width: 150px; height: auto;">
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Kelsey Malloy</h1>
-          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:kelsey.malloy@earth.miami.edu">Dr. Kelsey Malloy</a></p>
+          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:kelsey.malloy@earth.miami.edu">kelsey.malloy@earth.miami.edu</a></p>
           <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Postdoctoral Research Scientist at Columbia University working with Dr. Mike Tippett on S2S predictability of severe convective storm risk and how that might be impacted by climate change.</p>
           <p style="margin-top: 10px; font-size: 14px;">PhD Work: My research focused on subseasonal-to-seasonal (S2S) predictability of U.S. summer hydroclimate through understanding large-scale dynamical influences on the Great Plains low-level jet.</p>
       </div>
@@ -283,7 +283,7 @@ permalink: /people/
       <img src="/assets/images/natalie.jpg" alt="Dr. Natalie Perlin" style="width: 150px; height: auto;">
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Natalie Perlin</h1>
-          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:perlin.natalie@gmail.com">Dr. Natalie Perlin</a></p>
+          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:perlin.natalie@gmail.com">perlin.natalie@gmail.com</a></p>
           <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Sr. Systems Engineer, RedLine Performance Solutions, LLC. Working on NOAA's Earth Prediction Innovation Center (EPIC) project.</p>
           <p style="margin-top: 10px; font-size: 14px;">Natalie has been an instructor and presenter in AGU Short Course and Workshop 2022, AMS 2023, and Unified Innovation in Forecast Capabilities Workshop (UIFCW) 2023, for running UFS SRW Application on cloud platforms, using software containers for running the UFS SRW Applications, running UFS LandDA-offline containerized application.</p>
           <p style="margin-top: 10px; font-size: 14px;">RSMAS Work: My research focused on climate studies with the Interactive Ensemble (IE) approach applications. Multi-century global simulations with the implemented IE allow highlighting the climate signal in the atmospheric teleconnections, such as ENSO and the Pacific Decadal Oscillations (PDO). Additionally, multiples realizations of the atmosphere coupled to a single ocean offer insights into the different possibilities of tropical waves and depressions developing over the identical ocean state, under the stable climate or with the anthropogenic CO2 forcing scenarios.</p>
@@ -330,7 +330,7 @@ permalink: /people/
       <img src="/assets/images/breanna.jpg" alt="Dr. Breanna Zavadoff" style="width: 150px; height: auto;">
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Breanna Zavadoff</h1>
-          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:b.zavadoff@gmail.com">Dr. Breanna Zavadoff</a></p>
+          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:b.zavadoff@gmail.com">b.zavadoff@gmail.com</a></p>
           <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Assistant Scientist at CIMAS</p>
           <p style="margin-top: 10px; font-size: 14px;">PhD work: One portion of my research encompassed studying the modulation of summertime North Atlantic anticyclonic Rossby wave breaking variability by the Pacific Decadal Oscillation. An additional part of my research focused on Atmospheric Rivers impacting Western Europe and how they are influenced dynamically through features such as anticyclonic Rossby wave breaking as well as thermodynamically in a changing climate.</p>
       </div>
