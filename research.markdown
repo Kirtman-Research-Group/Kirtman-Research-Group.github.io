@@ -50,7 +50,7 @@ permalink: /research/
   }
   .content-wrapper img {
     margin-right: 20px;
-    width: 250px;
+    width: 125px; /* Half the original width */
     height: auto;
   }
   .content-wrapper div {
