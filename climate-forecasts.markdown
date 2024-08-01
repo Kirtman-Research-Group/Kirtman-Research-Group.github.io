@@ -25,7 +25,7 @@ permalink: /climate-forecasts/
     background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for better readability */
     padding: 20px;
     border-radius: 8px;
-    max-width: 1200px; /* Increase the max-width to make the container wider */
+    max-width: 800px;
     margin: 20px auto; /* Center the container on the page */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
@@ -41,9 +41,9 @@ permalink: /climate-forecasts/
     align-items: flex-start;
   }
   .nmme-container .nmme-title {
-    font-size: 32px;
+    font-size: 28px; /* Slightly smaller font size */
     color: black;
-    margin-bottom: 20px;
+    margin-bottom: 10px; /* Less padding between title and text/image */
     width: 100%;
   }
   .nmme-content {
