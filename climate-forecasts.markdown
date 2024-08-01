@@ -207,6 +207,9 @@ permalink: /climate-forecasts/
     <ul>
       <li><a href="https://www.cpc.ncep.noaa.gov/products/NMME/monanom.shtml">Monthly Climate Anomaly Forecasts</a></li>
       <li><a href="https://www.cpc.ncep.noaa.gov/products/NMME/seasanom.shtml">Seasonal Climate Anomaly Forecasts</a></li>
+    <p style="margin-top: 10px;"> A description of the NMME system is provided <a href="https://www.cpc.ncep.noaa.gov/products/NMME/NMME_description.html">here.</a> </p>
+    <p style="margin-top: 10px;"> Data access for hindcasts and real-time forecasts for all individual models and NMME ensemble mean is provided <a href="https://www.cpc.ncep.noaa.gov/products/NMME/data.html">here.</a> </p>
+
     </ul>
   </div>
 </div>
