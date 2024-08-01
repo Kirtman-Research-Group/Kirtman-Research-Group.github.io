@@ -68,6 +68,12 @@ permalink: /climate-forecasts/
   .nmme-container a:hover {
     text-decoration: underline;
   }
+  .full-width-text {
+    width: 100%;
+    margin-top: 20px; /* Add some space between the sections */
+    font-size: 12px;
+    color: black;
+  }
   .content-wrapper {
     display: flex;
     align-items: flex-start;
@@ -191,5 +197,8 @@ permalink: /climate-forecasts/
       <p style="margin-top: 10px">For real-time NMME forecasts, data access to hindcasts, and more information, please visit the <a href="https://www.cpc.ncep.noaa.gov/products/NMME/">NMME website</a>.</p>
     </div>
     <img src="/assets/images/nmme.jpg" alt="NMME">
+  </div>
+  <div class="full-width-text">
+    <p>The <a href="https://www.cpc.ncep.noaa.gov/products/NMME/">NMME website</a> includes real-time forecasts of global SST, precipitation and 2-meter temperature, and precipitation and 2-meter temperature over North America for individual models and the full NMME suite on the timescales listed below:</p>
   </div>
 </div>
