@@ -78,7 +78,7 @@ permalink: /research/
     margin-top: 1px; /* Reduce margin-top for images */
   }
   .third-container .image-wrapper img, .fifth-container .image-wrapper img {
-    width: 100%; /* Increase image width to take up most of the container */
+    width: 48%; /* Adjust width to take up entire container */
     height: auto;
   }
   .third-container .image-wrapper p, .fifth-container .image-wrapper p {
@@ -155,5 +155,15 @@ permalink: /research/
   <h4>North American Multi-Model Ensemble (NMME)</h4>
   <div class="description">
     <p>Dr. Kirtman’s research group is also leading an effort to develop a US National Multi-Model Ensemble prediction system for intraseasonal-to-interannual prediction. The figure on the bottom right shows the forecast skill (as measured by the correlation between the predictions and observations. The bottom left shows the forecast skill for global sea surface temperatures. The new prediction system has considerable skill in the southern tier of the US and is being used to understand the mechanisms for persistent drought and the limits of predictability. <a href="https://benkirtman.weebly.com/climate-forecasts.html">See more about the NMME here</a> and <a href="https://cpo.noaa.gov/tag/nmme/">here</a>.</p>
+  </div>
+  <div class="image-wrapper">
+    <div>
+      <img src="/assets/images/nmme_precip.jpg" alt="NMME Precipitation Correlation">
+      <p>6-month lead precipitation correlation</p>
+    </div>
+    <div>
+      <img src="/assets/images/nmme_ssta.jpg" alt="NMME SSTA Correlation">
+      <p>6-month lead SSTA correlation</p>
+    </div>
   </div>
 </div>
