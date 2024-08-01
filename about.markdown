@@ -268,4 +268,144 @@ permalink: /people/
           <p style="margin-top: 10px; font-size: 14px;">Previous Work: Predictability of North American and European heat waves.</p>
       </div>
   </div>
+    <hr style="border: 1px solid black; margin: 20px 0;">
+    <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/kelsey.jpg" alt="Dr. Kelsey Malloy" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Kelsey Malloy</h1>
+          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:kelsey.malloy@earth.miami.edu">Dr. Kelsey Malloy</a></p>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Postdoctoral Research Scientist at Columbia University working with Dr. Mike Tippett on S2S predictability of severe convective storm risk and how that might be impacted by climate change.</p>
+          <p style="margin-top: 10px; font-size: 14px;">PhD Work: My research focused on subseasonal-to-seasonal (S2S) predictability of U.S. summer hydroclimate through understanding large-scale dynamical influences on the Great Plains low-level jet.</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/natalie.jpg" alt="Dr. Natalie Perlin" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Natalie Perlin</h1>
+          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:perlin.natalie@gmail.com">Dr. Natalie Perlin</a></p>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Sr. Systems Engineer, RedLine Performance Solutions, LLC. Working on NOAA's Earth Prediction Innovation Center (EPIC) project.</p>
+          <p style="margin-top: 10px; font-size: 14px;">Natalie has been an instructor and presenter in AGU Short Course and Workshop 2022, AMS 2023, and Unified Innovation in Forecast Capabilities Workshop (UIFCW) 2023, for running UFS SRW Application on cloud platforms, using software containers for running the UFS SRW Applications, running UFS LandDA-offline containerized application.</p>
+          <p style="margin-top: 10px; font-size: 14px;">RSMAS Work: My research focused on climate studies with the Interactive Ensemble (IE) approach applications. Multi-century global simulations with the implemented IE allow highlighting the climate signal in the atmospheric teleconnections, such as ENSO and the Pacific Decadal Oscillations (PDO). Additionally, multiples realizations of the atmosphere coupled to a single ocean offer insights into the different possibilities of tropical waves and depressions developing over the identical ocean state, under the stable climate or with the anthropogenic CO2 forcing scenarios.</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/kurt.jpg" alt="Dr. Kurt Hansen" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Kurt Hansen</h1>
+          <p style="margin-top: 10px; font-size: 14px;">​​Current Affiliation: Postdoctoral Research Associate at the Naval Research Laboratory in Monterey, CA. He will be working on machine learning and subseasonal TC prediction under Matthew Janiga.</p>
+          <p style="margin-top: 10px; font-size: 14px;">​​PhD work: explores sources of subseasonal predictability of Atlantic Tropical Cyclones.</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/marybeth.jpg" alt="Dr. Marybeth Arcodia" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Marybeth Arcodia</h1>
+          <p style="margin-top: 10px; font-size: 14px;">​​Current Affiliation: Postdoctoral Research Associate at Colorado State University working with Dr. Libby Barnes, using explainable machine learning techniques to better understand the Earth's predictability on subseasonal to decadal timescales.</p>
+          <p style="margin-top: 10px; font-size: 14px;">PhD work: using observations and a collection of climate models to study how MJO and ENSO teleconnections impact U.S. weather on subseasonal timescales, with a focus on extreme precipitation events.</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/wei.jpg" alt="Dr. Wei Zhang" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Wei Zhang</h1>
+          <p style="margin-top: 10px; font-size: 14px;">​​Current Affiliation: Postdoctoral Research Associate at Princeton University/GFDL</p>
+          <p style="margin-top: 10px; font-size: 14px;">PhD work: My research focused on using statistics and climate models to investigate the variability and predictability of the climate system over a decadal time scale.</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/sam.jpg" alt="Dr. Samantha Kramer" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Samantha Kramer</h1>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Air Quality Data Scientist at Sonoma Technology in Petaluma, CA.</p>
+          <p style="margin-top: 10px; font-size: 14px;">PhD work: My research focused on Saharan dust transport to Miami, Florida. </p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/breanna.jpg" alt="Dr. Breanna Zavadoff" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Breanna Zavadoff</h1>
+          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:b.zavadoff@gmail.com">Dr. Breanna Zavadoff</a></p>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Assistant Scientist at CIMAS</p>
+          <p style="margin-top: 10px; font-size: 14px;">PhD work: One portion of my research encompassed studying the modulation of summertime North Atlantic anticyclonic Rossby wave breaking variability by the Pacific Decadal Oscillation. An additional part of my research focused on Atmospheric Rivers impacting Western Europe and how they are influenced dynamically through features such as anticyclonic Rossby wave breaking as well as thermodynamically in a changing climate.</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/johnna.jpg" alt="Dr. Johnna Infanti" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Johnna Infanti</h1>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Meteorologist in the Operational Prediction Branch at NOAAs Climate Prediction Center (CPC).</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/ray.jpg" alt="Dr. Ray Bell" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Ray Bell (Postdoc)</h1>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Data Scientist Manager at DTN - leading a team working on weather data science products.</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/diane.jpg" alt="Dr. Diane Palko" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Diane Palko</h1>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Info coming soon! </p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/gino.jpg" alt="Dr. Gino Chen" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Gino Chen</h1>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Working at Hewlett Packard Enterprise as a software developer. Also working on his own software company.</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/yu.jpg" alt="Dr. Yu Cheng" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr.​ Yu Cheng (PhD Student co-advised with Dr. Lisa Beal)</h1>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Working as a Sr. Data Scientist with SFL Scientific - a consulting role, focusing on strategizing and implementing AI/ML solutions for clients.</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/sarah.jpg" alt="Dr. Sarah Larson" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Sarah Larson</h1>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Assistant Professor Dept. of Marine, Earth, & Atmospheric Sciences​​, North Carolina State University</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/eunsil.jpg" alt="Dr. Eunsil Jung" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Eunsil Jung (Postdoc)</h1>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Info coming soon!</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/dian.jpg" alt="Dr. Dian Putrasahan (Postdoc)" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Dian Putrasahan</h1>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Research Scientist Max-Planck Institut für Meteorologie, Hamburg, Germany</p>
+      </div>
+  </div>
+      <hr style="border: 1px solid black; margin: 20px 0;">
+      <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/hosmay.jpg" alt="Dr. Hosmay Lopez" style="width: 150px; height: auto;">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Hosmay Lopez</h1>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Assistant Scientist Cooperative Institute for Marine and Atmospheric Studies, University of Miami NOAA/AOML/PHOD</p>
+      </div>
+  </div>
+  
 </div>
