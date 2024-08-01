@@ -77,7 +77,7 @@ permalink: /research/
     margin-top: 20px;
   }
   .third-container .image-wrapper img {
-    width: 70%; /* Increase image width to take up most of the container */
+    width: 100%; /* Increase image width to take up most of the container */
     height: auto;
   }
   .third-container .image-wrapper p {
