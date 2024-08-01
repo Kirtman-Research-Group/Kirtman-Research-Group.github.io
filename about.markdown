@@ -241,4 +241,14 @@ permalink: /people/
           <p style="margin-top: 10px; font-size: 14px;">PhD Work: My research focused on the role of ocean eddies in climate variability and change. I used climate models and observation to investigate the delayed warming of the Southern Ocean.</p>
       </div>
   </div>
+  <hr style="border: 1px solid black; margin: 20px 0;">
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/kayla.jpg" alt="Dr. Kayla Besong">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Kayla Besong</h1>
+          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:kbesong@sonomatech.com">kbesong@sonomatech.com</a></p>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Air Quality Data Scientist at Sonoma Technology in Petaluma, CA.</p>
+          <p style="margin-top: 10px; font-size: 14px;">PhD Work: My research focused on the impact of climate change on ocean currents. I developed models to predict future changes in ocean circulation patterns.</p>
+      </div>
+  </div>
 </div>
