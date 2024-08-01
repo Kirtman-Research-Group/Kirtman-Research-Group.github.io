@@ -21,7 +21,7 @@ permalink: /research/
   .page-content h1 {
     display: none; /* Hide the large title */
   }
-  .container, .new-container, .third-container, .fourth-container {
+  .container, .new-container, .third-container, .fourth-container, .fifth-container {
     background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for better readability */
     padding: 20px;
     border-radius: 8px;
@@ -29,10 +29,10 @@ permalink: /research/
     margin: 20px auto; /* Center the container on the page */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .new-container, .third-container, .fourth-container {
+  .new-container, .third-container, .fourth-container, .fifth-container {
     margin-top: 20px; /* Add space between containers */
   }
-  .container h2, .new-container h2, .third-container h3, .fourth-container h3 {
+  .container h2, .new-container h2, .third-container h3, .fourth-container h3, .fifth-container h3 {
     font-size: 25px;
     color: black;
     margin-bottom: 10px; /* Smaller distance between title and content */
@@ -65,28 +65,28 @@ permalink: /research/
   .content-wrapper p a:hover {
     text-decoration: underline;
   }
-  .third-container h4 {
+  .third-container h4, .fifth-container h4 {
     font-size: 20px;
     color: black;
     font-weight: normal;
     margin-top: 1px; /* Less padding between titles */
     margin-bottom: 1px; /* Reduce padding below h4 */
   }
-  .third-container .image-wrapper {
+  .third-container .image-wrapper, .fifth-container .image-wrapper {
     display: flex;
     justify-content: space-between;
     margin-top: 1px; /* Reduce margin-top for images */
   }
-  .third-container .image-wrapper img {
+  .third-container .image-wrapper img, .fifth-container .image-wrapper img {
     width: 100%; /* Increase image width to take up most of the container */
     height: auto;
   }
-  .third-container .image-wrapper p {
+  .third-container .image-wrapper p, .fifth-container .image-wrapper p {
     text-align: center;
     font-size: 10px;
     margin-top: 1px;
   }
-  .third-container .description {
+  .third-container .description, .fifth-container .description {
     font-size: 14px;
     color: black;
     margin-top: 1px; /* Reduce margin-top for description */
@@ -99,7 +99,7 @@ permalink: /research/
   }
   .fourth-container p {
     text-align: center;
-    font-size: 12px;
+    font-size: 10px;
     color: black;
     margin-top: 5px;
   }
@@ -148,4 +148,12 @@ permalink: /research/
     Your browser does not support the video tag.
   </video>
   <p>Here you will find a movie of our historical simulation from 1990-2010. The overall historical simulation is from 1940-2010.</p>
+</div>
+
+<div class="fifth-container">
+  <h3>Seasonal Climate Prediction</h3>
+  <h4>North American Multi-Model Ensemble (NMME)</h4>
+  <div class="description">
+    <p>Dr. Kirtman’s research group is also leading an effort to develop a US National Multi-Model Ensemble prediction system for intraseasonal-to-interannual prediction. The figure on the bottom right shows the forecast skill (as measured by the correlation between the predictions and observations. The bottom left shows the forecast skill for global sea surface temperatures. The new prediction system has considerable skill in the southern tier of the US and is being used to understand the mechanisms for persistent drought and the limits of predictability. <a href="https://benkirtman.weebly.com/climate-forecasts.html">See more about the NMME here</a> and <a href="https://cpo.noaa.gov/tag/nmme/">here</a>.</p>
+  </div>
 </div>
