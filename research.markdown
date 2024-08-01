@@ -21,7 +21,7 @@ permalink: /research/
   .page-content h1 {
     display: none; /* Hide the large title */
   }
-  .container {
+  .container, .new-container, .third-container {
     background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for better readability */
     padding: 20px;
     border-radius: 8px;
@@ -29,16 +29,10 @@ permalink: /research/
     margin: 20px auto; /* Center the container on the page */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .new-container {
-    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for better readability */
-    padding: 20px;
-    border-radius: 8px;
-    max-width: 800px;
-    margin: 20px auto; /* Center the container on the page */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  .new-container, .third-container {
     margin-top: 20px; /* Add space between containers */
   }
-  .container h2, .new-container h2 {
+  .container h2, .new-container h2, .third-container h2 {
     font-size: 25px;
     color: black;
     margin-bottom: 10px; /* Smaller distance between title and content */
@@ -68,6 +62,37 @@ permalink: /research/
   .content-wrapper p a:hover {
     text-decoration: underline;
   }
+  .third-container h3 {
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    margin: 0;
+  }
+  .third-container h4 {
+    font-size: 20px;
+    color: black;
+    font-weight: normal;
+    margin-top: 10px;
+  }
+  .third-container .image-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  .third-container .image-wrapper img {
+    width: 49%; /* Make images take half of the container's width */
+    height: auto;
+  }
+  .third-container .image-wrapper p {
+    text-align: center;
+    font-size: 10px;
+    margin-top: 5px;
+  }
+  .third-container .description {
+    font-size: 14px;
+    color: black;
+    margin-top: 20px;
+  }
 </style>
 
 <div class="container">
@@ -86,5 +111,23 @@ permalink: /research/
     <div>
       <p>Dr. Kirtman’s research is a wide-ranging program designed to understand and quantify the limits of climate predictability from days to decades. The research also involves understanding how the climate will change in response to changes in anthropogenic (e.g., greenhouse gases) and natural (e.g., volcanoes) forcing. This research involves hypothesis testing numerical experiments using sophisticated state-of-the-art climate models and experimental real-time prediction. The group uses and has access to a suite of climate models, climate data and high performance computational platforms. Some results from various projects are briefly summarized here.</p>
     </div>
+  </div>
+</div>
+
+<div class="third-container">
+  <h3>Ocean Eddies and Large-Scale Climate Variability</h3>
+  <h4>The importance of model resolution.</h4>
+  <div class="image-wrapper">
+    <div>
+      <img src="/assets/images/hi_res.jpg" alt="High Resolution">
+      <p>High Resolution</p>
+    </div>
+    <div>
+      <img src="/assets/images/low_res.jpg" alt="Low Resolution">
+      <p>Low Resolution</p>
+    </div>
+  </div>
+  <div class="description">
+    <p>One of Dr. Kirtman’s projects is a collaborative effort including scientists from George Mason University and the National Center for Atmospheric Research. The project seeks to understand how ocean eddies impact large-scale climate variability. This requires global climate simulations conducted at resolutions that have never before been attempted. The figures above show a snap shot of the surface current speeds in this high-resolution simulation compared to the typical resolutions used. Capturing the details of these currents has been shown to dramatically affect the global distribution of rainfall.</p>
   </div>
 </div>
