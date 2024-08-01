@@ -32,11 +32,17 @@ permalink: /research/
   .new-container, .third-container {
     margin-top: 20px; /* Add space between containers */
   }
-  .container h2, .new-container h2, .third-container h2 {
+  .container h2, .new-container h2, .third-container h3 {
     font-size: 25px;
     color: black;
     margin-bottom: 10px; /* Smaller distance between title and content */
     font-weight: bold;
+  }
+  .third-container h4 {
+    font-size: 20px;
+    color: black;
+    font-weight: normal;
+    margin-top: 5px; /* Less padding between titles */
   }
   .content-wrapper {
     display: flex;
@@ -62,25 +68,13 @@ permalink: /research/
   .content-wrapper p a:hover {
     text-decoration: underline;
   }
-  .third-container h3 {
-    font-size: 25px;
-    color: black;
-    font-weight: bold;
-    margin: 0;
-  }
-  .third-container h4 {
-    font-size: 20px;
-    color: black;
-    font-weight: normal;
-    margin-top: 10px;
-  }
   .third-container .image-wrapper {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
   }
   .third-container .image-wrapper img {
-    width: 49%; /* Make images take half of the container's width */
+    width: 48%; /* Increase image width to take up most of the container */
     height: auto;
   }
   .third-container .image-wrapper p {
