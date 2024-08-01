@@ -46,7 +46,7 @@ permalink: /climate-forecasts/
     flex-basis: 100%;
   }
   .nmme-container img {
-    width: 250px;
+    width: 350px; /* Increased width */
     height: auto;
     margin-left: 20px;
   }
