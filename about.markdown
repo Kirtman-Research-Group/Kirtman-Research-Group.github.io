@@ -230,3 +230,15 @@ permalink: /people/
       </div>
   </div>
 </div>
+
+<div class="new-container former-container">
+  <h2>Former Members</h2>
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/simge.jpg" alt="Dr. Simge Bilgen">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Dr. Simge Bilgen</h1>
+          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:sbilgen@rsmas.miami.edu">sbilgen@rsmas.miami.edu</a></p>
+          <p style="margin-top: 10px; font-size: 14px;">PhD Work: My research focused on the role of ocean eddies in climate variability and change. I used climate models and observation to investigate the delayed warming of the Southern Ocean.</p>
+      </div>
+  </div>
+</div>
