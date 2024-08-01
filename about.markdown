@@ -251,4 +251,21 @@ permalink: /people/
           <p style="margin-top: 10px; font-size: 14px;">PhD Work: My research focused on the impact of climate change on ocean currents. I developed models to predict future changes in ocean circulation patterns.</p>
       </div>
   </div>
+  <hr style="border: 1px solid black; margin: 20px 0;">
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/patrick.jpg" alt="Patrick Barrett">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Patrick Barrett</h1>
+          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:pbarrett.business@gmail.com">pbarrett.business@gmail.com</a></p>
+          <p style="margin-top: 10px; font-size: 14px;">Masters Work: looked at the impact of NAO, ENSO, and PDO on extreme precipitation across the North American region in observational data and climate forecast models.</p>
+      </div>
+  </div>
+  <hr style="border: 1px solid black; margin: 20px 0;">
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <img src="/assets/images/szandra.jpg" alt="Szandra Peter">
+      <div>
+          <h1 style="font-size: 24px; font-weight: bold;">Szandra Peter</h1>
+          <p style="margin-top: 10px; font-size: 14px;">Previous Work: Predictability of North American and European heat waves.</p>
+      </div>
+  </div>
 </div>
