@@ -237,4 +237,7 @@ permalink: /climate-forecasts/
     </div>
     <img src="/assets/images/ccsm4.jpg" alt="CCSM4">
   </div>
+  <div class="centered-image">
+    <img src="/assets/images/ccsm42.jpg" alt="CCSM4 2">
+  </div>
 </div>
