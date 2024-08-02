@@ -75,13 +75,13 @@ permalink: /research/
     margin-top: 1px; /* Less padding between titles */
     margin-bottom: 1px; /* Reduce padding below h4 */
   }
-  .third-container .image-wrapper, .fifth-container .image-wrapper {
+  .third-container .image-wrapper, .fifth-container .image-wrapper, .final-container .image-wrapper {
     display: flex;
     justify-content: space-between;
     margin-top: 1px; /* Reduce margin-top for images */
   }
-  .third-container .image-wrapper img, .fifth-container .image-wrapper img {
-    width: 100%; /* Adjust width to take up entire container */
+  .third-container .image-wrapper img, .fifth-container .image-wrapper img, .final-container .image-wrapper img {
+    width: 48%; /* Adjust width to take up half the container */
     height: auto;
   }
   .third-container .image-wrapper p, .fifth-container .image-wrapper p {
@@ -112,7 +112,7 @@ permalink: /research/
     margin-top: 10px;
   }
   .final-container .image-wrapper img {
-    width: 100%; /* Adjust width for two side by side images */
+    width: 48%; /* Adjust width for two side by side images */
     height: auto;
   }
   .final-container .full-width-image img {
