@@ -41,24 +41,24 @@ permalink: /research/
     margin-bottom: 10px; /* Smaller distance between title and content */
     font-weight: bold;
   }
-  .container .content-wrapper {
+  .content-wrapper {
     display: flex;
     align-items: flex-start;
   }
-  .container .content-wrapper img {
+  .content-wrapper img {
     margin-right: 20px;
-    width: 125px; /* Half the original width */
+    width: 125px;
     height: auto;
   }
-  .container .content-wrapper div {
+  .content-wrapper div {
     flex: 1;
   }
-  .container .content-wrapper div h2 {
+  .content-wrapper div h2 {
     margin-top: 0;
   }
   .content-wrapper p {
     margin: 0;
-    font-size: 14px; /* Smaller font size for all lines except the first */
+    font-size: 14px;
     color: black;
   }
   .content-wrapper p a {
@@ -72,16 +72,16 @@ permalink: /research/
     font-size: 20px;
     color: black;
     font-weight: normal;
-    margin-top: 1px; /* Less padding between titles */
-    margin-bottom: 1px; /* Reduce padding below h4 */
+    margin-top: 1px;
+    margin-bottom: 1px;
   }
   .third-container .image-wrapper, .fifth-container .image-wrapper, .final-container .image-wrapper {
     display: flex;
     justify-content: space-between;
-    margin-top: 1px; /* Reduce margin-top for images */
+    margin-top: 1px;
   }
   .third-container .image-wrapper img, .fifth-container .image-wrapper img, .final-container .image-wrapper img {
-    width: 100%; /* Adjust width to take up half the container */
+    width: 48%;
     height: auto;
   }
   .third-container .image-wrapper p, .fifth-container .image-wrapper p {
@@ -92,7 +92,7 @@ permalink: /research/
   .third-container .description, .fifth-container .description {
     font-size: 14px;
     color: black;
-    margin-top: 1px; /* Reduce margin-top for description */
+    margin-top: 1px;
   }
   .fourth-container video {
     width: 100%;
@@ -112,7 +112,7 @@ permalink: /research/
     margin-top: 10px;
   }
   .final-container .image-wrapper img {
-    width: 100%; /* Adjust width for two side by side images */
+    width: 48%;
     height: auto;
   }
   .final-container .full-width-image img {
