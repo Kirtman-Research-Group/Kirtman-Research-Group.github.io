@@ -2,13 +2,18 @@
 
 /* Header */
 .site-header {
-  border-bottom: none !important; /* Remove any border-bottom */
-  box-shadow: none !important; /* Remove any box-shadow */
+  border-bottom: none !important; /* Ensure no border at the bottom of the header */
+  box-shadow: none !important; /* Ensure no shadow at the bottom of the header */
 }
 
 /* Footer */
 .site-footer {
-  border-top: none !important; /* Remove any border-top */
-  box-shadow: none !important; /* Remove any box-shadow */
+  border-top: none !important; /* Ensure no border at the top of the footer */
+  box-shadow: none !important; /* Ensure no shadow at the top of the footer */
 }
 
+/* Additional tweaks for potential lines */
+.wrapper {
+  border: none !important; /* Remove any border on wrapper elements */
+  box-shadow: none !important; /* Remove any shadow on wrapper elements */
+}
