@@ -148,6 +148,16 @@ permalink: /news/
 </style>
 
 <div class="new-container former-container">
+  <h2>2024</h2>
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://idsc.miami.edu/magazine/spring-2024/dr-ben-kirtman-honored-as-2023-agu-fellow/">
+          <img src="/assets/images/ben_agu.jpg" alt="Ben AGU" style="width: 300px; height: auto;">
+      </a>
+      <div>
+  </div>
+
+
+<div class="new-container former-container">
   <h2>2023</h2>
   <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://idsc.miami.edu/magazine/spring-2024/dr-ben-kirtman-honored-as-2023-agu-fellow/">
@@ -173,6 +183,15 @@ permalink: /news/
       </a>
       <div>
           <p style="margin-top: 10px; font-size: 14px;">Ben was a speaker at the South Florida Regional Climate Leadership Summit, which was a 2-day regional event hosted by the Southeast Florida Regional Climate Change Compact. The purpose of this event was to share knowledge, showcase climate action, engage leadership across sectors, and mobilize the collaboration needed to tackle the significant challenges of a changing climate. To learn more about the event and the previous speakers, click on the image.</p>
+      </div>
+  </div>
+  <hr style="border: 1px solid black; margin: 20px 0;">
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://www.wlrn.org/environment/2024-01-23/university-of-miami-panel-climate-change-solutions">
+          <img src="/assets/images/climatecafe.jpg" alt="climatecafe" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">In January, Ben was included on a panel of South Florida scientists for the University of Miami's Rosenstiel School's Climate Cafe Series. The panelists discussed the state of South Florida in current and future climate scenarios. Click on the image to access the article.</p>
       </div>
   </div>
 </div>
