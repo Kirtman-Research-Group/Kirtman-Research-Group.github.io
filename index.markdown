@@ -12,7 +12,7 @@ layout: home
     font-family: 'Arial', sans-serif; /* Default font for the page */
   }
   .navbar {
-    margin-bottom: 1;
+    margin-bottom: 0; /* Ensure no margin-bottom */
   }
   .page-content {
     padding-top: 0; /* Remove any top padding */
@@ -28,9 +28,11 @@ layout: home
   }
   header, .content {
     border: none;
+    margin: 0;
+    padding: 0;
   }
   nav {
-    border-bottom: 2px solid #ffffff; /* Adding the white line under the tabs */
+    border-bottom: 1px solid #ffffff; /* Reduce the thickness of the white line */
   }
   .main-container {
     margin: 0;
@@ -99,6 +101,7 @@ layout: home
     color: black;
   }
 </style>
+
 
 <div class="main-container">
   <div class="content-container" style="display: flex;">
