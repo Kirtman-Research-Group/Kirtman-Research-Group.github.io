@@ -179,7 +179,7 @@ permalink: /publications/
         </a>
         <div class="divider"></div>
         <a href="https://www.sciencedirect.com/science/article/pii/S0098300421002612?via%3Dihub" target="_blank">
-          Mabel C. Costa, Nobre, P., Oke, P., Schiller, A., <span class="underline">Siqueira L. S. P.</span>, Castelão, G. P. (2022), The Spectral Diagram as a new tool for model assessment in the frequency domain: Application to a global ocean general circulation model with tides. Computers & Geosciences.
+          Mabel C. Costa, Nobre, P., Oke, P., Schiller, A., <span class="underline">Siqueira L. S. P.</span>, Castelão, G. P. (2021), The Spectral Diagram as a new tool for model assessment in the frequency domain: Application to a global ocean general circulation model with tides. Computers & Geosciences.
         </a>
         <div class="divider"></div>
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL096709?af=R&utm_campaign=RESR_MRKT_Researcher_inbound&utm_medium=referral&sid=researcher&utm_source=researcher_app" target="_blank">
@@ -198,6 +198,45 @@ permalink: /publications/
           Joh, Y., Di Lorenzo, E., <span class="underline">Siqueira, L.</span>, and <span class="bold">Kirtman, B.</span> (2021). Enhanced interactions of Kuroshio Extension with tropical Pacific in a changing climate. Nature Science Reports, 11, 6247.
         </a>
       </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="sub-container">
+    <div class="year-title">2020</div>
+    <div class="publication-text">
+      <a href="https://repository.library.noaa.gov/view/noaa/60458" target="_blank">
+        <span class="underline">Hansen, K. A.</span>, Majumdar, S.J., &amp; <span class="bold">Kirtman, B. P.</span> (2020). Identifying Subseasonal Variability Relevant to Atlantic Tropical Cyclone Activity. Weather and Forecasting, 1-64.
+      </a>
+      <div class="divider"></div>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1463500320301621" target="_blank">
+        <span class="underline">Perlin, N.</span>, Kamenkovich, I., Gao, Y., &amp; <span class="bold">Kirtman, B. P.</span> (2020). A study of mesoscale air-sea interaction in the Southern Ocean with a regional coupled model. Ocean Modelling, 101660.
+      </a>
+      <div class="divider"></div>
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019EA000725" target="_blank">
+        <span class="underline">Infanti, J. M.</span>, <span class="bold">Kirtman, B. P.</span>, Aumen, N. G., Stamm, J., &amp; Polsky, C. (2020) Aligning Climate Models with Stakeholder Needs: Advances in Communicating Future Rainfall Uncertainties for South Florida Decision Makers. Earth and Space Science, e2019EA000725.
+      </a>
+      <div class="divider"></div>
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087408" target="_blank">
+        <span class="underline">Becker, E.</span>, <span class="bold">Kirtman, B. P.</span>, &amp; Pegion, K. (2020). Evolution of the North American Multi‐Model Ensemble. Geophysical Research Letters, 47(9), e2020GL087408.
+      </a>
+      <div class="divider"></div>
+      <a href="https://repository.library.noaa.gov/view/noaa/28716" target="_blank">
+        <span class="underline">Arcodia, M. C.</span>, <span class="bold">Kirtman, B. P.</span>, &amp; <span class="underline">Siqueira, L. S.</span> (2020). How MJO teleconnections and ENSO interference impacts US precipitation. Journal of Climate, 33(11), 4621-4640.
+      </a>
+      <div class="divider"></div>
+      <a href="https://journals.ametsoc.org/view/journals/clim/33/10/jcli-d-19-0601.1.xml" target="_blank">
+        <span class="underline">Zavadoff, B. L.</span>, &amp; <span class="bold">Kirtman, B. P.</span> (2020). Dynamic and Thermodynamic Modulators of European Atmospheric Rivers. Journal of Climate, 33(10), 4167-4185.
+      </a>
+      <div class="divider"></div>
+      <a href="https://journals.ametsoc.org/view/journals/wefo/35/1/waf-d-19-0103.1.xml" target="_blank">
+        <span class="underline">Malloy, K. M.</span>, &amp; <span class="bold">Kirtman, B. P.</span> (2020). Predictability of midsummer Great Plains low-level jet and associated precipitation. Weather and Forecasting, 35(1), 215-235.
+      </a>
+      <div class="divider"></div>
+      <a href="https://journals.ametsoc.org/view/journals/bams/101/5/bams-d-18-0326.1.xml" target="_blank">
+        Mariotti, A., Baggett, C., Barnes, E. A., <span class="underline">Becker, E.</span>, Butler, A., Collins, D. C., ... &amp; <span class="bold">Kirtman, B. P.</span> (2020). Windows of Opportunity for Skillful Forecasts Subseasonal to Seasonal and Beyond. Bulletin of the American Meteorological Society, (2020).
+      </a>
     </div>
   </div>
 </div>
