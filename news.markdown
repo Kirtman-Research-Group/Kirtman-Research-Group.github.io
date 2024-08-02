@@ -88,7 +88,7 @@ permalink: /news/
   <div class="divider"></div>
   <div class="sub-container">
     <a href="https://www.foxweather.com/watch/play-6f2936e47000b2b">
-      <img src="/assets/images/ben_fw1.jpg" alt="Ben on Fox Weather" style="width: 100%; border-radius: 8px;">
+      <img src="/assets/images/ben_fw1.jpg" alt="Ben on Fox Weather" style="width: 70%; border-radius: 8px;">
     </a>
     <div class="publication-text">
       Ben discussed the challenges of snowfall forecasts on Fox Weather. Ben explained what goes into forecasting snow totals for a major snowstorm and why a nor'easter can be particularly challenging. To watch the interview, click on the image.
