@@ -4,16 +4,22 @@ layout: home
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'); /* Example of importing a Google Font */
 
-  html, body {
-    background-image: url('/assets/images/cloud.jpg');
+  body {
+    background: url('/assets/images/cloud.jpg') no-repeat center center fixed;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     margin: 0;
     padding: 0;
-    height: 100%;
-    width: 100%;
     font-family: 'Arial', sans-serif; /* Default font for the page */
+  }
+  .navbar {
+    margin-bottom: 0;
+    border-bottom: none;
+  }
+  .page-content {
+    padding-top: 0; /* Remove any top padding */
+  }
+  .page-content h1 {
+    display: none; /* Hide the large title */
   }
   .content-container {
     background-color: rgba(255, 255, 255, 0.8);
