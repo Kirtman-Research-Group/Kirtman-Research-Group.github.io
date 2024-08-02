@@ -155,7 +155,7 @@ permalink: /research/
     <source src="/assets/images/historical_simulation.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <p style="font-size: 10px;">Here you will find a movie of our historical simulation from 1990-2010. The overall historical simulation is from 1940-2010.</p>
+  <p style="font-size: 12px;">Here you will find a movie of our historical simulation from 1990-2010. The overall historical simulation is from 1940-2010.</p>
 </div>
 
 <div class="content-container fifth-container">
