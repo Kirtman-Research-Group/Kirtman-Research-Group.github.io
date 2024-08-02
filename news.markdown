@@ -34,6 +34,7 @@ permalink: /news/
     font-size: 25px;
     font-weight: bold;
     text-decoration: underline;
+    margin-bottom: 20px;
   }
   .custom-description {
     margin-top: 10px;
@@ -45,13 +46,14 @@ permalink: /news/
     margin-top: 20px;
   }
   .year-title {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
     text-decoration: underline;
-    margin-right: 20px;
+    margin-bottom: 20px;
   }
   .publication-text {
     font-size: 14px;
+    margin-left: 20px;
   }
   .publication-text a {
     text-decoration: none;
@@ -72,3 +74,15 @@ permalink: /news/
     margin: 10px 0;
   }
 </style>
+
+<div class="container">
+  <div class="year-title">2023</div>
+  <div class="sub-container">
+    <a href="https://idsc.miami.edu/magazine/spring-2024/dr-ben-kirtman-honored-as-2023-agu-fellow/">
+      <img src="/assets/images/ben_agu.jpg" alt="Ben Agu" style="width: 50%; border-radius: 8px;">
+    </a>
+    <div class="publication-text">
+      Ben was named a 2023 Fellow of the American Geophysical Union! Ben is pictured above with 2023-24 AGU President Dr. Lisa Graumlich. He was honored at the AGU meeting in San Francisco along with 62 other recipients of the honor. To read more about the honor, please click on the image. Congratulations, Ben!
+    </div>
+  </div>
+</div>
