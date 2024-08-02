@@ -52,10 +52,10 @@ permalink: /news/
   }
   .publication-text {
     font-size: 14px; /* All other text in 14px font */
-    margin-left: 20px;
+    flex-grow: 1; /* Ensure the text takes up the remaining space */
     display: flex;
     align-items: center; /* Center text vertically */
-    padding: 10px; /* Add padding to the text */
+    padding-left: 20px; /* Add padding to the left of the text */
   }
   .publication-text a {
     text-decoration: none;
