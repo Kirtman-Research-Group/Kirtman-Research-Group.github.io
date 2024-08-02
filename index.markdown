@@ -21,8 +21,11 @@ layout: home
     border-radius: 1px;
     margin: 20px;
   }
-  header, nav, .content {
+  header, .content {
     border: none;
+  }
+  nav {
+    border-bottom: 2px solid #ffffff; /* Adding the white line under the tabs */
   }
   .main-container {
     margin: 0;
@@ -89,11 +92,6 @@ layout: home
     text-decoration: none;
     font-weight: bold;
     color: black;
-  }
-  
-  /* Custom CSS to remove the white line */
-  .page-header {
-    border-bottom: none; /* Remove the border at the bottom */
   }
 </style>
 
@@ -229,11 +227,13 @@ layout: home
     if (slideIndex > slides.length) {
       slideIndex = 1;
     }
-    for (let i = 0; i < dots.length; i++) {
+    for (let i = 0; dots && i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
     }
-    slides[slideIndex - 1].style.display = "block";
-    dots[slideIndex - 1].className += " active";
+    if (slides[slideIndex - 1]) {
+      slides[slideIndex - 1].style.display = "block";
+      dots[slideIndex - 1].className += " active";
+    }
     setTimeout(showSlides, 3000); // Change image every 3 seconds
   }
 
