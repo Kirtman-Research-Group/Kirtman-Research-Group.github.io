@@ -102,7 +102,7 @@ permalink: /research/
   }
   .fourth-container p {
     text-align: center;
-    font-size: 10px;
+    font-size: 8px;
     color: black;
     margin-top: 5px;
   }
