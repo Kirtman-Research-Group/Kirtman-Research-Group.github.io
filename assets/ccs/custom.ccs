@@ -15,3 +15,7 @@ body {
   display: none;
 }
 
+  /* Custom CSS to remove the white line */
+  .page-header {
+    border-bottom: none; /* Remove the border at the bottom */
+  }
