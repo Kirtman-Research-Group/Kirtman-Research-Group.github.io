@@ -18,7 +18,7 @@ layout: home
   .content-container {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 1px;
     margin: 20px;
   }
   header, nav, .content {
