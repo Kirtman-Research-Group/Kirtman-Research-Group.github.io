@@ -12,7 +12,7 @@ layout: home
     font-family: 'Arial', sans-serif; /* Default font for the page */
   }
   .navbar {
-    margin-bottom: 0;
+    margin-bottom: 1;
   }
   .page-content {
     padding-top: 0; /* Remove any top padding */
