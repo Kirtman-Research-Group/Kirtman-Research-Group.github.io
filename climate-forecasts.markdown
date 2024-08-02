@@ -201,6 +201,9 @@ permalink: /climate-forecasts/
     width: 400px; /* Set the desired width */
     height: auto;
   }
+  .nmme-content p {
+    padding-top: 10px; /* Add padding to the text under the title in the first container */
+  }
 </style>
 
 <div class="nmme-container">
