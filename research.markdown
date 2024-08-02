@@ -81,7 +81,7 @@ permalink: /research/
     margin-top: 1px;
   }
   .third-container .image-wrapper img, .fifth-container .image-wrapper img, .final-container .image-wrapper img {
-    width: 99%;
+    width: 48%;
     height: auto;
   }
   .third-container .image-wrapper p, .fifth-container .image-wrapper p {
@@ -112,7 +112,7 @@ permalink: /research/
     margin-top: 10px;
   }
   .final-container .image-wrapper img {
-    width: 99%;
+    width: 48%;
     height: auto;
   }
   .final-container .full-width-image img {
@@ -167,7 +167,7 @@ permalink: /research/
   <p>Here you will find a movie of our historical simulation from 1990-2010. The overall historical simulation is from 1940-2010.</p>
 </div>
 
-<div class="content-container">
+<div class="content-container fifth-container">
   <h3>Seasonal Climate Prediction</h3>
   <h4>North American Multi-Model Ensemble (NMME)</h4>
   <div class="description">
