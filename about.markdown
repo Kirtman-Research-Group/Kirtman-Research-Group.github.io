@@ -5,11 +5,14 @@ permalink: /people/
 ---
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'); /* Example of importing a Google Font */
+
   body {
     background: url('/assets/images/cloud.jpg') no-repeat center center fixed;
     background-size: cover;
-    margin-top: 0;
-    padding-top: 0;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif; /* Default font for the page */
   }
   .navbar {
     margin-bottom: 0;
@@ -17,6 +20,9 @@ permalink: /people/
   }
   .page-content {
     padding-top: 0; /* Remove any top padding */
+  }
+  .page-content h1 {
+    display: none; /* Hide the large title */
   }
   .container {
     background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for better readability */
