@@ -202,7 +202,7 @@ permalink: /people/
       <img src="/assets/images/vic.jpg" alt="Vic">
       <p class="name">Victoria Schoenwald</p>
       <p class="navy">PhD Candidate</p>
-      <p class="purple">Contact Email:​ <a href="mailto:vks16@miami.edu">vks16miami.edu</a></p>
+      <p class="purple">Contact Email:​ <a href="mailto:vks16@miami.edu">vks16@miami.edu</a></p>
       <p>I am a current graduate student interested in how climate change and natural variability affect sea level rise and coastal flooding along the U.S. east coast. Outside of research you can find me at the beach looking for dolphins and doing yoga. I also enjoy traveling and hiking!</p>
     </div>
     <div class="column">
