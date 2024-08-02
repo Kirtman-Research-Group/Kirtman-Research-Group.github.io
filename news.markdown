@@ -70,7 +70,7 @@ permalink: /news/
   }
   .divider {
     border-top: 1px solid #000;
-    width: fit-content;
+    width: 100%;
     margin: 10px 0;
   }
 </style>
@@ -83,8 +83,16 @@ permalink: /news/
     </a>
     <div class="publication-text">
       Ben was named a 2023 Fellow of the American Geophysical Union! Ben is pictured above with 2023-24 AGU President Dr. Lisa Graumlich. He was honored at the AGU meeting in San Francisco along with 62 other recipients of the honor. To read more about the honor, please click on the image. Congratulations, Ben!
-    <hr style="border: 1px solid black; margin: 20px 0;">
-    <div class="content-wrapper" style="padding-top: 10px;">
     </div>
   </div>
+  <div class="divider"></div>
+  <div class="sub-container">
+    <a href="https://www.foxweather.com/watch/play-6f2936e47000b2b">
+      <img src="/assets/images/ben_fw1.jpg" alt="Ben on Fox Weather" style="width: 100%; border-radius: 8px;">
+    </a>
+    <div class="publication-text">
+      Ben discussed the challenges of snowfall forecasts on Fox Weather. Ben explained what goes into forecasting snow totals for a major snowstorm and why a nor'easter can be particularly challenging. To watch the interview, click on the image.
+    </div>
+  </div>
+  <div class="divider"></div>
 </div>
