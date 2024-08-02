@@ -42,18 +42,20 @@ permalink: /news/
   }
   .sub-container {
     display: flex;
-    align-items: flex-start;
+    align-items: center; /* Center the text vertically */
     margin-top: 20px;
   }
-  .year-title {
-    font-size: 25px;
-    font-weight: bold;
-    text-decoration: underline;
-    margin-bottom: 20px;
+  .sub-container img {
+    width: 200px; /* Fixed width for the images */
+    height: 150px; /* Fixed height for the images */
+    border-radius: 8px;
   }
   .publication-text {
     font-size: 14px;
     margin-left: 20px;
+    display: flex;
+    align-items: center; /* Center text vertically */
+    padding: 10px; /* Add padding to the text */
   }
   .publication-text a {
     text-decoration: none;
@@ -79,7 +81,7 @@ permalink: /news/
   <div class="year-title">2023</div>
   <div class="sub-container">
     <a href="https://idsc.miami.edu/magazine/spring-2024/dr-ben-kirtman-honored-as-2023-agu-fellow/">
-      <img src="/assets/images/ben_agu.jpg" alt="Ben Agu" style="width: 100%; border-radius: 8px;">
+      <img src="/assets/images/ben_agu.jpg" alt="Ben Agu">
     </a>
     <div class="publication-text">
       Ben was named a 2023 Fellow of the American Geophysical Union! Ben is pictured above with 2023-24 AGU President Dr. Lisa Graumlich. He was honored at the AGU meeting in San Francisco along with 62 other recipients of the honor. To read more about the honor, please click on the image. Congratulations, Ben!
@@ -88,7 +90,7 @@ permalink: /news/
   <div class="divider"></div>
   <div class="sub-container">
     <a href="https://www.foxweather.com/watch/play-6f2936e47000b2b">
-      <img src="/assets/images/ben_fw1.jpg" alt="Ben on Fox Weather" style="width: 70%; border-radius: 8px;">
+      <img src="/assets/images/ben_fw1.jpg" alt="Ben on Fox Weather">
     </a>
     <div class="publication-text">
       Ben discussed the challenges of snowfall forecasts on Fox Weather. Ben explained what goes into forecasting snow totals for a major snowstorm and why a nor'easter can be particularly challenging. To watch the interview, click on the image.
