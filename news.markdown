@@ -5,8 +5,7 @@ permalink: /news/
 ---
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'); /* Example of importing a Google Font */
-
-<style>
+  
   body {
     background: url('/assets/images/cloud.jpg') no-repeat center center fixed;
     background-size: cover;
