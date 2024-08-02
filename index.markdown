@@ -145,7 +145,7 @@ layout: home
       <p>
         A few members of the group (Kelsey, Kayla, Marybeth, Victoria, Emily, and Kurt) have started a blog about S2S predictability called ‘Seasoned Chaos’. If you haven’t checked it out yet, be sure to see the great work they’ve all done by clicking on the button below! Posts are very informative and fun. New posts are made every 1-2 months.
       </p>
-      <div style="margin-top: 40px; padding: 10px; background-color: lightblue; border: 1px solid #000; text-align: center;">
+      <div style="margin-top: 40px; padding: 2px; background-color: lightblue; border: 1px solid #000; text-align: center;">
         <a href="https://seasonedchaos.github.io/" style="text-decoration: none; font-weight: bold; color: black;">Visit Seasoned Chaos Blog</a>
       </div>
     </div>
