@@ -81,7 +81,7 @@ permalink: /research/
     margin-top: 1px;
   }
   .third-container .image-wrapper img, .fifth-container .image-wrapper img, .final-container .image-wrapper img {
-    width: 100%;
+    width: 48%;
     height: auto;
   }
   .third-container .image-wrapper p, .fifth-container .image-wrapper p {
@@ -112,7 +112,7 @@ permalink: /research/
     margin-top: 10px;
   }
   .final-container .image-wrapper img {
-    width: 100%;
+    width: 48%;
     height: auto;
   }
   .final-container .full-width-image img {
@@ -141,7 +141,7 @@ permalink: /research/
   </div>
 </div>
 
-<div class="content-container">
+<div class="content-container third-container">
   <h3>Ocean Eddies and Large-Scale Climate Variability</h3>
   <h4>The importance of model resolution.</h4>
   <div class="image-wrapper">
