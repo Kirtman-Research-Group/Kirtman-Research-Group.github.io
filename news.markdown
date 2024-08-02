@@ -166,4 +166,13 @@ permalink: /news/
           <p style="margin-top: 10px; font-size: 14px;">Ben discussed the challenges of snowfall forecasts on Fox Weather. Ben explained what goes into forecasting snow totals for a major snowstorm and why a nor'easter can be particularly challenging. To watch the interview, click on the image.</p>
       </div>
   </div>
+  <hr style="border: 1px solid black; margin: 20px 0;">
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://whova.com/web/eziU2c5Pjl%40CynZGOAQoyTtug-g6-7-V2SauHboFwms%3D/">
+          <img src="/assets/images/se_fl_summit.jpg" alt="summit" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">Ben was a speaker at the South Florida Regional Climate Leadership Summit, which was a 2-day regional event hosted by the Southeast Florida Regional Climate Change Compact. The purpose of this event was to share knowledge, showcase climate action, engage leadership across sectors, and mobilize the collaboration needed to tackle the significant challenges of a changing climate. To learn more about the event and the previous speakers, click on the image.</p>
+      </div>
+  </div>
 </div>
