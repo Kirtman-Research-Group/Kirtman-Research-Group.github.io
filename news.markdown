@@ -151,11 +151,11 @@ permalink: /news/
 <div class="new-container former-container">
   <h2>2024</h2>
   <div class="content-wrapper" style="padding-top: 10px;">
-      <a href="https://idsc.miami.edu/magazine/spring-2024/dr-ben-kirtman-honored-as-2023-agu-fellow/">
-          <img src="/assets/images/ben_agu.jpg" alt="Ben AGU" style="width: 300px; height: auto;">
+      <a href="https://www.wlrn.org/environment/2024-01-23/university-of-miami-panel-climate-change-solutions">
+          <img src="/assets/images/climatecafe.jpg" alt="climatecafe" style="width: 300px; height: auto;">
       </a>
       <div>
-          <p style="margin-top: 10px; font-size: 14px;">Ben was named a 2023 Fellow of the American Geophysical Union! Ben is pictured above with 2023-24 AGU President Dr. Lisa Graumlich. He was honored at the AGU meeting in San Francisco along with 62 other recipients of the honor. To read more about the honor, please click on the image. Congratulations, Ben!</p>
+          <p style="margin-top: 10px; font-size: 14px;">In January, Ben was included on a panel of South Florida scientists for the University of Miami's Rosenstiel School's Climate Cafe Series. The panelists discussed the state of South Florida in current and future climate scenarios. The link to the article can be found by clicking on the image.</p>
       </div>
   </div>
 </div>
