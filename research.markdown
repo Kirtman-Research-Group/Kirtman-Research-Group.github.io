@@ -117,10 +117,6 @@ permalink: /research/
   }
   .final-container .full-width-image img {
     width: 100%;
-    height: auto;
-    margin-top: 10px;
-  }
-</style>
 
 <div class="content-container">
   <div class="content-wrapper">
