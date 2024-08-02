@@ -3,13 +3,15 @@ layout: page
 title: Climate Forecasts
 permalink: /climate-forecasts/
 ---
-
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'); /* Example of importing a Google Font */
+
   body {
     background: url('/assets/images/cloud.jpg') no-repeat center center fixed;
     background-size: cover;
-    margin-top: 0;
-    padding-top: 0;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif; /* Default font for the page */
   }
   .navbar {
     margin-bottom: 0;
@@ -20,6 +22,47 @@ permalink: /climate-forecasts/
   }
   .page-content h1 {
     display: none; /* Hide the large title */
+  }
+  .custom-title {
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  .custom-description {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  .sub-container {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 20px;
+  }
+  .year-title {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-right: 20px;
+  }
+  .publication-text {
+    font-size: 14px;
+  }
+  .publication-text a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .underline {
+    text-decoration: underline;
+  }
+  .bold {
+    font-weight: bold;
+  }
+  .pad {
+    margin-top: 10px;
+  }
+  .divider {
+    border-top: 1px solid #000;
+    width: fit-content;
+    margin: 10px 0;
   }
   .container {
     background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for better readability */
