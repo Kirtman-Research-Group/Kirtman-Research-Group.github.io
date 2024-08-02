@@ -5,11 +5,14 @@ permalink: /research/
 ---
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'); /* Example of importing a Google Font */
+
   body {
     background: url('/assets/images/cloud.jpg') no-repeat center center fixed;
     background-size: cover;
-    margin-top: 0;
-    padding-top: 0;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif; /* Default font for the page */
   }
   .navbar {
     margin-bottom: 0;
@@ -21,18 +24,18 @@ permalink: /research/
   .page-content h1 {
     display: none; /* Hide the large title */
   }
-  .container, .new-container, .third-container, .fourth-container, .fifth-container, .final-container {
+  .content-container, .container, .new-container, .third-container, .fourth-container, .fifth-container, .final-container {
     background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for better readability */
     padding: 20px;
     border-radius: 8px;
-    max-width: 800px;
-    margin: 20px auto; /* Center the container on the page */
+    margin: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px; /* Center the container on the page */
   }
   .new-container, .third-container, .fourth-container, .fifth-container, .final-container {
     margin-top: 20px; /* Add space between containers */
   }
-  .container h2, .new-container h2, .third-container h3, .fourth-container h3, .fifth-container h3, .final-container h3 {
+  .content-container h2, .new-container h2, .third-container h3, .fourth-container h3, .fifth-container h3, .final-container h3 {
     font-size: 25px;
     color: black;
     margin-bottom: 10px; /* Smaller distance between title and content */
@@ -119,7 +122,7 @@ permalink: /research/
   }
 </style>
 
-<div class="container">
+<div class="content-container">
   <div class="content-wrapper">
     <img src="/assets/images/kirtman_speaking.jpg" alt="Kirtman Speaking">
     <div>
@@ -129,7 +132,7 @@ permalink: /research/
   </div>
 </div>
 
-<div class="new-container">
+<div class="content-container">
   <h2>Overview</h2>
   <div class="content-wrapper">
     <div>
@@ -138,7 +141,7 @@ permalink: /research/
   </div>
 </div>
 
-<div class="third-container">
+<div class="content-container">
   <h3>Ocean Eddies and Large-Scale Climate Variability</h3>
   <h4>The importance of model resolution.</h4>
   <div class="image-wrapper">
@@ -156,7 +159,7 @@ permalink: /research/
   </div>
 </div>
 
-<div class="fourth-container">
+<div class="content-container">
   <video controls>
     <source src="/assets/images/historical_simulation.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -164,7 +167,7 @@ permalink: /research/
   <p>Here you will find a movie of our historical simulation from 1990-2010. The overall historical simulation is from 1940-2010.</p>
 </div>
 
-<div class="fifth-container">
+<div class="content-container">
   <h3>Seasonal Climate Prediction</h3>
   <h4>North American Multi-Model Ensemble (NMME)</h4>
   <div class="description">
@@ -182,7 +185,7 @@ permalink: /research/
   </div>
 </div>
 
-<div class="final-container">
+<div class="content-container">
   <h3>Interactive Ensemble</h3>
   <div class="description">
     <p>We have also developed a new ocean-atmosphere-sea-ice-land coupling system called the “interactive ensemble” that is specifically designed to diagnose coupled feedbacks between the component models and estimate how high frequency variability in one component affect the other components. In the example shown below we have used the interactive ensemble to diagnose how atmospheric weather impacts the low frequency meridional overturning circulation in the Atlantic Ocean. This meridional overturning circulation is critical for maintaining the relatively warm climate over Europe. The top two panel show the mean meridional overturning circulation from a simulation with realistic atmospheric weather (left panel) and from the interactive ensemble simulation with reduced atmospheric weather (right panel). The bottom panel shows how this meridional overturning circulation changes with time (blue control and red interactive ensemble). The result suggests that atmospheric weather is an important factor in the overturning circulation.</p>
