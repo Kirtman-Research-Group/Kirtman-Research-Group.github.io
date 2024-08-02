@@ -169,4 +169,35 @@ permalink: /publications/
       </div>
     </div>
   </div>
+
+  <div class="container">
+    <div class="sub-container">
+      <div class="year-title">2021</div>
+      <div class="publication-text">
+        <a href="https://link.springer.com/article/10.1007/s00382-020-05475-0" target="_blank">
+          <span class="underline">Zavadoff, B.L</span>, <span class="bold">Kirtman, B.P.</span> The Pacific decadal oscillation as a modulator of summertime North Atlantic Rossby wave breaking. Clim Dyn 56, 207–225 (2021). https://doi.org/10.1007/s00382-020-05475-0
+        </a>
+        <div class="divider"></div>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0098300421002612?via%3Dihub" target="_blank">
+          Mabel C. Costa, Nobre, P., Oke, P., Schiller, A., <span class="underline">Siqueira L. S. P.</span>, Castelão, G. P. (2022), The Spectral Diagram as a new tool for model assessment in the frequency domain: Application to a global ocean general circulation model with tides. Computers & Geosciences.
+        </a>
+        <div class="divider"></div>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL096709?af=R&utm_campaign=RESR_MRKT_Researcher_inbound&utm_medium=referral&sid=researcher&utm_source=researcher_app" target="_blank">
+          <span class="underline">Zhang, W.</span>, <span class="bold">Kirtman, B. P.</span>, Xiang, B., <span class="underline">Siqueira, L., Infanti, J., and Perlin N.</span>, January 2022: Decadal variability of Southeast US rainfall in an eddying global coupled model. Geophysical Research Letters, 49(1), DOI:10.1029/2021GL096709.
+        </a>
+        <div class="divider"></div>
+        <a href="https://journals.ametsoc.org/view/journals/clim/aop/jcliD200139/jcliD200139.xml" target="_blank">
+          <span class="underline">Siqueira, L.</span>, <span class="bold">Kirtman, B. P.</span>, &amp; <span class="underline">Laurindo, L. C.</span> (2021). Forecasting Remote Atmospheric Responses to Decadal Kuroshio Stability Transitions, Journal of Climate, 34(1), 379-395.
+        </a>
+        <div class="divider"></div>
+        <a href="https://link.springer.com/article/10.1007/s00382-020-05621-8" target="_blank">
+          <span class="underline">Zhang, W.</span>, <span class="bold">Kirtman, B.</span>, <span class="underline">Siqueira, L.</span> et al. (2021). Understanding the signal-to-noise paradox in decadal climate predictability from CMIP5 and an eddying global coupled model. Clim Dynamics, 56, 2895-2913.
+        </a>
+        <div class="divider"></div>
+        <a href="https://www.nature.com/articles/s41598-021-85582-y" target="_blank">
+          Joh, Y., Di Lorenzo, E., <span class="underline">Siqueira, L.</span>, and <span class="bold">Kirtman, B.</span> (2021). Enhanced interactions of Kuroshio Extension with tropical Pacific in a changing climate. Nature Science Reports, 11, 6247.
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
