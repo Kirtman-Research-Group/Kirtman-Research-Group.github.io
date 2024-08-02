@@ -68,7 +68,7 @@ permalink: /research/
   .content-wrapper p a:hover {
     text-decoration: underline;
   }
-  .third-container h4, .fifth-container h4 {
+  .third-container h4, .fifth-container h4, .final-container h4 {
     font-size: 20px;
     color: black;
     font-weight: normal;
@@ -84,12 +84,12 @@ permalink: /research/
     width: 48%;
     height: auto;
   }
-  .third-container .image-wrapper p, .fifth-container .image-wrapper p {
+  .third-container .image-wrapper p, .fifth-container .image-wrapper p, .final-container .image-wrapper p {
     text-align: center;
     font-size: 10px;
     margin-top: 1px;
   }
-  .third-container .description, .fifth-container .description {
+  .third-container .description, .fifth-container .description, .final-container .description {
     font-size: 14px;
     color: black;
     margin-top: 1px;
@@ -105,15 +105,6 @@ permalink: /research/
     font-size: 10px;
     color: black;
     margin-top: 5px;
-  }
-  .final-container .image-wrapper {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 10px;
-  }
-  .final-container .image-wrapper img {
-    width: 48%;
-    height: auto;
   }
   .final-container .full-width-image img {
     width: 100%;
@@ -185,7 +176,7 @@ permalink: /research/
   </div>
 </div>
 
-<div class="content-container">
+<div class="content-container final-container">
   <h3>Interactive Ensemble</h3>
   <div class="description">
     <p>We have also developed a new ocean-atmosphere-sea-ice-land coupling system called the “interactive ensemble” that is specifically designed to diagnose coupled feedbacks between the component models and estimate how high frequency variability in one component affect the other components. In the example shown below we have used the interactive ensemble to diagnose how atmospheric weather impacts the low frequency meridional overturning circulation in the Atlantic Ocean. This meridional overturning circulation is critical for maintaining the relatively warm climate over Europe. The top two panel show the mean meridional overturning circulation from a simulation with realistic atmospheric weather (left panel) and from the interactive ensemble simulation with reduced atmospheric weather (right panel). The bottom panel shows how this meridional overturning circulation changes with time (blue control and red interactive ensemble). The result suggests that atmospheric weather is an important factor in the overturning circulation.</p>
