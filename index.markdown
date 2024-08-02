@@ -13,7 +13,6 @@ layout: home
   }
   .navbar {
     margin-bottom: 0;
-    border-bottom: none;
   }
   .page-content {
     padding-top: 0; /* Remove any top padding */
