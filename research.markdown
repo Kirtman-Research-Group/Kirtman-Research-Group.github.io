@@ -102,7 +102,7 @@ permalink: /research/
   }
   .fourth-container p {
     text-align: center;
-    font-size: 8px;
+    font-size: 10px;
     color: black;
     margin-top: 5px;
   }
@@ -155,6 +155,7 @@ permalink: /research/
     <source src="/assets/images/historical_simulation.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+<div class="fourth-container p">
   <p>Here you will find a movie of our historical simulation from 1990-2010. The overall historical simulation is from 1940-2010.</p>
 </div>
 
