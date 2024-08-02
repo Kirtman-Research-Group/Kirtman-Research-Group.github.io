@@ -83,6 +83,8 @@ permalink: /news/
     </a>
     <div class="publication-text">
       Ben was named a 2023 Fellow of the American Geophysical Union! Ben is pictured above with 2023-24 AGU President Dr. Lisa Graumlich. He was honored at the AGU meeting in San Francisco along with 62 other recipients of the honor. To read more about the honor, please click on the image. Congratulations, Ben!
+    <hr style="border: 1px solid black; margin: 20px 0;">
+    <div class="content-wrapper" style="padding-top: 10px;">
     </div>
   </div>
 </div>
