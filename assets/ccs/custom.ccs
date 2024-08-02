@@ -1,31 +1,14 @@
-@import url('https://fonts.google.com/specimen/Playfair+Display');
+/* Custom CSS goes here */
 
-body {
-  font-family: 'Playfair Display', sans-serif;
+/* Header */
+.site-header {
+  border-bottom: none !important; /* Remove any border-bottom */
+  box-shadow: none !important; /* Remove any box-shadow */
 }
 
-.large-image {
-  width: 200px; /* or any other size you prefer */
-  max-width: 100%;
-  height: auto;
+/* Footer */
+.site-footer {
+  border-top: none !important; /* Remove any border-top */
+  box-shadow: none !important; /* Remove any box-shadow */
 }
 
-/* assets/css/custom.css */
-.page-id-people h1.page-title {
-  display: none;
-}
-
-  /* Custom CSS to remove the white line */
-  .page-header {
-    border-bottom: none; /* Remove the border at the bottom */
-  }
-
-/* Example for removing border-bottom */
-.header, header {
-  border-bottom: none; /* Remove the border-bottom */
-}
-
-/* Example for removing box-shadow */
-.header, header {
-  box-shadow: none; /* Remove the box-shadow */
-}
