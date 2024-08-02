@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'); /* Example of importing a Google Font */
 
@@ -90,6 +89,11 @@ layout: home
     text-decoration: none;
     font-weight: bold;
     color: black;
+  }
+  
+  /* Custom CSS to remove the white line */
+  .page-header {
+    border-bottom: none; /* Remove the border at the bottom */
   }
 </style>
 
