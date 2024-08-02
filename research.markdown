@@ -21,7 +21,7 @@ permalink: /research/
   .page-content h1 {
     display: none; /* Hide the large title */
   }
-  .container, .new-container, .third-container, .fourth-container, .fifth-container {
+  .container, .new-container, .third-container, .fourth-container, .fifth-container, .final-container {
     background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background for better readability */
     padding: 20px;
     border-radius: 8px;
@@ -29,10 +29,10 @@ permalink: /research/
     margin: 20px auto; /* Center the container on the page */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .new-container, .third-container, .fourth-container, .fifth-container {
+  .new-container, .third-container, .fourth-container, .fifth-container, .final-container {
     margin-top: 20px; /* Add space between containers */
   }
-  .container h2, .new-container h2, .third-container h3, .fourth-container h3, .fifth-container h3 {
+  .container h2, .new-container h2, .third-container h3, .fourth-container h3, .fifth-container h3, .final-container h3 {
     font-size: 25px;
     color: black;
     margin-bottom: 10px; /* Smaller distance between title and content */
@@ -78,7 +78,7 @@ permalink: /research/
     margin-top: 1px; /* Reduce margin-top for images */
   }
   .third-container .image-wrapper img, .fifth-container .image-wrapper img {
-    width: 100%; /* Adjust width to take up entire container */
+    width: 48%; /* Adjust width to take up entire container */
     height: auto;
   }
   .third-container .image-wrapper p, .fifth-container .image-wrapper p {
@@ -102,6 +102,20 @@ permalink: /research/
     font-size: 10px;
     color: black;
     margin-top: 5px;
+  }
+  .final-container .image-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  .final-container .image-wrapper img {
+    width: 100%; /* Adjust width for two side by side images */
+    height: auto;
+  }
+  .final-container .full-width-image img {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
   }
 </style>
 
@@ -165,5 +179,23 @@ permalink: /research/
       <img src="/assets/images/nmme_ssta.jpg" alt="NMME SSTA Correlation">
       <p>6-month lead SSTA correlation</p>
     </div>
+  </div>
+</div>
+
+<div class="final-container">
+  <h3>Interactive Ensemble</h3>
+  <div class="description">
+    <p>We have also developed a new ocean-atmosphere-sea-ice-land coupling system called the “interactive ensemble” that is specifically designed to diagnose coupled feedbacks between the component models and estimate how high frequency variability in one component affect the other components. In the example shown below we have used the interactive ensemble to diagnose how atmospheric weather impacts the low frequency meridional overturning circulation in the Atlantic Ocean. This meridional overturning circulation is critical for maintaining the relatively warm climate over Europe. The top two panel show the mean meridional overturning circulation from a simulation with realistic atmospheric weather (left panel) and from the interactive ensemble simulation with reduced atmospheric weather (right panel). The bottom panel shows how this meridional overturning circulation changes with time (blue control and red interactive ensemble). The result suggests that atmospheric weather is an important factor in the overturning circulation.</p>
+  </div>
+  <div class="image-wrapper">
+    <div>
+      <img src="/assets/images/depth_a.jpg" alt="Depth A">
+    </div>
+    <div>
+      <img src="/assets/images/depth_b.jpg" alt="Depth B">
+    </div>
+  </div>
+  <div class="full-width-image">
+    <img src="/assets/images/depth_c.jpg" alt="Depth C">
   </div>
 </div>
