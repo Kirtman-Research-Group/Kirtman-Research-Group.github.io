@@ -32,11 +32,11 @@ permalink: /news/
   }
   .content-wrapper {
     display: flex;
-    align-items: flex-start;
+    align-items: center; /* Center the text vertically with the images */
   }
   .content-wrapper img {
     margin-right: 20px;
-    width: 300px;
+    width: 200px; /* Adjusted width */
     height: auto;
   }
   .content-wrapper div {
@@ -51,6 +51,7 @@ permalink: /news/
     margin: 0;
     font-size: 14px; /* Smaller font size for all lines except the first */
     color: black;
+    text-align: center; /* Center the text horizontally */
   }
   .content-wrapper p.lightgreen a {
     color: green;
@@ -76,6 +77,8 @@ permalink: /news/
     font-size: 24px;
     color: black;
     margin-bottom: 10px; /* Smaller distance between title and content */
+    font-weight: bold; /* Bold the title */
+    text-decoration: underline; /* Underline the title */
   }
   .columns {
     display: flex;
@@ -147,15 +150,16 @@ permalink: /news/
 <div class="new-container former-container">
   <h2>2023</h2>
   <div class="content-wrapper" style="padding-top: 10px;">
-      <img src="/assets/images/ben_agu.jpg" alt="Ben AGU" style="width: 150px; height: auto;"> 
+      <img src="/assets/images/ben_agu.jpg" alt="Ben AGU" style="width: 200px; height: auto;"> 
       <div>
           <p style="margin-top: 10px; font-size: 14px;">Ben was named a 2023 Fellow of the American Geophysical Union! Ben is pictured above with 2023-24 AGU President Dr. Lisa Graumlich. He was honored at the AGU meeting in San Francisco along with 62 other recipients of the honor. To read more about the honor, please click on the image. Congratulations, Ben!</p>
       </div>
   </div>
   <hr style="border: 1px solid black; margin: 20px 0;">
   <div class="content-wrapper" style="padding-top: 10px;">
-      <img src="/assets/images/ben_fw1.jpg" alt="Ben FXW" style="width: 150px; height: auto;">
+      <img src="/assets/images/ben_fw1.jpg" alt="Ben FXW" style="width: 200px; height: auto;">
       <div>
           <p style="margin-top: 10px; font-size: 14px;">Ben discussed the challenges of snowfall forecasts on Fox Weather. Ben explained what goes into forecasting snow totals for a major snowstorm and why a nor'easter can be particularly challenging. To watch the interview, click on the image.</p>
       </div>
   </div>
+</div>
