@@ -19,3 +19,13 @@ body {
   .page-header {
     border-bottom: none; /* Remove the border at the bottom */
   }
+
+/* Example for removing border-bottom */
+.header, header {
+  border-bottom: none; /* Remove the border-bottom */
+}
+
+/* Example for removing box-shadow */
+.header, header {
+  box-shadow: none; /* Remove the box-shadow */
+}
