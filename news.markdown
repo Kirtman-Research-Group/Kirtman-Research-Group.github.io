@@ -38,7 +38,7 @@ permalink: /news/
   }
   .custom-description {
     margin-top: 10px;
-    font-size: 16px;
+    font-size: 14px; /* All other text in 14px font */
   }
   .sub-container {
     display: flex;
@@ -46,12 +46,12 @@ permalink: /news/
     margin-top: 20px;
   }
   .sub-container img {
-    width: 200px; /* Fixed width for the images */
-    height: 150px; /* Fixed height for the images */
+    width: 33%; /* 1/3 of the container width */
+    height: auto; /* Keep the aspect ratio */
     border-radius: 8px;
   }
   .publication-text {
-    font-size: 14px;
+    font-size: 14px; /* All other text in 14px font */
     margin-left: 20px;
     display: flex;
     align-items: center; /* Center text vertically */
@@ -74,6 +74,12 @@ permalink: /news/
     border-top: 1px solid #000;
     width: 100%;
     margin: 10px 0;
+  }
+  .year-title {
+    font-size: 25px; /* 25px font size */
+    font-weight: bold; /* Bold */
+    text-decoration: underline; /* Underlined */
+    margin-bottom: 20px;
   }
 </style>
 
