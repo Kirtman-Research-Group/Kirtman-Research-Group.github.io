@@ -78,7 +78,7 @@ permalink: /research/
     margin-top: 1px; /* Reduce margin-top for images */
   }
   .third-container .image-wrapper img, .fifth-container .image-wrapper img {
-    width: 48%; /* Adjust width to take up entire container */
+    width: 100%; /* Adjust width to take up entire container */
     height: auto;
   }
   .third-container .image-wrapper p, .fifth-container .image-wrapper p {
