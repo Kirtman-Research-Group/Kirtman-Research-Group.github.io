@@ -236,6 +236,20 @@ permalink: /people/
       <p class="purple">​Contact Email:​ <a href="mailto:igifford@earth.miami.edu">igifford@earth.miami.edu</a></p>
       <p>I am a graduate student working with Dr. Ben Kirtman and Dr. Emily Becker. Anthropogenic climate change and its effects on the El Nino Southern Oscillation remains an open question. My research  pertains to predictions of the impacts on terrestrial North America (temperature and precipitation) related to possible future ENSO changes.</p>
     </div>
+    <div class="columns">
+  <div class="column">
+    <img src="/assets/images/lily.jpg" alt="Lily Johnston">
+    <p class="name">Lily Johnston</p>
+    <p class="navy">PhD Student</p>
+    <p class="purple">Contact Email: <a href="mailto:lilyjohnston@miami.edu">lilyjohnston@miami.edu</a></p>
+    <p>I am interested in subseasonal to seasonal prediction and studying weather-climate interactions. I would like to improve forecast skill in the North American Multi-Model Ensemble (NMME) through model verification and use the model for seasonal climate prediction. In my free time I like running, crocheting and baking.</p>
+  </div>
+  <div class="column">
+    <img src="/assets/images/theresia.jpg" alt="Theresia Phoa">
+    <p class="name">Theresia Phoa</p>
+    <p class="navy">PhD Student</p>
+    <p class="purple">Contact Email: <a href="mailto:tbp32@miami.edu">tbp32@miami.edu</a></p>
+    <p>I’m interested in analyzing downscaled climate model output, especially for tropical and subtropical regions. Outside of research, I enjoy hiking and watching basketball games.</p>
   </div>
 </div>
 
