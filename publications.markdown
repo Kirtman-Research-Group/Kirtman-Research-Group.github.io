@@ -240,3 +240,82 @@ permalink: /publications/
     </div>
   </div>
 </div>
+<div class="container">
+  <div class="sub-container">
+    <div class="year-title">2019</div>
+    <div class="publication-text">
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GB006327" target="_blank">
+        Bif, M. B., <span class="underline">Siqueira, L.</span>, & D. A. Hansell, (2019). Warm events induce loss of resilience in organic carbon production in the northeast Pacific Ocean. Global Biogeochemical Cycles, 33, 1174-1186.
+      </a>
+      <div class="divider"></div>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ORxqfXkAAAAJ&citation_for_view=ORxqfXkAAAAJ:u-x6o8ySG0sC" target="_blank">
+        <span class="underline">Arcodia, M.</span>, <span class="bold">Kirtman, B.P.</span> & <span class="underline">Siqueira, L.</span>, (2019). Interference Between MJO and ENSO Teleconnection Signals Impacts US Rainfall. AGUFM, 2019, pp.A34E-07.
+      </a>
+      <div class="divider"></div>
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL081307" target="_blank">
+        <span class="underline">Zhang, W.</span>, & <span class="bold">Kirtman, B.</span> (2019). Estimates of Decadal Climate Predictability from an Interactive Ensemble Model. Geophysical Research Letters, 46(6), 3387-3397.
+      </a>
+      <div class="divider"></div>
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085159" target="_blank">
+        <span class="underline">Zhang, W.</span>, & <span class="bold">Kirtman, B.</span> (2019). Understanding the Signal‐to‐noise Paradox with a Simple Markov Model. Geophysical Research Letters.
+      </a>
+      <div class="divider"></div>
+      <a href="https://journals.ametsoc.org/view/journals/bams/100/10/bams-d-18-0270.1.xml" target="_blank">
+        <span class="underline">Pegion, K.</span>, <span class="underline">Becker, E.</span>, & <span class="bold">Kirtman, B.P.</span> (2019). The Subseasonal Experiment (SubX): A Multimodel Subseasonal Prediction Experiment. Bulletin of the American Meteorological Society, 100(10), 2043-2060.
+      </a>
+      <div class="divider"></div>
+      <a href="https://journals.ametsoc.org/view/journals/wefo/35/1/waf-d-19-0103.1.xml" target="_blank">
+        <span class="underline">Malloy, K. M.</span>, & <span class="bold">Kirtman, B.P.</span> (2019). Predictability of mid-summer Great Plains low-level jet and associated precipitation. Weather and Forecasting.
+      </a>
+      <div class="divider"></div>
+      <a href="https://link.springer.com/article/10.1007/s00382-018-4553-0" target="_blank">
+        <span class="underline">Infanti, J. M.</span>, & <span class="bold">Kirtman, B. P.</span> (2019). A comparison of CCSM4 high-resolution and low-resolution predictions for south Florida and southeast United States drought. Climate Dynamics, 52(11), 6877-6892.
+      </a>
+      <div class="divider"></div>
+      <a href="https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0025.1.xml" target="_blank">
+        <span class="bold">Kirtman, B. P.</span> et al. (2019). 100 Years of progress in understanding the dynamics of coupled atmosphere/ocean variability. Meteorological Monographs.
+      </a>
+      <div class="divider"></div>
+      <a href="https://journals.ametsoc.org/view/journals/clim/32/15/jcli-d-18-0842.1.xml" target="_blank">
+        <span class="bold">Kirtman, B.</span>, et al. (2019). Cloud radiative feedbacks and El Niño Southern Oscillation. Journal of Climate.
+      </a>
+      <div class="divider"></div>
+      <a href="https://repository.library.noaa.gov/view/noaa/20153" target="_blank">
+        <span class="underline">Lopez, H.</span>, & <span class="bold">Kirtman, B.P.</span> (2019). ENSO influence over the Pacific North American sector: uncertainty due to atmospheric internal variability. Climate Dynamics, 52(9-10), 6149-6172.
+      </a>
+      <div class="divider"></div>
+      <a href="https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/520032" target="_blank">
+        <span class="underline">Lucas Cardoso Laurindo</span>, <span class="underline">Leo Siqueira</span>, & <span class="bold">Ben P. Kirtman</span> (2019). Diagnosing Energy and Heat Transfer in the North Atlantic Region of Idealized and Realistic Ocean-Atmosphere Models: A Frequency-Domain Approach. AGUFM, 2019: A23S-3033.
+      </a>
+      <div class="divider"></div>
+      <a href="https://meetings.pices.int/publications/presentations/2018-Climate-Change/S07-1500-Porto-de-Silveira_R.pdf" target="_blank">
+        <span class="bold">Kirtman, B. P.</span>, et al. (2019). Fast SST error growth in the southeast Pacific Ocean: comparison between high and low-resolution CCSM4 retrospective forecasts. Climate Dynamics.
+      </a>
+      <div class="divider"></div>
+      <a href="https://drive.google.com/file/d/1c51SeozJgAuwW86P-IqwVM5Y2T9zvtqz/view" target="_blank">
+        <span class="underline">Laurindo, L. C.</span>, <span class="underline">Siqueira, L.</span>, & <span class="bold">Kirtman, B.P.</span> (2019). Cross-spectral analysis of the SST/10-m wind speed coupling resolved by satellite products and climate model simulations. Climate Dynamics, 52(9-10), 5071-5098.
+      </a>
+      <div class="divider"></div>
+      <a href="https://www.researchgate.net/publication/318513303_Linking_preconditioning_to_extreme_ENSO_events_and_reduced_ensemble_spread" target="_blank">
+        <span class="underline">Larson, S. M.</span>, & <span class="bold">Kirtman, B. P.</span> (2019). Linking preconditioning to extreme ENSO events and reduced ensemble spread. Climate Dynamics, 52(12), 7417-7433.
+      </a>
+      <div class="divider"></div>
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD030151" target="_blank">
+        <span class="underline">Lopez, H.</span>, & <span class="bold">Kirtman, B.</span> (2019). East Asian Monsoon as a modulator of US Great Plains Heat Waves. Journal of Geophysical Research: Atmospheres.
+      </a>
+      <div class="divider"></div>
+      <a href="https://repository.library.noaa.gov/view/noaa/48394" target="_blank">
+        <span class="underline">Zavadoff, B. L.</span>, & <span class="bold">Kirtman, B.P.</span> (2019). North Atlantic Summertime Anticyclonic Rossby Wave Breaking: Climatology, Impacts, and Connections to the Pacific Decadal Oscillation. Journal of Climate, 32(2), 485-500.
+      </a>
+      <div class="divider"></div>
+      <a href="https://www.researchgate.net/publication/337112782_Extreme_environmental_forcing_on_the_container_ship_SS_El_Faro" target="_blank">
+        <span class="underline">Bell, R.</span>, & <span class="bold">Kirtman, B.</span> (2019). Extreme environmental forcing on the container ship SS El Faro. Journal of Operational Oceanography, 1-16.
+      </a>
+      <div class="divider"></div>
+      <a href="https://journals.ametsoc.org/view/journals/wefo/34/1/waf-d-18-0099_1.xml" target="_blank">
+        <span class="underline">Bell, R.</span>, & <span class="bold">Kirtman, B.</span> (2019). Seasonal Forecasting of Wind and Waves in the North Atlantic Using a Grand Multimodel Ensemble. Weather and Forecasting, 34(1), 31-59.
+      </a>
+    </div>
+  </div>
+</div>
+
