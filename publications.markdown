@@ -28,7 +28,7 @@ permalink: /publications/
     background-color: rgba(255, 255, 255, 0.8);
     padding: 20px;
     border-radius: 8px;
-    margin: 20px 0; /* 20px top and bottom margin */
+    margin: 20px 0;
   }
   .custom-title {
     font-size: 25px;
@@ -40,8 +40,9 @@ permalink: /publications/
     font-size: 16px;
   }
   .sub-container {
-    margin-top: 0;
-    margin-bottom: 0;
+    display: flex;
+    align-items: flex-start;
+    margin-top: 20px;
   }
   .year-title {
     font-size: 20px;
@@ -66,12 +67,12 @@ permalink: /publications/
     margin-top: 10px;
   }
   .divider {
-    margin: 10px 0; /* Divider specific margin */
     border-top: 1px solid #000;
     width: fit-content;
+    margin: 10px 0;
   }
-    }
 </style>
+
 
 <div class="page-content">
   <div class="container">
