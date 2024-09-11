@@ -247,6 +247,28 @@ permalink: /climate-forecasts/
   .nmme-content p {
     padding-top: 10px; /* Add padding to the text under the title in the first container */
   }
+  .nmme-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: lightblue;
+  color: white;
+  border: 2px solid white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 14px;
+  margin-bottom: 10px; /* Add some space below the button */
+}
+
+.nmme-button:hover {
+  background-color: #87CEEB; /* Darker shade of light blue */
+}
+
+.centered-button {
+  display: flex;
+  justify-content: center; /* Center the button horizontally */
+  margin-top: 10px;
+}
+
 </style>
 
 <div class="nmme-container">
@@ -268,6 +290,10 @@ permalink: /climate-forecasts/
     <p style="margin-top: 10px;"> A description of the NMME system is provided <a href="https://www.cpc.ncep.noaa.gov/products/NMME/NMME_description.html">here.</a> </p>
     <p style="margin-top: 10px;"> Data access for hindcasts and real-time forecasts for all individual models and NMME ensemble mean is provided <a href="https://www.cpc.ncep.noaa.gov/products/NMME/data.html">here.</a> </p>
   </div>
+  <!-- Button added here -->
+  <div class="centered-button">
+    <a href="https://nmme.earth.miami.edu/" class="nmme-button">NMME Forecasts</a>
+  </div>  
   <div class="centered-image">
     <img src="/assets/images/nmme2.jpg" alt="NMME 2">
   </div>
