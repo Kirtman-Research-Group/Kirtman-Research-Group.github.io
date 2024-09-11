@@ -250,9 +250,9 @@ permalink: /climate-forecasts/
   .nmme-button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: lightblue;
+  background-color: lightgray; /* Light gray color for the button */
   color: white;
-  border: 2px solid white;
+  border: none; /* Remove any border */
   border-radius: 4px;
   text-decoration: none;
   font-size: 14px;
@@ -260,15 +260,15 @@ permalink: /climate-forecasts/
 }
 
 .nmme-button:hover {
-  background-color: #87CEEB; /* Darker shade of light blue */
+  background-color: #d3d3d3; /* Slightly darker shade of gray on hover */
 }
 
 .centered-button {
   display: flex;
   justify-content: center; /* Center the button horizontally */
   margin-top: 10px;
+  width: 100%; /* Ensure the button stays centered in the container */
 }
-
 </style>
 
 <div class="nmme-container">
