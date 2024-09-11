@@ -24,12 +24,12 @@ permalink: /publications/
   .page-content h1 {
     display: none; /* Hide the large title */
   }
-  .container {
+.container {
     background-color: rgba(255, 255, 255, 0.8);
     padding: 20px;
     border-radius: 8px;
-    margin: 20px 0;
-  }
+    margin: 20px 0 !important; /* Force the margin to be consistent */
+}
   .custom-title {
     font-size: 25px;
     font-weight: bold;
