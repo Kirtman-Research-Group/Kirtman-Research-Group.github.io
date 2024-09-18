@@ -387,3 +387,73 @@ permalink: /news/
       </div>
   </div>
 </div>
+<!-- New Container for 2021 -->
+<div class="new-container former-container">
+  <h2>2021</h2>
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2021/10/atmospheric-rivers-provide-vital-source-of-water-for-the-west.html?utm_source=BenchmarkEmail&utm_campaign=RSMAS_AUG_2021_Copy&utm_medium=email">
+          <img src="/assets/images/21_1.jpg" alt="Atmospheric Rivers" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">At the end of October, Ben shared his thoughts on atmospheric rivers and how they coincide with climate patterns. This article is in a Q&A format and has some really great information regarding atmospheric rivers, their role in the climate system and the research currently being conducted to understand more. Click on the image to read the article!</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2021/08/latest-climate-change-report-a-code-red-for-humanity.html?utm_source=BenchmarkEmail&utm_campaign=RSMAS_AUG_2021&utm_medium=email">
+          <img src="/assets/images/21_2.jpg" alt="Code Red for Humanity" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">The latest update from the United Nations’ Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment report warns that Earth is warming at a rate faster than previously thought. The window to prevent the most catastrophic impacts of climate change from occurring is rapidly closing. Ben discussed the new updates and he noted that the report highlights studies that demonstrate how extreme events such as heat waves, cold spells, floods, and droughts are influenced by human activity. To read the full article that also features quotes and insight from other RSMAS Professors and Researchers, please click on the image!</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2021/05/hurricanes-could-strain-covid-weary-residents,-supply-chains.html">
+          <img src="/assets/images/21_3.jpg" alt="Hurricanes and COVID-19" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">The 2021 Atlantic hurricane season will be underway on June 1st. This article highlights some of what hurricane specialists are expecting to see this year as well as what societal impacts are possible due to the COVID-19 pandemic. Ben discusses the possibility of an above average hurricane season, but not quite as strong as last year's season. The article also touches upon the advances in satellite data that NASA is working to bring to scientists to help aid in climate research. Ben spoke about how the advances from NASA will be beneficial for the climate community and he discussed how SubX will help develop better forecasts in the future.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2021/04/president-biden-wants-to-slash-carbon-emissions-in-half-by-2030.-heres-what-it-will-take.html?utm_source=BenchmarkEmail&utm_campaign=RSMAS_MAY_2021&utm_medium=email">
+          <img src="/assets/images/21_4.jpg" alt="Carbon Emissions Reduction" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">This article highlights the viewpoints of University of Miami experts in environmental law, atmospheric science, and sustainability on how President Biden’s ambitious climate plan could succeed. Ben briefly spoke about different ways to slash carbon emissions, specifically focusing on the future of electric vehicles.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://twitter.com/TODAYshow/status/1377589106671296520?utm_source=BenchmarkEmail&utm_campaign=RSMAS_MAY_2021&utm_medium=email">
+          <img src="/assets/images/21_5.jpg" alt="TODAY Show Interview" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">During the month of April, the TODAY show focused many of their segments on the issues tied to the environment, the climate and some changes that people can make in their every day lives that will help mitigate the issues the Earth faces. Ben was interviewed by Kerry Sanders, who kicked off NBC's special series: TODAY Goes Green. To check out the video, click on the image!</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="#">
+          <img src="/assets/images/21_6.jpg" alt="SubX and Polar Vortex" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">Ben Kirtman, a professor of atmospheric sciences, is the primary architect of the multi-model Subseasonal Experiment, or SubX, which forecast a breakdown of the polar vortex that led to frigid temperatures in Texas and other states. According to Kirtman, a probabilistic forecast is needed in climate and weather prediction. “You want to include the chance that you might be wrong, and the best way to explore a realistic assessment of the range of possible outcomes is to use this multi-model/multi-ensemble approach,” he said.</p>
+      </div>
+  </div>
+
+</div>
+
