@@ -148,8 +148,7 @@ permalink: /news/
     background-color: #87CEEB; /* Darker shade of light blue */
   }
 </style>
-<div class="new-container former-container">
-  <h2>2024</h2>
+
 <!-- New Container Added Above -->
 <div class="new-container former-container">
   <h2>2024</h2>
