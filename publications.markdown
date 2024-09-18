@@ -105,6 +105,10 @@ permalink: /publications/
           <span class="underline">Kramer, S. J.</span>, Huang, S., McClure, C. D., Chaveste, M. R., & Lurmann, F. (2023). Projected smoke impacts from increased prescribed fire activity in California's high wildfire risk landscape. Atmospheric Environment, 119993.
         </a>
         <div class="divider"></div>
+        <a href="https://link.springer.com/article/10.1007/s00382-023-06965-7" target="_blank">
+         <span class="underline">K. A. Besong</span>, <span class="bold">B. P. Kirtman.</span> (2023) Sensitivity of the Blocking-North Atlantic Oscillation Relationship to Space, Time, and Index. Climate Dynamics (2023). https://doi.org/10.1007/s00382-023-06965-7.
+        </a>
+        <div class="divider"></div>
         <a href="https://os.copernicus.org/articles/19/615/2023/" target="_blank">
           Yu Gao, Igor Kamenkovich, and <span class="underline">Natalie Perlin</span>, 2023: Origins of mesoscale mixed-layer depth variability in the Southern Ocean. Ocean Science, 19, 615–627, 2023 https://doi.org/10.5194/os-19-615-2023
         </a>
