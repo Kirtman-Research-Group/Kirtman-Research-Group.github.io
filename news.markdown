@@ -153,6 +153,16 @@ permalink: /news/
 <div class="new-container former-container">
   <h2>2024</h2>
   <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://www.youtube.com/watch?v=0yjFxhpfhog">
+          <img src="/assets/images/24_1.jpg" alt="AI/ML Revolutionizing Weather and Climate Science" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">Ben spoke to members of the Institute of the Mathematical Sciences of the Americas at the University of Miami about how AI/ML is (Potentially) Revolutionizing Weather and Climate Science. This talk was specifically held during the AI and Pure Mathematics Conference. If you'd like to watch the talk, the recording is available by clicking on the photo.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+  <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://www.wlrn.org/environment/2024-01-23/university-of-miami-panel-climate-change-solutions">
           <img src="/assets/images/climatecafe.jpg" alt="climatecafe" style="width: 300px; height: auto;">
       </a>
