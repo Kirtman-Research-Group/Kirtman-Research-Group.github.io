@@ -274,5 +274,116 @@ permalink: /news/
           <p style="margin-top: 10px; font-size: 14px;">Following their blog post for NOAA's ENSO blog, Marybeth and Breanna were interviewed by The Water Desk. Their interviews touched upon teleconnections as well as atmospheric rivers due to their relevance recently in California. To read the article with their interviews, click on the image.</p>
       </div>
   </div>
+</div>
+<!-- New Container for 2022 -->
+<div class="new-container former-container">
+  <h2>2022</h2>
 
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://www.climate.gov/news-features/blogs/what-are-teleconnections-connecting-earths-climate-patterns-global-information">
+          <img src="/assets/images/22_1.jpg" alt="Teleconnections Blog" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">Marybeth and Breanna recently guest authored a post for NOAA's ENSO blog. The focus of the blog post is teleconnections and how to understand Earth's climate patterns through teleconnections. To read the blog post, click on the image.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://eos.org/research-spotlights/spatial-scale-shapes-the-ocean-and-atmospheres-influence-on-the-climate">
+          <img src="/assets/images/22_2.jpg" alt="Ocean-Atmosphere Influence" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">Leo and Ben contributed to a paper focusing on the role of ocean and atmosphere variability in scale-dependent thermodynamic air-sea interactions. This paper was highlighted in an article focusing on how spatial scale shapes the ocean and atmosphere's influence on the climate. The article outlines some of the studies most important findings. To read the article, click on the image.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://podcasts.apple.com/us/podcast/hurricane-specialist-bryan-norcross-chats-with/id1627275376?i=1000574791998&utm_source=BenchmarkEmail&utm_campaign=RSMAS_MAY_2022&utm_medium=email">
+          <img src="/assets/images/22_3.jpg" alt="Tracking the Tropics Podcast" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">Ben was recently a guest on the Tracking the Tropics podcast with Bryan Norcross. They discussed some of the research Ben is doing in understanding how the oceans and the atmosphere interact as one system, how El Niño and La Niña conditions affect the global circulation, how far in advance big weather events can be predicted, and much more. To listen to the podcast, you can click the image or listen on your preferred podcast streaming service.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2022/07/whats-behind-the-heat-wave-in-europe.html?utm_source=BenchmarkEmail&utm_campaign=RSMAS_MAY_2022&utm_medium=email">
+          <img src="/assets/images/22_4.jpg" alt="Europe Heat Wave" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">The July 2022 Europe heat wave created a large discussion of the future of infrastructure and human health as heat waves become more common with climate change. Ben discussed the atmospheric components of the Europe heat wave and the factors that came together leading to a record-breaking heat wave. To read the full article, click on the image.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2022/06/scientists-changing-climate-may-fuel-extreme-weather.html?utm_source=BenchmarkEmail&utm_campaign=RSMAS_MAY_2022&utm_medium=email">
+          <img src="/assets/images/22_5.jpg" alt="Extreme Weather Events" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">As the climate continues to change, Ben discussed what people should expect in terms of extreme weather events, globally. He also gave suggestions on things people can do in the immediate future to help alleviate the impacts of extreme weather events. To read the full article, click on the image.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2022/05/a-busy-atlantic-hurricane-season-looms.html">
+          <img src="/assets/images/22_6.jpg" alt="Hurricane Season" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">Ben spoke about the ongoing La Niña in an article focusing on the 2022 Atlantic hurricane season. He discussed how the phenomenon can impact hurricane activity in the Atlantic. To read the article, click on the image.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2022/05/scholars-address-how-climate-change-inflicts-a-toll-on-health.html?utm_source=BenchmarkEmail&utm_campaign=RSMAS_MAY_2022&utm_medium=email">
+          <img src="/assets/images/22_7.jpg" alt="Climate Change and Health" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">At a day long symposium addressing how climate change inflicts a toll on health, Ben described two of the long-range forecasting tools he helped develop and how they can be used to aid emergency managers and health care teams in planning for potential disease outbreaks that can result from extreme weather. To read the full article, you can click on the image.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2022/04/multifaceted-model-improves-subseasonal-forecasting-by-quantum-leaps.html?utm_source=BenchmarkEmail&utm_campaign=RSMAS_MAY_2022&utm_medium=email">
+          <img src="/assets/images/22_8.jpg" alt="Subseasonal Forecasting" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">Ben discussed the use of the North American Multi-Model Ensemble (NMME) and how it has helped policymakers and emergency managers prepare for natural hazards like heat waves, wildfires, or the next polar vortex. Click the image to read the article.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.wjct.org/show/florida-roundup/2022-03-05/climate-scientist-says-florida-not-acting-fast-enough?utm_source=BenchmarkEmail&utm_campaign=RSMAS_MAY_2022&utm_medium=email">
+          <img src="/assets/images/22_9.jpg" alt="Florida Risks" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">Ben spoke with WJCT News about the risks Florida faces, such as: sea level rise fueled by melting ice and warmer ocean temperatures and hotter overnight temperatures, which require higher electricity demand to power air conditioning. Click on the image to read the article and hear the audio interview.</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://www.courthousenews.com/tiger-sharks-migrating-farther-north-due-to-warming-oceans-study-finds/">
+          <img src="/assets/images/22_10.jpg" alt="Tiger Sharks Migration" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">A new study led by scientists at the University of Miami (UM) Rosenstiel School of Marine and Atmospheric Science revealed that the locations and timing of tiger shark movement in the western North Atlantic Ocean have changed from rising ocean temperatures. These climate-driven changes have subsequently shifted tiger shark movements outside of protected areas, leaving the sharks more vulnerable to commercial fishing. Ben is an author on the research publication. Click the image to read the news article.</p>
+      </div>
+  </div>
 </div>
