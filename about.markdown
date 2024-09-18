@@ -286,8 +286,8 @@ permalink: /people/
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Kayla Besong</h1>
           <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:kbesong@sonomatech.com">kbesong@sonomatech.com</a></p>
-          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Air Quality Data Scientist at Sonoma Technology in Petaluma, CA.</p>
-          <p style="margin-top: 10px; font-size: 14px;">PhD Work: My research focused on the impact of climate change on ocean currents. I developed models to predict future changes in ocean circulation patterns.</p>
+          <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Pacific Tsunami Warning Center (PTWC)</p>
+          <p style="margin-top: 10px; font-size: 14px;">PhD Work: My research focused on atmospheric blocking, with an emphasis on the North Atlantic region. I examined the effects of different blocking algorithms on data analysis, explored the relationship between atmospheric blocks and the North Atlantic Oscillation, and assessed how accurately blocks are represented in CESM.</p>
       </div>
   </div>
   <hr style="border: 1px solid black; margin: 20px 0;">
