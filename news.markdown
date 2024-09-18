@@ -456,4 +456,29 @@ permalink: /news/
   </div>
 
 </div>
+<!-- New Container for 2020 -->
+<div class="new-container former-container">
+  <h2>2020</h2>
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://www.youtube.com/watch?v=sw3ZjeNNrFQ&feature=youtu.be&fbclid=IwAR3DKp6pu3gOd-BdJaiwHTLWgBimHsALCfi--9LBfF68dAPdKATPN_tn2gI">
+          <img src="/assets/images/20_1.jpg" alt="Climate Café" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">In their first Climate Café, RSAMS faculty members and students detailed some of the effects of climate change in 2020. The article outlines the first climate café and all of the important topics covered. Graduate student Marybeth Arcodia introduced many of the graduate and undergraduate student research. Following her presentation, Ben Kirtman began an insightful presentation into climate change during the age of COVID. A question and answer session concluded the session, and many were able to ask their questions to professors and students. There will be a second and third part of the Climate Café Series. Click on the image to watch!</p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://idsc.miami.edu/dr-ben-kirtman-named-idsc-deputy-director/">
+          <img src="/assets/images/20_2.jpg" alt="IDSC Deputy Director" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">In his role as IDSC deputy director, Kirtman’s first job is to find innovative thinkers and interdisciplinarians with knowledge of the nuances of using all kinds of data science techniques to advance disciplinary research. “There are some universities that are going to really be setting the bar in terms of developing new data science technology. They have huge resources, and they’re going to be developing the next data science algorithms. We’re not going to try to compete with them, but we are going to use their technology to advance disciplinary science,” Kirtman explained.</p>
+      </div>
+  </div>
+
+</div>
 
