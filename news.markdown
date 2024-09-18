@@ -163,6 +163,37 @@ permalink: /news/
 
   <hr style="border: 1px solid black; margin: 20px 0;">
   <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2024/09/rising-global-temperatures-are-the-new-normal.html">
+          <img src="/assets/images/24_4.jpg" alt="globaltemps" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">Ben discusses rising global temperatures, specifically becauase last year, Earth experienced its warmest year on record. To read the article with many quotes from Ben, you can click on the image.</p>
+      </div>
+  </div>
+  
+  <hr style="border: 1px solid black; margin: 20px 0;">
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/rosenstiel/stories/2024/05/graduates-celebrate-a-new-beginning.html">
+          <img src="/assets/images/24_5.jpg" alt="commencement" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">At the University of Miami's 2024 Commencement, Ben delivered his first commencement address. He stressed that graduate students' preserverance and ability to show compassion will help guide their future carreers. To read more about the event and to see photos click on the image!</p>
+      </div>
+  </div>
+  
+  <hr style="border: 1px solid black; margin: 20px 0;">
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://www.vox.com/climate/368324/hurricane-season-2024-gulf-mexico-ocean-warming">
+          <img src="/assets/images/24_3.jpg" alt="gulfofmexico" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">Ben was interviewed regarding the warm waters along the Gulf Coast and the impact of that on the 2024 Hurricane season. He talks about the complexities of water temperature and its impact on hurricane intensity and development. To read the article, click on the image.</p>
+      </div>
+  </div>
+
+  
+  <hr style="border: 1px solid black; margin: 20px 0;">
+  <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://www.wlrn.org/environment/2024-01-23/university-of-miami-panel-climate-change-solutions">
           <img src="/assets/images/climatecafe.jpg" alt="climatecafe" style="width: 300px; height: auto;">
       </a>
