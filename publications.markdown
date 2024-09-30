@@ -93,6 +93,14 @@ permalink: /publications/
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL106354" target="_blank">
           <span class="underline">Laurindo, L. C., Siqueira, L</span>, Small, R. J., Thompson, L., &amp; <span class="bold">Kirtman, B. P.</span> (2024). Quantifying the contribution of ocean advection and surface flux to the upper-ocean salinity variability resolved by climate model simulations. Geophysical Research Letters, 51, e2023GL106354. https://doi.org/10.1029/2023GL106354.
         </a>
+        <div class="pad"></div>
+        <a href="https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-23-0686.1/JCLI-D-23-0686.1.xml" target="_blank">
+          <span class="underline">Siqueira, L.</span>, <span class="bold"> B. P. Kirtman</span>, <span class="underline">L. C. Laurindo</span>, J. T. Fasullo, and A. Hu, 2024: Quantifying the Role of Ocean Dynamics in SST Variability across GCMs and Observations. J. Climate, https://doi.org/10.1175/JCLI-D-23-0686.1, in press.
+        </a>
+        <div class="pad"></div>
+        <a href="https://www.nature.com/articles/s41598-024-68461-0" target="_blank">
+          <span class="underline">Gifford, I.</span>, Gangopadhyay, A., Andres, M. et al. Synchronicity of the Gulf Stream path downstream of Cape Hatteras and the region of maximum wind stress curl. Sci Rep 14, 18479 (2024). https://doi.org/10.1038/s41598-024-68461-0
+        </a>   
       </div>
     </div>
   </div>
@@ -150,6 +158,9 @@ permalink: /publications/
         <div class="divider"></div>
         <a href="https://journals.ametsoc.org/view/journals/phoc/52/4/JPO-D-21-0063.1.xml" target="_blank">
           Gao, Y., Kamenkovich, I., <span class="underline">Perlin, N.</span>, &amp; <span class="bold">Kirtman, B.</span> (2022). Oceanic Advection Controls Mesoscale Mixed Layer Heat Budget and Air–Sea Heat Exchange in the Southern Ocean, Journal of Physical Oceanography, 52(4), 537-555. DOI: 10.1175/JPO-D-21-0063.1.
+        </a>
+        <div class="https://link.springer.com/article/10.1007/s00382-022-06257-6" target="_blank">
+          Light, C.X., Arbic, B.K., Martin, P.E. et al. Effects of grid spacing on high-frequency precipitation variance in coupled high-resolution global ocean–atmosphere models. Clim Dyn 59, 2887–2913 (2022). https://doi.org/10.1007/s00382-022-06257-6
         </a>
         <div class="divider"></div>
         <a href="https://link.springer.com/article/10.1007/s00382-022-06205-4" target="_blank">
