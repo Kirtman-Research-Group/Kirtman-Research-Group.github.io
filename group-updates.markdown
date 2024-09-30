@@ -1,5 +1,3 @@
-here's my updated code:
-
 ---
 layout: page
 title: Group Updates
