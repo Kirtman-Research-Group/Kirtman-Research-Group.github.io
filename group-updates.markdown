@@ -81,7 +81,7 @@ permalink: /group-updates/
     margin: 20px auto; /* Adds padding above and below the line */
   }
     .welcome-title {
-    font-size: 32px; /* Large font for the title, but nothing too crazy */
+    font-size: 25px; /* Large font for the title, but nothing too crazy */
     font-weight: bold;
     text-align: center;
     margin: 20px 0;
