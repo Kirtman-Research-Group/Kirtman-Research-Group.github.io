@@ -90,17 +90,18 @@ permalink: /group-updates/
     font-size: 14px;
     text-align: left;
     margin-left: 20px;
+    width: 50%; /* Makes the text take up 50% of the container */
   }
   .image-text-container {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
     text-align: left;
     margin: 20px 0;
   }
   .image-text-container img {
-    width: 40%;
-    max-width: 200px;
+    width: 50%; /* Makes the image take up 50% of the container */
+    max-width: 100%;
     margin-right: 20px;
     border-radius: 8px;
   }
@@ -121,10 +122,11 @@ permalink: /group-updates/
     <div class="welcome-title">Ben Participated in a Field Hearing for Congresswoman Debbie Wasserman Schultz</div>
     <div class="divider"></div>
     <div class="image-text-container">
-      <a href="https://us13.mailchimp.com/mctx/clicks?url=https%3A%2F%2Fwww.sun-sentinel.com%2F2024%2F09%2F15%2Fclimate-problems-are-causing-financial-problems-in-south-florida-panel-says%2F&xid=728850c67e&uid=182599330&iid=fca69da8f4&pool=cts&v=2&c=1727671671&h=2b398cf1187a61ce390134f44fcc16d5a1469d374ad94cdcefb89cd8747235f6" target="_blank">
+      <a href="https://www.sun-sentinel.com/2024/09/15/climate-problems-are-causing-financial-problems-in-south-florida-panel-says/" target="_blank">
         <img src="/assets/images/update1_3.jpg" alt="Ben Participating in Field Hearing">
       </a>
-      <p class="small-text">Ben participated in a field hearing for Congresswoman Debbie Wasserman Schultz where he discussed how climate issues are causing financial issues in South Florida. To read more, click on the image to the left.
+      <p class="small-text">
+        Ben participated in a field hearing for Congresswoman Debbie Wasserman Schultz where he discussed how climate issues are causing financial issues in South Florida. To read more, click on the image to the left.
       </p>
     </div>
     <div class="divider"></div>
