@@ -28,6 +28,7 @@ permalink: /group-updates/
     padding: 20px;
     border-radius: 8px;
     margin: 20px 0;
+    text-align: center; /* Center align the content */
   }
   .custom-title {
     font-size: 25px;
@@ -65,21 +66,25 @@ permalink: /group-updates/
   .pad {
     margin-top: 10px;
   }
-  .divider {
-    border-top: 1px solid #000;
-    width: fit-content;
-    margin: 10px 0;
+  .container img {
+    width: 90%;
+    max-width: 100%; 
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto; /* Centers the image */
   }
-    .container img {
-    width: 90%; /* Span almost the entire width of the container */
-    max-width: 100%; /* Ensure it doesn't exceed the container size */
-    height: auto; /* Keep image proportional */
-    border-radius: 8px; /* Optional: Adds rounded corners to the image */
+    .divider {
+    width: 90%; /* Adjust the width of the divider */
+    height: 2px; /* Thickness of the line */
+    background-color: black; /* Color of the line */
+    margin: 20px auto; /* Adds padding above and below the line */
   }
 </style>
 
 <div class="page-content">
   <div class="container">
     <img src="/assets/images/update1.jpg" alt="Descriptive Image">
+    <div class="divider"></div> <!-- Custom black divider underneath the image -->
   </div>
 </div>
