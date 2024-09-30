@@ -171,10 +171,10 @@ permalink: /people/
     <div class="column">
       <img src="/assets/images/leo.jpg" alt="Leo Siqueira">
       <p class="name">Leo Siqueira, PhD</p>
-      <p class="navy">Assistant Scientist</p>
+      <p class="navy">Associate Scientist</p>
       <p class="navy">University of Miami, Rosenstiel School</p>
       <p class="purple">Institute for Data Science & Computing</p>
-      <p>My research interests include ENSO dynamics & predictability, Earth system model development, High-resolution global climate modeling and the role of ocean fronts and eddies in decadal climate prediction.</p>
+      <p>My research interests include ENSO dynamics & predictability, Earth system model development, High-resolution global climate modeling and the role of ocean fronts and eddies in subseasonal to decadal prediction.</p>
     </div>
     <div class="column">
       <img src="/assets/images/dug.jpg" alt="Dughong Min">
@@ -214,10 +214,10 @@ permalink: /people/
     </div>
     <div class="column">
       <img src="/assets/images/cait.jpg" alt="Cait">
-      <p class="name">Cait Collins</p>
+      <p class="name">Caitlin Martinez</p>
       <p class="navy">PhD Student</p>
-      <p class="purple">Contact Email: ​<a href="mailto:​caitcollins@miami.edu">​caitcollins@miami.edu</a></p>
-      <p>My research interests include elucidation of the dynamic Earth system through modeling, especially climate variability and predictability, and large-scale moisture dynamics and transport. Outside of research I enjoy exploring the backcountry with my family.</p>
+      <p class="purple">Contact Email: ​<a href="mailto:​caitmartinez@miami.edu">​caitmartinez@miami.edu</a></p>
+      <p>My research aims to disentangle the dual influences of deterministic dynamics and stochastic processes on ENSO evolution and predictability, and to enhance our understanding of the mechanisms limiting ENSO predictability in fully coupled models. My research interests include high-resolution global climate modeling, climate variability and predictability, and air-sea interactions. I balance my time with backpacking, skiing, and paddle boarding with my family.</p>
     </div>
     <div class="column">
       <img src="/assets/images/josiah.jpg" alt="Josiah">
@@ -285,7 +285,7 @@ permalink: /people/
       <img src="/assets/images/kayla.jpg" alt="Dr. Kayla Besong" style="width: 150px; height: auto;">
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Kayla Besong</h1>
-          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:kayla.besong@earth.miami.edu">kayla.besong@earth.miami.edu</a></p>
+          <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:kayla.besong@noaa.gov">kayla.besong@noaa.gov</a></p>
           <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Pacific Tsunami Warning Center (PTWC)</p>
           <p style="margin-top: 10px; font-size: 14px;">PhD Work: My research focused on atmospheric blocking, with an emphasis on the North Atlantic region. I examined the effects of different blocking algorithms on data analysis, explored the relationship between atmospheric blocks and the North Atlantic Oscillation, and assessed how accurately blocks are represented in CESM.</p>
       </div>
@@ -326,8 +326,8 @@ permalink: /people/
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Natalie Perlin</h1>
           <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:perlin.natalie@gmail.com">perlin.natalie@gmail.com</a></p>
           <p style="margin-top: 10px; font-size: 14px;">Current Affiliation: Sr. Systems Engineer, RedLine Performance Solutions, LLC. Working on NOAA's Earth Prediction Innovation Center (EPIC) project.</p>
-          <p style="margin-top: 10px; font-size: 14px;">Natalie has been an instructor and presenter in AGU Short Course and Workshop 2022, AMS 2023, and Unified Innovation in Forecast Capabilities Workshop (UIFCW) 2023, for running UFS SRW Application on cloud platforms, using software containers for running the UFS SRW Applications, running UFS LandDA-offline containerized application.</p>
-          <p style="margin-top: 10px; font-size: 14px;">RSMAS Work: My research focused on climate studies with the Interactive Ensemble (IE) approach applications. Multi-century global simulations with the implemented IE allow highlighting the climate signal in the atmospheric teleconnections, such as ENSO and the Pacific Decadal Oscillations (PDO). Additionally, multiples realizations of the atmosphere coupled to a single ocean offer insights into the different possibilities of tropical waves and depressions developing over the identical ocean state, under the stable climate or with the anthropogenic CO2 forcing scenarios.</p>
+          <p style="margin-top: 10px; font-size: 14px;">Natalie takes an active part in Unified Forecast System (UFS), UFS applications, and supporting software stack development, as well as computational systems support.</p>
+          <p style="margin-top: 10px; font-size: 14px;">RSMAS Work: My research focused on climate studies with the Interactive Ensemble (IE) approach applications. Multi-century global simulations with the implemented IE allow highlighting the climate signal in the atmospheric teleconnections. Additionally, multiple realizations of the atmosphere coupled to a single ocean offer insights into the different possibilities of tropical waves and depressions developing over the identical ocean state.</p>
       </div>
   </div>
       <hr style="border: 1px solid black; margin: 20px 0;">
