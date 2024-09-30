@@ -167,7 +167,7 @@ permalink: /news/
           <img src="/assets/images/24_4.jpg" alt="globaltemps" style="width: 300px; height: auto;">
       </a>
       <div>
-          <p style="margin-top: 10px; font-size: 14px;">Ben discusses rising global temperatures, specifically becauase last year, Earth experienced its warmest year on record. To read the article with many quotes from Ben, you can click on the image.</p>
+          <p style="margin-top: 10px; font-size: 14px;">Ben discusses rising global temperatures, specifically because last year, Earth experienced its warmest year on record. To read the article with many quotes from Ben, you can click on the image.</p>
       </div>
   </div>
   
