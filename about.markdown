@@ -213,7 +213,7 @@ permalink: /people/
       <p>I am a current graduate student interested in how climate change and natural variability affect sea level rise and coastal flooding along the U.S. east coast. Outside of research you can find me at the beach looking for dolphins and doing yoga. I also enjoy traveling and hiking!</p>
     </div>
     <div class="column">
-      <img src="/assets/images/cait.jpg" alt="Cait">
+      <img src="/assets/images/caitmartinez.jpg" alt="Cait">
       <p class="name">Caitlin Martinez</p>
       <p class="navy">PhD Student</p>
       <p class="purple">Contact Email: ​<a href="mailto:​caitmartinez@miami.edu">​caitmartinez@miami.edu</a></p>
