@@ -89,8 +89,8 @@ permalink: /group-updates/
   .small-text {
     font-size: 14px;
     text-align: left;
-    margin-left: 20px;
-    width: 50%; /* Makes the text take up 50% of the container */
+    margin-left: 50px;
+    width: 45%; /* Makes the text take up 50% of the container */
   }
   .image-text-container {
     display: flex;
@@ -100,9 +100,9 @@ permalink: /group-updates/
     margin: 20px 0;
   }
   .image-text-container img {
-    width: 50%; /* Makes the image take up 50% of the container */
-    max-width: 100%;
-    margin-right: 20px;
+    width: 45%; /* Makes the image take up 50% of the container */
+    max-width: 90%;
+    margin-right: 50px;
     border-radius: 8px;
   }
   .image-text-container a {
