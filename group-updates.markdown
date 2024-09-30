@@ -90,7 +90,7 @@ permalink: /group-updates/
     font-size: 14px;
     text-align: left;
     margin-left: 50px;
-    width: 45%; /* Makes the text take up 50% of the container */
+    width: 50%; /* Makes the text take up 50% of the container */
   }
   .image-text-container {
     display: flex;
@@ -101,7 +101,7 @@ permalink: /group-updates/
   }
   .image-text-container img {
     width: 45%; /* Makes the image take up 50% of the container */
-    max-width: 90%;
+    max-width: 45%;
     margin-right: 50px;
     border-radius: 8px;
   }
