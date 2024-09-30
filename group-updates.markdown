@@ -80,6 +80,6 @@ permalink: /group-updates/
 
 <div class="page-content">
   <div class="container">
-    <img src="assets/imagesupdate1.jpg" alt="Descriptive Image">
+    <img src="assets/images/update1.jpg" alt="Descriptive Image">
   </div>
 </div>
