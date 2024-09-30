@@ -70,4 +70,16 @@ permalink: /group-updates/
     width: fit-content;
     margin: 10px 0;
   }
+    .container img {
+    width: 90%; /* Span almost the entire width of the container */
+    max-width: 100%; /* Ensure it doesn't exceed the container size */
+    height: auto; /* Keep image proportional */
+    border-radius: 8px; /* Optional: Adds rounded corners to the image */
+  }
 </style>
+
+<div class="page-content">
+  <div class="container">
+    <img src="assets/imagesupdate1.jpg" alt="Descriptive Image">
+  </div>
+</div>
