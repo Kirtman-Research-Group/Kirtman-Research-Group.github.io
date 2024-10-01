@@ -90,7 +90,7 @@ permalink: /group-updates/
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin: 20px 0;
+    margin: 5px 0;
     text-align: left;
   }
   .image-text-container img {
