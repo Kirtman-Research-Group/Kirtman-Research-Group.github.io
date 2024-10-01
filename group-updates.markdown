@@ -86,26 +86,22 @@ permalink: /group-updates/
     text-align: center;
     margin: 20px 0;
   }
-  .small-text {
-    font-size: 14px;
-    text-align: left;
-    width: 50%; /* Makes the text take up 50% of the container */
-  }
   .image-text-container {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
+    margin: 20px 0;
     text-align: left;
-    margin: 5px 0;
   }
   .image-text-container img {
-    width: 45%; /* Image takes up 45% of the container */
-    max-width: 100%;
+    width: 50%; /* Image takes exactly half the width */
+    height: auto;
     border-radius: 8px;
+    margin-right: 20px;
   }
-  .image-text-container a {
-    color: inherit;
-    text-decoration: none;
+  .small-text {
+    font-size: 14px;
+    width: 50%; /* Text takes exactly the other half */
   }
 </style>
 
