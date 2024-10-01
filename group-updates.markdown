@@ -115,13 +115,11 @@ permalink: /group-updates/
     <div class="divider"></div>
     <div class="welcome-title">Ben Participated in a Field Hearing for Congresswoman Debbie Wasserman Schultz</div>
     <div class="divider"></div>
-    <div class="image-text-container">
-      <a href="https://www.sun-sentinel.com/2024/09/15/climate-problems-are-causing-financial-problems-in-south-florida-panel-says/" target="_blank">
-        <img src="/assets/images/update1_3.jpg" alt="Ben Participating in Field Hearing">
-      </a>
-      <p class="small-text">
-        Ben participated in a field hearing for Congresswoman Debbie Wasserman Schultz where he discussed how climate issues are causing financial issues in South Florida. To read more, click on the image to the left.
-      </p>
+    <a href="https://www.sun-sentinel.com/2024/09/15/climate-problems-are-causing-financial-problems-in-south-florida-panel-says/" target="_blank">
+      <img src="/assets/images/updates1_3.jpg" alt="Ben participating in field hearing">
+    </a>
+    <div class="small-text">
+      Ben participated in a field hearing for Congresswoman Debbie Wasserman Schultz where he discussed how climate issues are causing financial issues in South Florida. To read more, click on the image above.
     </div>
     <div class="divider"></div>
   </div>
