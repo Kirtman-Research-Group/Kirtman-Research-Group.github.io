@@ -94,10 +94,10 @@ permalink: /group-updates/
     text-align: left;
   }
   .image-text-container img {
-    width: 50%; /* Image takes exactly half the width */
+    width: 90%; /* Image takes exactly half the width */
     height: auto;
-    border-radius: 8px;
-    margin-right: 20px;
+    border-radius: 2px;
+    margin-right: 5px;
   }
   .small-text {
     font-size: 14px;
