@@ -90,13 +90,13 @@ permalink: /group-updates/
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin: 5px 0;
+    margin: 5px;
     text-align: left;
   }
   .image-text-container img {
-    width: 90%; /* Image takes exactly half the width */
+    width: 50%; /* Image takes exactly half the width */
     height: auto;
-    border-radius: 2px;
+    border-radius: 8px;
     margin-right: 5px;
   }
   .small-text {
