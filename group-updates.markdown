@@ -100,9 +100,8 @@ permalink: /group-updates/
     margin: 20px 0;
   }
   .image-text-container img {
-    width: 45%; /* Makes the image take up 50% of the container */
-    max-width: 45%;
-    margin-right: 50px;
+    width: 45%; /* Image takes up 45% of the container */
+    max-width: 100%;
     border-radius: 8px;
   }
   .image-text-container a {
