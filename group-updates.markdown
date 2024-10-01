@@ -89,7 +89,6 @@ permalink: /group-updates/
   .small-text {
     font-size: 14px;
     text-align: left;
-    margin-left: 50px;
     width: 50%; /* Makes the text take up 50% of the container */
   }
   .image-text-container {
@@ -97,7 +96,7 @@ permalink: /group-updates/
     justify-content: space-between;
     align-items: center;
     text-align: left;
-    margin: 20px 0;
+    margin: 5px 0;
   }
   .image-text-container img {
     width: 45%; /* Image takes up 45% of the container */
