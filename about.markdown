@@ -197,41 +197,45 @@ permalink: /people/
 
 <div class="new-container">
   <h2>Graduate Students</h2>
+
+  <!-- Row 1 -->
   <div class="columns">
-    <!-- Row 1 -->
     <div class="column">
-      <img src="/assets/images/caitmartinez.jpg" alt="Cait">
+      <img src="/assets/images/caitmartinez.jpg" alt="Caitlin Martinez">
       <p class="name">Caitlin Martinez</p>
       <p class="navy">PhD Student</p>
       <p class="purple">Contact Email: <a href="mailto:caitmartinez@miami.edu">caitmartinez@miami.edu</a></p>
       <p>My research aims to disentangle the dual influences of deterministic dynamics and stochastic processes on ENSO evolution and predictability, and to enhance our understanding of the mechanisms limiting ENSO predictability in fully coupled models. My research interests include high-resolution global climate modeling, climate variability and predictability, and air-sea interactions. I balance my time with backpacking, skiing, and paddle boarding with my family.</p>
     </div>
-    
+
   <div class="column">
-      <img src="/assets/images/josiah.jpg" alt="Josiah">
+      <img src="/assets/images/josiah.jpg" alt="Josiah Kaiser">
       <p class="name">Josiah Kaiser</p>
       <p class="navy">PhD Student</p>
       <p class="purple">Contact Email: <a href="mailto:jmk433@earth.miami.edu">jmk433@earth.miami.edu</a></p>
       <p>I am a graduate student working with Dr. Ben Kirtman and Dr. Emily Becker. I am most interested in researching climate change and developing long term differential models to predict, and hopefully inform policy on, climate change, especially in high impact areas. Outside of research I enjoy creating music and learning mathematics. I generally just like to try new things and meet new people!</p>
     </div>
-    
+
   <div class="column">
-      <img src="/assets/images/christina.jpg" alt="Christina">
+      <img src="/assets/images/christina.jpg" alt="Christina Schuler">
       <p class="name">Christina Schuler</p>
       <p class="navy">PhD Student</p>
       <p class="purple">Contact Email: <a href="mailto:cts123@earth.miami.edu">cts123@earth.miami.edu</a></p>
       <p>My research interests include hurricanes, climate science, and coastal storm climatology. Some of my hobbies outside of school are playing violin, writing, and tracking storms across South Florida.</p>
     </div>
- <!-- Row 2 -->
+  </div>
+
+  <!-- Row 2 -->
+  <div class="columns">
     <div class="column">
-      <img src="/assets/images/ian.jpg" alt="Ian">
+      <img src="/assets/images/ian.jpg" alt="Ian Gifford">
       <p class="name">Ian Gifford</p>
       <p class="navy">PhD Student</p>
       <p class="purple">Contact Email: <a href="mailto:igifford@earth.miami.edu">igifford@earth.miami.edu</a></p>
       <p>I am a graduate student working with Dr. Ben Kirtman and Dr. Emily Becker. Anthropogenic climate change and its effects on the El Nino Southern Oscillation remains an open question. My research pertains to predictions of the impacts on terrestrial North America (temperature and precipitation) related to possible future ENSO changes.</p>
     </div>
 
-   <div class="column">
+  <div class="column">
       <img src="/assets/images/lily.jpg" alt="Lily Johnston">
       <p class="name">Lily Johnston</p>
       <p class="navy">PhD Student</p>
@@ -246,16 +250,21 @@ permalink: /people/
       <p class="purple">Contact Email: <a href="mailto:tbp32@miami.edu">tbp32@miami.edu</a></p>
       <p>I’m interested in analyzing downscaled climate model output, especially for tropical and subtropical regions. Outside of research, I enjoy hiking and watching basketball games.</p>
     </div>
- <!-- Row 3 -->
-  <div class="column">
-    <img src="/assets/images/tori.png" alt="Tori Paige Sargent">
-    <p class="name">Tori Paige Sargent</p>
-    <p class="navy">PhD Student</p>
-    <p class="purple">Contact Email: <a href="mailto:t.sargent@miami.edu">t.sargent@miami.edu</a></p>
-    <p>I am a first-year Ph.D. student focused on understanding how global climate dynamics drive local coastal impacts to better inform adaptation and resilience strategies. My research interests include coastal climate dynamics, downscaling climate models for regional applications, sub-seasonal predictions and exploring how sea level variability and extreme heat affect coastal communities. I am passionate about linking solution-driven climate research with regional adaptation, especially by integrating uncertainty into planning and improving communication with local officials. I grew up in Hollywood, Florida and have been a Miami Beach resident for over a decade, who loves spending time outdoors, rollerblading along the beachwalk, exploring local parks, trying the newest restaurants, practicing yoga, photographing nature, hosting daytime disco parties on sunny days, and enjoying life with my husband and our dog.</p>
+  </div>
+
+  <!-- Row 3 -->
+  <div class="columns">
+    <div class="column">
+      <img src="/assets/images/tori.png" alt="Tori Paige Sargent">
+      <p class="name">Tori Paige Sargent</p>
+      <p class="navy">PhD Student</p>
+      <p class="purple">Contact Email: <a href="mailto:t.sargent@miami.edu">t.sargent@miami.edu</a></p>
+      <p>I am a first-year Ph.D. student focused on understanding how global climate dynamics drive local coastal impacts to better inform adaptation and resilience strategies. My research interests include coastal climate dynamics, downscaling climate models for regional applications, sub-seasonal predictions and exploring how sea level variability and extreme heat affect coastal communities. I am passionate about linking solution-driven climate research with regional adaptation, especially by integrating uncertainty into planning and improving communication with local officials. I grew up in Hollywood, Florida and have been a Miami Beach resident for over a decade, who loves spending time outdoors, rollerblading along the beachwalk, exploring local parks, trying the newest restaurants, practicing yoga, photographing nature, hosting daytime disco parties on sunny days, and enjoying life with my husband and our dog.</p>
     </div>
-   </div>
+  </div>
+
 </div>
+
 
 
 <div class="new-container former-container">
