@@ -104,17 +104,23 @@ layout: home
 
 
 <div class="main-container">
-  <div class="content-container" style="display: flex;">
-    <div style="flex: 1; display: flex; flex-direction: column; align-items: center; padding-right: 20px;">
-      <img src="/assets/images/ben_main_pic.jpg" alt="Dr. Benjamin Kirtman" class="large-image" style="width: 100%; height: auto;">
-    </div>
-    <div style="flex: 1;">
+  <div class="content-container">
+    <!-- Text (centered) -->
+    <div style="max-width: 520px; margin: 0 auto; text-align: center;">
       <p style="font-weight: bold; text-decoration: underline;">Welcome To Our Lab Website</p>
       <p>
-        The Kirtman Group at the University of Miami's Rosenstiel School of Marine, Atmospheric & Earth Science specializes in climate modeling and climate variability research. Our group is very diverse with concentrations from climate predictability and prediction to weather-climate interactions and high-resolution ocean modeling. We also play an instrumental role in the North American Multi-Model Ensemble prediction system.
+         The Kirtman Group at the University of Miami's Rosenstiel School of Marine, Atmospheric & Earth Science specializes in climate modeling and climate variability research. Our group is very diverse with concentrations from climate predictability and prediction to weather-climate interactions and high-resolution ocean modeling. We also play an instrumental role in the North American Multi-Model Ensemble prediction system.
       </p>
       <div class="research-box">
         <a href="/research">Our Research</a>
+      </div>
+    </div>
+    <!-- Image (same width as text block) -->
+    <div style="max-width: 520px; margin: 16px auto 0 auto;">
+      <img src="/assets/images/ben_main_pic.jpg"
+         alt="Dr. Benjamin Kirtman"
+         class="large-image"
+         style="width: 100%; height: auto; display: block;">
       </div>
     </div>
   </div>
