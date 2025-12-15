@@ -123,7 +123,6 @@ layout: home
          style="width: 100%; height: auto; display: block;">
       </div>
     </div>
-  </div>
 
   <div class="content-container" style="display: flex;">
     <div style="flex: 1;">
