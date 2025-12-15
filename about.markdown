@@ -150,7 +150,7 @@ permalink: /people/
 
 <div class="container">
   <div class="content-wrapper" style="padding-top: 20px;">
-      <img src="/assets/images/ben.jpg" alt="Ben Kirtman">
+      <img src="/assets/images/b_kirt_dean.jpg" alt="Ben Kirtman">
       <div>
           <h1>Ben Kirtman, PhD</h1>
           <p>Professor of Atmospheric Sciences</p>
@@ -198,64 +198,58 @@ permalink: /people/
 <div class="new-container">
   <h2>Graduate Students</h2>
   <div class="columns">
-    <div class="column">
-      <img src="/assets/images/karen.jpg" alt="Karen">
-      <p class="name">Karen Papazian</p>
-      <p class="navy">PhD Candidate</p>
-      <p class="purple">Contact Email: <a href="mailto:karen.papazian@rsmas.miami.edu">karen.papazian@rsmas.miami.edu</a></p>
-      <p>I am a current graduate student interested in the effects of climate change on extreme cold air outbreaks. I'm looking at how upper atmospheric features differ when using aquaplanet simulations with various pole to equator temperature gradients. Outside of research I enjoy traveling, watching baseball games (go Yankees) and going to Disney World!</p>
-    </div>
-    <div class="column">
-      <img src="/assets/images/vic.jpg" alt="Vic">
-      <p class="name">Victoria Schoenwald</p>
-      <p class="navy">PhD Candidate</p>
-      <p class="purple">Contact Email:​ <a href="mailto:vks16@miami.edu">vks16@miami.edu</a></p>
-      <p>I am a current graduate student interested in how climate change and natural variability affect sea level rise and coastal flooding along the U.S. east coast. Outside of research you can find me at the beach looking for dolphins and doing yoga. I also enjoy traveling and hiking!</p>
-    </div>
+    <!-- Row 1 -->
     <div class="column">
       <img src="/assets/images/caitmartinez.jpg" alt="Cait">
       <p class="name">Caitlin Martinez</p>
       <p class="navy">PhD Student</p>
-      <p class="purple">Contact Email: ​<a href="mailto:​caitmartinez@miami.edu">​caitmartinez@miami.edu</a></p>
+      <p class="purple">Contact Email: <a href="mailto:caitmartinez@miami.edu">caitmartinez@miami.edu</a></p>
       <p>My research aims to disentangle the dual influences of deterministic dynamics and stochastic processes on ENSO evolution and predictability, and to enhance our understanding of the mechanisms limiting ENSO predictability in fully coupled models. My research interests include high-resolution global climate modeling, climate variability and predictability, and air-sea interactions. I balance my time with backpacking, skiing, and paddle boarding with my family.</p>
     </div>
-    <div class="column">
+    
+  <div class="column">
       <img src="/assets/images/josiah.jpg" alt="Josiah">
       <p class="name">Josiah Kaiser</p>
       <p class="navy">PhD Student</p>
-      <p class="purple">Contact Email:​ <a href="mailto:jmk433@earth.miami.edu">jmk433@earth.miami.edu</a></p>
+      <p class="purple">Contact Email: <a href="mailto:jmk433@earth.miami.edu">jmk433@earth.miami.edu</a></p>
       <p>I am a graduate student working with Dr. Ben Kirtman and Dr. Emily Becker. I am most interested in researching climate change and developing long term differential models to predict, and hopefully inform policy on, climate change, especially in high impact areas. Outside of research I enjoy creating music and learning mathematics. I generally just like to try new things and meet new people!</p>
     </div>
-    <div class="column">
+    
+  <div class="column">
       <img src="/assets/images/christina.jpg" alt="Christina">
       <p class="name">Christina Schuler</p>
       <p class="navy">PhD Student</p>
-      <p class="purple">​Contact Email:​ <a href="mailto:cts123@earth.miami.edu">cts123@earth.miami.edu</a></p>
+      <p class="purple">Contact Email: <a href="mailto:cts123@earth.miami.edu">cts123@earth.miami.edu</a></p>
       <p>My research interests include hurricanes, climate science, and coastal storm climatology. Some of my hobbies outside of school are playing violin, writing, and tracking storms across South Florida.</p>
     </div>
+ <!-- Row 2 -->
     <div class="column">
       <img src="/assets/images/ian.jpg" alt="Ian">
       <p class="name">Ian Gifford</p>
       <p class="navy">PhD Student</p>
-      <p class="purple">​Contact Email:​ <a href="mailto:igifford@earth.miami.edu">igifford@earth.miami.edu</a></p>
-      <p>I am a graduate student working with Dr. Ben Kirtman and Dr. Emily Becker. Anthropogenic climate change and its effects on the El Nino Southern Oscillation remains an open question. My research  pertains to predictions of the impacts on terrestrial North America (temperature and precipitation) related to possible future ENSO changes.</p>
+      <p class="purple">Contact Email: <a href="mailto:igifford@earth.miami.edu">igifford@earth.miami.edu</a></p>
+      <p>I am a graduate student working with Dr. Ben Kirtman and Dr. Emily Becker. Anthropogenic climate change and its effects on the El Nino Southern Oscillation remains an open question. My research pertains to predictions of the impacts on terrestrial North America (temperature and precipitation) related to possible future ENSO changes.</p>
     </div>
-<div class="columns two-column-row">
+
+   <div class="column">
+      <img src="/assets/images/lily.jpg" alt="Lily Johnston">
+      <p class="name">Lily Johnston</p>
+      <p class="navy">PhD Student</p>
+      <p class="purple">Contact Email: <a href="mailto:lilyjohnston@miami.edu">lilyjohnston@miami.edu</a></p>
+      <p>I am interested in subseasonal to seasonal prediction and studying weather-climate interactions. I would like to improve forecast skill in the North American Multi-Model Ensemble (NMME) through model verification and use the model for seasonal climate prediction. In my free time I like running, crocheting and baking.</p>
+    </div>
+
   <div class="column">
-    <img src="/assets/images/lily.jpg" alt="Lily Johnston">
-    <p class="name">Lily Johnston</p>
-    <p class="navy">PhD Student</p>
-    <p class="purple">Contact Email: <a href="mailto:lilyjohnston@miami.edu">lilyjohnston@miami.edu</a></p>
-    <p>I am interested in subseasonal to seasonal prediction and studying weather-climate interactions. I would like to improve forecast skill in the North American Multi-Model Ensemble (NMME) through model verification and use the model for seasonal climate prediction. In my free time I like running, crocheting and baking.</p>
-  </div>
-  <div class="column">
-    <img src="/assets/images/theresia.jpg" alt="Theresia Phoa">
-    <p class="name">Theresia Phoa</p>
-    <p class="navy">PhD Student</p>
-    <p class="purple">Contact Email: <a href="mailto:tbp32@miami.edu">tbp32@miami.edu</a></p>
-    <p>I’m interested in analyzing downscaled climate model output, especially for tropical and subtropical regions. Outside of research, I enjoy hiking and watching basketball games.</p>
+      <img src="/assets/images/theresia.jpg" alt="Theresia Phoa">
+      <p class="name">Theresia Phoa</p>
+      <p class="navy">PhD Student</p>
+      <p class="purple">Contact Email: <a href="mailto:tbp32@miami.edu">tbp32@miami.edu</a></p>
+      <p>I’m interested in analyzing downscaled climate model output, especially for tropical and subtropical regions. Outside of research, I enjoy hiking and watching basketball games.</p>
+    </div>
   </div>
 </div>
+
+
 <div class="new-container former-container">
   <h2>Former Undergraduate Members</h2>
   <div class="content-wrapper" style="padding-top: 10px;">
