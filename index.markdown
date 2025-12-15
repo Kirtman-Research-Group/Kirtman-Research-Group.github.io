@@ -106,7 +106,7 @@ layout: home
 <div class="main-container">
   <div class="content-container" style="display: flex;">
     <div style="flex: 1; display: flex; flex-direction: column; align-items: center; padding-right: 20px;">
-      <img src="/assets/images/kirtman_pic.jpg" alt="Dr. Benjamin Kirtman" class="large-image" style="width: 100%; height: auto;">
+      <img src="/assets/images/ben_main_pic.jpg" alt="Dr. Benjamin Kirtman" class="large-image" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1;">
       <p style="font-weight: bold; text-decoration: underline;">Welcome To Our Lab Website</p>
@@ -124,6 +124,7 @@ layout: home
       <p style="font-weight: bold; text-decoration: underline;">Contact Information</p>
       <p>
         Ben Kirtman<br>
+        Dean of the Rosenstiel School of Marine, Atmospheric, and Earth Science<br>
         Professor in the Department of Atmospheric Sciences<br>
         William R Middelthon III Chair of Earth Sciences<br>
         Director of the Cooperative Institute for Marine & Atmospheric Studies<br>
