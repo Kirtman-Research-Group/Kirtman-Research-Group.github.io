@@ -257,10 +257,10 @@ permalink: /people/
     <img src="/assets/images/tori.png" alt="Tori Paige Sargent" class="smaller-image">
 
   <div>
-      <p class="name">Tori Paige Sargent</p>
+      <p class="name" style="font-size: 18px;">Tori Paige Sargent</p>
       <p class="navy">PhD Student</p>
       <p class="purple contact-email">
-        Contact Email:
+         Contact Email:
         <a href="mailto:t.sargent@miami.edu">t.sargent@miami.edu</a>
       </p>
       <p style="margin-top: 10px;">
