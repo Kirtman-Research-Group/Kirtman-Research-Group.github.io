@@ -268,7 +268,7 @@ permalink: /people/
     </p>
   </div>
 </div>
-
+</div>
 
 <div class="new-container former-container">
   <h2>Former Undergraduate Members</h2>
