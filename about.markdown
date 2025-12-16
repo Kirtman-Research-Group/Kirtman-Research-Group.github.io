@@ -252,23 +252,21 @@ permalink: /people/
     </div>
   </div>
 
-  <!-- Row 3 (Tori – image left, text right) -->
-  <div class="content-wrapper" style="padding-top: 20px;">
-    <img src="/assets/images/tori.png" alt="Tori Paige Sargent" class="smaller-image">
+<!-- Row 3 (Tori – image left, text right) -->
+<div class="content-wrapper" style="padding-top: 20px;">
+  <img src="/assets/images/tori.png" alt="Tori Paige Sargent" class="smaller-image">
 
   <div>
-      <p class="name" style="font-size: 18px;">Tori Paige Sargent</p>
-      <p class="navy">PhD Student</p>
-      <p class="purple contact-email">
-         Contact Email:
-        <a href="mailto:t.sargent@miami.edu">t.sargent@miami.edu</a>
-      </p>
-      <p style="margin-top: 10px;">
-        I am a first-year Ph.D. student focused on understanding how global climate dynamics drive local coastal impacts to better inform adaptation and resilience strategies. My research interests include coastal climate dynamics, downscaling climate models for regional applications, sub-seasonal predictions and exploring how sea level variability and extreme heat affect coastal communities. I am passionate about linking solution-driven climate research with regional adaptation, especially by integrating uncertainty into planning and improving communication with local officials. I grew up in Hollywood, Florida and have been a Miami Beach resident for over a decade, who loves spending time outdoors, rollerblading along the beachwalk, exploring local parks, trying the newest restaurants, practicing yoga, photographing nature, hosting daytime disco parties on sunny days, and enjoying life with my husband and our dog.
-      </p>
-    </div>
+    <p class="name" style="font-size: 18px;">Tori Paige Sargent</p>
+    <p class="navy">PhD Student</p>
+    <p class="purple contact-email">
+      Contact Email:
+      <a href="mailto:t.sargent@miami.edu">t.sargent@miami.edu</a>
+    </p>
+    <p style="margin-top: 10px;">
+      I am a first-year Ph.D. student focused on understanding how global climate dynamics drive local coastal impacts to better inform adaptation and resilience strategies. My research interests include coastal climate dynamics, downscaling climate models for regional applications, sub-seasonal predictions and exploring how sea level variability and extreme heat affect coastal communities. I am passionate about linking solution-driven climate research with regional adaptation, especially by integrating uncertainty into planning and improving communication with local officials. I grew up in Hollywood, Florida and have been a Miami Beach resident for over a decade, who loves spending time outdoors, rollerblading along the beachwalk, exploring local parks, trying the newest restaurants, practicing yoga, photographing nature, hosting daytime disco parties on sunny days, and enjoying life with my husband and our dog.
+    </p>
   </div>
-
 </div>
 
 
