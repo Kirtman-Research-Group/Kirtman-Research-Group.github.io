@@ -203,7 +203,7 @@ permalink: /people/
       <p class="name">Karen Papazian, PhD</p>
       <p class="navy">Postdoctoral Researcher</p>
       <p class="navy">University of Miami, Rosenstiel School</p>
-      <p class="purple">Contact Email: <a href="mailto:kxp210@miami.edu">karen.papazian@rsmas.miami.edu</a></p>
+      <p class="purple">Contact Email: <a href="mailto:kxp210@miami.edu">kxp210@miami.edu</a></p>
       <p>My research interests include understanding the effects of climate change on extreme cold air outbreaks as well as understanding the change in precipitation over time in the NE United States. Outside of research I enjoy traveling, watching baseball games (go Yankees) and going to Disney World!</p>
     </div>
     <div class="column">
