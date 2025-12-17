@@ -167,6 +167,8 @@ permalink: /people/
 
 <div class="new-container">
   <h2>Postdocs & Researchers</h2>
+
+  <!-- Row 1 -->
   <div class="columns">
     <div class="column">
       <img src="/assets/images/leo.jpg" alt="Leo Siqueira">
@@ -193,7 +195,30 @@ permalink: /people/
       <p>My research interests include modeling and working with the WRF model to do high-resolution regional modeling over Florida through dynamical and statistical downscaling techniques. Outside of the office I love hiking and backpacking. I also love the beach and being outdoors.</p>
     </div>
   </div>
+
+  <!-- Row 2 (Karen in Leo's column, Victoria in Dughong's column) -->
+  <div class="columns">
+    <div class="column">
+      <img src="/assets/images/karen.jpg" alt="Karen">
+      <p class="name">Karen Papazian, PhD</p>
+      <p class="navy">PhD Candidate</p>
+      <p class="purple">Contact Email: <a href="mailto:karen.papazian@rsmas.miami.edu">karen.papazian@rsmas.miami.edu</a></p>
+      <p>I am a current graduate student interested in the effects of climate change on extreme cold air outbreaks. I'm looking at how upper atmospheric features differ when using aquaplanet simulations with various pole to equator temperature gradients. Outside of research I enjoy traveling, watching baseball games (go Yankees) and going to Disney World!</p>
+    </div>
+    <div class="column">
+      <img src="/assets/images/vic.jpg" alt="Vic">
+      <p class="name">Victoria Schoenwald, PhD</p>
+      <p class="navy">PhD Candidate</p>
+      <p class="purple">Contact Email: <a href="mailto:vks16@miami.edu">vks16@miami.edu</a></p>
+      <p>I am a current graduate student interested in how climate change and natural variability affect sea level rise and coastal flooding along the U.S. east coast. Outside of research you can find me at the beach looking for dolphins and doing yoga. I also enjoy traveling and hiking!</p>
+    </div>
+
+    <!-- Empty third column to keep the row aligned with the 3-column layout -->
+    <div class="column"></div>
+  </div>
+
 </div>
+
 
 <div class="new-container">
   <h2>Graduate Students</h2>
