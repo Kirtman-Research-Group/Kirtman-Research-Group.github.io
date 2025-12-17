@@ -201,16 +201,18 @@ permalink: /people/
     <div class="column">
       <img src="/assets/images/karen.jpg" alt="Karen">
       <p class="name">Karen Papazian, PhD</p>
-      <p class="navy">PhD Candidate</p>
+      <p class="navy">Postdoctoral Researcher</p>
+      <p class="navy">University of Miami, Rosenstiel School</p>
       <p class="purple">Contact Email: <a href="mailto:karen.papazian@rsmas.miami.edu">karen.papazian@rsmas.miami.edu</a></p>
-      <p>I am a current graduate student interested in the effects of climate change on extreme cold air outbreaks. I'm looking at how upper atmospheric features differ when using aquaplanet simulations with various pole to equator temperature gradients. Outside of research I enjoy traveling, watching baseball games (go Yankees) and going to Disney World!</p>
+      <p>My research interests include understanding the effects of climate change on extreme cold air outbreaks as well as understanding the change in precipitation over time in the NE United States. Outside of research I enjoy traveling, watching baseball games (go Yankees) and going to Disney World!</p>
     </div>
     <div class="column">
       <img src="/assets/images/vic.jpg" alt="Vic">
       <p class="name">Victoria Schoenwald, PhD</p>
-      <p class="navy">PhD Candidate</p>
+      <p class="navy">Postdoctoral Researcher</p>
+      <p class="navy">University of Miami, Rosenstiel School</p>
       <p class="purple">Contact Email: <a href="mailto:vks16@miami.edu">vks16@miami.edu</a></p>
-      <p>I am a current graduate student interested in how climate change and natural variability affect sea level rise and coastal flooding along the U.S. east coast. Outside of research you can find me at the beach looking for dolphins and doing yoga. I also enjoy traveling and hiking!</p>
+      <p>My research interests include how climate change and natural variability affect sea level rise and coastal flooding along the U.S. east coast. Outside of research you can find me at the beach looking for dolphins and doing yoga. I also enjoy traveling and hiking!</p>
     </div>
 
     <!-- Empty third column to keep the row aligned with the 3-column layout -->
