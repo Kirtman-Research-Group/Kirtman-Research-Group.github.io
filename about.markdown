@@ -385,10 +385,9 @@ permalink: /people/
       <img src="/assets/images/marybeth.jpg" alt="Dr. Marybeth Arcodia" style="width: 150px; height: auto;">
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Marybeth Arcodia</h1>
-          <p style="margin-top: 10px; font-size: 14px;">​​Current Affiliation: Assistant Professor: Rosenstiel School of Marine, Atmospheric, and Earth Science & Frost Institute for Data Science and Computing, University of Miami.<img width="468" height="27" alt="image" src="https://github.com/user-attachments/assets/935534c1-6029-4a2b-b4c1-0e5a7f2dfa07" />
-.</p>
+          <p style="margin-top: 10px; font-size: 14px;">​​Current Affiliation: Assistant Professor: Rosenstiel School of Marine, Atmospheric, and Earth Science & Frost Institute for Data Science and Computing, University of Miami.</p>
           <p style="margin-top: 10px; font-size: 14px;">PhD work: using observations and a collection of climate models to study how MJO and ENSO teleconnections impact U.S. weather on subseasonal timescales, with a focus on extreme precipitation events.</p>
-          <a href="https://mmarybetharcodia.wixsite.com/earth" class="webpage-button">Webpage</a>
+          <a href="https://marybetharcodia.wixsite.com/earth" class="webpage-button">Webpage</a>
       </div>
   </div>
       <hr style="border: 1px solid black; margin: 20px 0;">
