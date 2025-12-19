@@ -153,6 +153,7 @@ permalink: /people/
       <img src="/assets/images/b_kirt_dean.jpg" alt="Ben Kirtman">
       <div>
           <h1>Ben Kirtman, PhD</h1>
+          <p>Dean of the Rosenstiel School</p>
           <p>Professor of Atmospheric Sciences</p>
           <p>William R. Middelthon III Endowed Chair in Earth Sciences</p>
           <p style="margin-top: 10px;" class="lightgreen">
