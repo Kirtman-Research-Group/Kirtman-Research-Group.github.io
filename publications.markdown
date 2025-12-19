@@ -81,7 +81,52 @@ permalink: /publications/
       This page hosts publications from previous and current group members during the time period of 2019 to present day. Underlined names indicate group members or current/former graduate students. For publications prior to 2019 see <a href="https://scholar.google.com/citations?user=1L6X1YgAAAAJ&hl=en" target="_blank">Google Scholar</a>.
     </div>
   </div>
-  
+
+  <!-- NEW 2025 CONTAINER STARTS HERE -->
+  <div class="container">
+    <div class="sub-container">
+      <div class="year-title">2025</div>
+      <div class="publication-text">
+        <a href="https://journals.ametsoc.org/view/journals/bams/106/10/BAMS-D-24-0196.1.xml" target="_blank">
+          <span class="bold">Kirtman, B. P.</span>, 
+          <span class="underline">Arcodia, M. C.</span>, 
+          <span class="underline">Becker, E. J.</span>, 
+          <span class="underline">Besong, K.</span>, 
+          <span class="underline">Boyd, J. S.</span>, 
+          <span class="underline">Daher, H.</span>, 
+          <span class="underline">Gifford, I.</span>, 
+          <span class="underline">Infanti, J.</span>, 
+          <span class="underline">Kaiser, J.</span>, 
+          <span class="underline">Kramer, S.</span>, 
+          <span class="underline">Larson, S. M.</span>, 
+          <span class="underline">Laurindo, L. C.</span>, 
+          <span class="underline">Lopez, H.</span>, 
+          <span class="underline">Malloy, K.</span>, 
+          <span class="underline">Martinez, C.</span>, 
+          <span class="underline">Papazian, K.</span>, 
+          <span class="underline">Pegion, K.</span>, 
+          <span class="underline">Perlin, N.</span>, 
+          <span class="underline">Schuler, C.</span>, 
+          <span class="underline">Schoenwald, V.</span>, 
+          <span class="underline">Siqueira, L. S. P.</span>, 
+          <span class="underline">Zavadoff, B.</span>, &amp; 
+          <span class="underline">Zhang, W.</span> (2025). A Simplified-Physics Atmosphere General Circulation Model for Idealized Climate Dynamics Studies. Bulletin of the American Meteorological Society, 106(10), E2073–E2086. https://doi.org/10.1175/BAMS-D-24-0196.1
+        </a>
+        <div class="divider"></div>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD043896" target="_blank">
+          <span class="underline">Zavadoff, B. L.</span>, Cheng, K.-Y., 
+          <span class="underline">Lopez, H.</span>, Kim, D., West, R., Gao, K., et al. (2025). Western US subseasonal atmospheric river prediction in the global-nested GFDL SHiELD model. Journal of Geophysical Research: Atmospheres, 130, e2025JD043896. https://doi.org/10.1029/2025JD043896
+        </a>
+        <div class="divider"></div>
+        <a href="https://link.springer.com/article/10.1007/s00382-025-07740-6" target="_blank">
+          <span class="underline">Zavadoff, B.</span>, 
+          <span class="bold">Kirtman, B.</span> (2025). Characterization of Western US hydrologic processes linked to atmospheric rivers in two sets of seasonal global retrospective forecasts. Climate Dynamics, 63, 264. https://doi.org/10.1007/s00382-025-07740-6
+        </a>
+      </div>
+    </div>
+  </div>
+  <!-- NEW 2025 CONTAINER ENDS HERE -->
+
   <div class="container">
     <div class="sub-container">
       <div class="year-title">2024</div>
@@ -110,7 +155,7 @@ permalink: /publications/
       <div class="year-title">2023</div>
       <div class="publication-text">
         <a href="https://www.sciencedirect.com/science/article/pii/S1352231023004193?via%3Dihub" target="_blank">
-          <span class="underline">Kramer, S. J.</span>, Huang, S., McClure, C. D., Chaveste, M. R., & Lurmann, F. (2023). Projected smoke impacts from increased prescribed fire activity in California's high wildfire risk landscape. Atmospheric Environment, 119993.
+          <span class="underline">Kramer, S. J.</span>, Huang, S., McClure, C. D., Chaveste, M. R., &amp; Lurmann, F. (2023). Projected smoke impacts from increased prescribed fire activity in California's high wildfire risk landscape. Atmospheric Environment, 119993.
         </a>
         <div class="divider"></div>
         <a href="https://link.springer.com/article/10.1007/s00382-023-06965-7" target="_blank">
@@ -130,7 +175,7 @@ permalink: /publications/
         </a>
         <div class="divider"></div>
         <a href="https://iopscience.iop.org/article/10.1088/2752-5295/aced60/meta" target="_blank">
-          <span class="underline">Arcodia, M. C.</span>, Barnes, E. A., Mayer, K. J., Lee, J., Ordonez, A., & Ahn, M. S. (2023). Assessing decadal variability of subseasonal forecasts of opportunity using explainable AI. Environmental Research: Climate.
+          <span class="underline">Arcodia, M. C.</span>, Barnes, E. A., Mayer, K. J., Lee, J., Ordonez, A., &amp; Ahn, M. S. (2023). Assessing decadal variability of subseasonal forecasts of opportunity using explainable AI. Environmental Research: Climate.
         </a>
         <div class="divider"></div>
         <a href="https://agupubs.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1029%2F2022JD037795" target="_blank">
@@ -195,7 +240,7 @@ permalink: /publications/
         </a>
         <div class="divider"></div>
         <a href="https://www.sciencedirect.com/science/article/pii/S0098300421002612?via%3Dihub" target="_blank">
-          Mabel C. Costa, Nobre, P., Oke, P., Schiller, A., <span class="underline">Siqueira L. S. P.</span>, Castelão, G. P. (2021), The Spectral Diagram as a new tool for model assessment in the frequency domain: Application to a global ocean general circulation model with tides. Computers & Geosciences.
+          Mabel C. Costa, Nobre, P., Oke, P., Schiller, A., <span class="underline">Siqueira L. S. P.</span>, Castelão, G. P. (2021), The Spectral Diagram as a new tool for model assessment in the frequency domain: Application to a global ocean general circulation model with tides. Computers &amp; Geosciences.
         </a>
         <div class="divider"></div>
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL096709?af=R&utm_campaign=RESR_MRKT_Researcher_inbound&utm_medium=referral&sid=researcher&utm_source=researcher_app" target="_blank">
@@ -256,36 +301,37 @@ permalink: /publications/
     </div>
   </div>
 </div>
+
 <div class="container">
   <div class="sub-container">
     <div class="year-title">2019</div>
     <div class="publication-text">
       <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GB006327" target="_blank">
-        Bif, M. B., <span class="underline">Siqueira, L.</span>, & D. A. Hansell, (2019). Warm events induce loss of resilience in organic carbon production in the northeast Pacific Ocean. Global Biogeochemical Cycles, 33, 1174-1186.
+        Bif, M. B., <span class="underline">Siqueira, L.</span>, &amp; D. A. Hansell, (2019). Warm events induce loss of resilience in organic carbon production in the northeast Pacific Ocean. Global Biogeochemical Cycles, 33, 1174-1186.
       </a>
       <div class="divider"></div>
       <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ORxqfXkAAAAJ&citation_for_view=ORxqfXkAAAAJ:u-x6o8ySG0sC" target="_blank">
-        <span class="underline">Arcodia, M.</span>, <span class="bold">Kirtman, B.P.</span> & <span class="underline">Siqueira, L.</span>, (2019). Interference Between MJO and ENSO Teleconnection Signals Impacts US Rainfall. AGUFM, 2019, pp.A34E-07.
+        <span class="underline">Arcodia, M.</span>, <span class="bold">Kirtman, B.P.</span> &amp; <span class="underline">Siqueira, L.</span>, (2019). Interference Between MJO and ENSO Teleconnection Signals Impacts US Rainfall. AGUFM, 2019, pp.A34E-07.
       </a>
       <div class="divider"></div>
       <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL081307" target="_blank">
-        <span class="underline">Zhang, W.</span>, & <span class="bold">Kirtman, B.</span> (2019). Estimates of Decadal Climate Predictability from an Interactive Ensemble Model. Geophysical Research Letters, 46(6), 3387-3397.
+        <span class="underline">Zhang, W.</span>, &amp; <span class="bold">Kirtman, B.</span> (2019). Estimates of Decadal Climate Predictability from an Interactive Ensemble Model. Geophysical Research Letters, 46(6), 3387-3397.
       </a>
       <div class="divider"></div>
       <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085159" target="_blank">
-        <span class="underline">Zhang, W.</span>, & <span class="bold">Kirtman, B.</span> (2019). Understanding the Signal‐to‐noise Paradox with a Simple Markov Model. Geophysical Research Letters.
+        <span class="underline">Zhang, W.</span>, &amp; <span class="bold">Kirtman, B.</span> (2019). Understanding the Signal‐to‐noise Paradox with a Simple Markov Model. Geophysical Research Letters.
       </a>
       <div class="divider"></div>
       <a href="https://journals.ametsoc.org/view/journals/bams/100/10/bams-d-18-0270.1.xml" target="_blank">
-        <span class="underline">Pegion, K.</span>, <span class="underline">Becker, E.</span>, & <span class="bold">Kirtman, B.P.</span> (2019). The Subseasonal Experiment (SubX): A Multimodel Subseasonal Prediction Experiment. Bulletin of the American Meteorological Society, 100(10), 2043-2060.
+        <span class="underline">Pegion, K.</span>, <span class="underline">Becker, E.</span>, &amp; <span class="bold">Kirtman, B.P.</span> (2019). The Subseasonal Experiment (SubX): A Multimodel Subseasonal Prediction Experiment. Bulletin of the American Meteorological Society, 100(10), 2043-2060.
       </a>
       <div class="divider"></div>
       <a href="https://journals.ametsoc.org/view/journals/wefo/35/1/waf-d-19-0103.1.xml" target="_blank">
-        <span class="underline">Malloy, K. M.</span>, & <span class="bold">Kirtman, B.P.</span> (2019). Predictability of mid-summer Great Plains low-level jet and associated precipitation. Weather and Forecasting.
+        <span class="underline">Malloy, K. M.</span>, &amp; <span class="bold">Kirtman, B.P.</span> (2019). Predictability of mid-summer Great Plains low-level jet and associated precipitation. Weather and Forecasting.
       </a>
       <div class="divider"></div>
       <a href="https://link.springer.com/article/10.1007/s00382-018-4553-0" target="_blank">
-        <span class="underline">Infanti, J. M.</span>, & <span class="bold">Kirtman, B. P.</span> (2019). A comparison of CCSM4 high-resolution and low-resolution predictions for south Florida and southeast United States drought. Climate Dynamics, 52(11), 6877-6892.
+        <span class="underline">Infanti, J. M.</span>, &amp; <span class="bold">Kirtman, B. P.</span> (2019). A comparison of CCSM4 high-resolution and low-resolution predictions for south Florida and southeast United States drought. Climate Dynamics, 52(11), 6877-6892.
       </a>
       <div class="divider"></div>
       <a href="https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0025.1.xml" target="_blank">
@@ -297,11 +343,11 @@ permalink: /publications/
       </a>
       <div class="divider"></div>
       <a href="https://repository.library.noaa.gov/view/noaa/20153" target="_blank">
-        <span class="underline">Lopez, H.</span>, & <span class="bold">Kirtman, B.P.</span> (2019). ENSO influence over the Pacific North American sector: uncertainty due to atmospheric internal variability. Climate Dynamics, 52(9-10), 6149-6172.
+        <span class="underline">Lopez, H.</span>, &amp; <span class="bold">Kirtman, B.P.</span> (2019). ENSO influence over the Pacific North American sector: uncertainty due to atmospheric internal variability. Climate Dynamics, 52(9-10), 6149-6172.
       </a>
       <div class="divider"></div>
       <a href="https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/520032" target="_blank">
-        <span class="underline">Lucas Cardoso Laurindo</span>, <span class="underline">Leo Siqueira</span>, & <span class="bold">Ben P. Kirtman</span> (2019). Diagnosing Energy and Heat Transfer in the North Atlantic Region of Idealized and Realistic Ocean-Atmosphere Models: A Frequency-Domain Approach. AGUFM, 2019: A23S-3033.
+        <span class="underline">Lucas Cardoso Laurindo</span>, <span class="underline">Leo Siqueira</span>, &amp; <span class="bold">Ben P. Kirtman</span> (2019). Diagnosing Energy and Heat Transfer in the North Atlantic Region of Idealized and Realistic Ocean-Atmosphere Models: A Frequency-Domain Approach. AGUFM, 2019: A23S-3033.
       </a>
       <div class="divider"></div>
       <a href="https://meetings.pices.int/publications/presentations/2018-Climate-Change/S07-1500-Porto-de-Silveira_R.pdf" target="_blank">
@@ -309,29 +355,28 @@ permalink: /publications/
       </a>
       <div class="divider"></div>
       <a href="https://drive.google.com/file/d/1c51SeozJgAuwW86P-IqwVM5Y2T9zvtqz/view" target="_blank">
-        <span class="underline">Laurindo, L. C.</span>, <span class="underline">Siqueira, L.</span>, & <span class="bold">Kirtman, B.P.</span> (2019). Cross-spectral analysis of the SST/10-m wind speed coupling resolved by satellite products and climate model simulations. Climate Dynamics, 52(9-10), 5071-5098.
+        <span class="underline">Laurindo, L. C.</span>, <span class="underline">Siqueira, L.</span>, &amp; <span class="bold">Kirtman, B.P.</span> (2019). Cross-spectral analysis of the SST/10-m wind speed coupling resolved by satellite products and climate model simulations. Climate Dynamics, 52(9-10), 5071-5098.
       </a>
       <div class="divider"></div>
       <a href="https://www.researchgate.net/publication/318513303_Linking_preconditioning_to_extreme_ENSO_events_and_reduced_ensemble_spread" target="_blank">
-        <span class="underline">Larson, S. M.</span>, & <span class="bold">Kirtman, B. P.</span> (2019). Linking preconditioning to extreme ENSO events and reduced ensemble spread. Climate Dynamics, 52(12), 7417-7433.
+        <span class="underline">Larson, S. M.</span>, &amp; <span class="bold">Kirtman, B. P.</span> (2019). Linking preconditioning to extreme ENSO events and reduced ensemble spread. Climate Dynamics, 52(12), 7417-7433.
       </a>
       <div class="divider"></div>
       <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD030151" target="_blank">
-        <span class="underline">Lopez, H.</span>, & <span class="bold">Kirtman, B.</span> (2019). East Asian Monsoon as a modulator of US Great Plains Heat Waves. Journal of Geophysical Research: Atmospheres.
+        <span class="underline">Lopez, H.</span>, &amp; <span class="bold">Kirtman, B.</span> (2019). East Asian Monsoon as a modulator of US Great Plains Heat Waves. Journal of Geophysical Research: Atmospheres.
       </a>
       <div class="divider"></div>
       <a href="https://repository.library.noaa.gov/view/noaa/48394" target="_blank">
-        <span class="underline">Zavadoff, B. L.</span>, & <span class="bold">Kirtman, B.P.</span> (2019). North Atlantic Summertime Anticyclonic Rossby Wave Breaking: Climatology, Impacts, and Connections to the Pacific Decadal Oscillation. Journal of Climate, 32(2), 485-500.
+        <span class="underline">Zavadoff, B. L.</span>, &amp; <span class="bold">Kirtman, B.P.</span> (2019). North Atlantic Summertime Anticyclonic Rossby Wave Breaking: Climatology, Impacts, and Connections to the Pacific Decadal Oscillation. Journal of Climate, 32(2), 485-500.
       </a>
       <div class="divider"></div>
       <a href="https://www.researchgate.net/publication/337112782_Extreme_environmental_forcing_on_the_container_ship_SS_El_Faro" target="_blank">
-        <span class="underline">Bell, R.</span>, & <span class="bold">Kirtman, B.</span> (2019). Extreme environmental forcing on the container ship SS El Faro. Journal of Operational Oceanography, 1-16.
+        <span class="underline">Bell, R.</span>, &amp; <span class="bold">Kirtman, B.</span> (2019). Extreme environmental forcing on the container ship SS El Faro. Journal of Operational Oceanography, 1-16.
       </a>
       <div class="divider"></div>
       <a href="https://journals.ametsoc.org/view/journals/wefo/34/1/waf-d-18-0099_1.xml" target="_blank">
-        <span class="underline">Bell, R.</span>, & <span class="bold">Kirtman, B.</span> (2019). Seasonal Forecasting of Wind and Waves in the North Atlantic Using a Grand Multimodel Ensemble. Weather and Forecasting, 34(1), 31-59.
+        <span class="underline">Bell, R.</span>, &amp; <span class="bold">Kirtman, B.</span> (2019). Seasonal Forecasting of Wind and Waves in the North Atlantic Using a Grand Multimodel Ensemble. Weather and Forecasting, 34(1), 31-59.
       </a>
     </div>
   </div>
 </div>
-
