@@ -164,7 +164,34 @@ permalink: /news/
       </div>
   </div>
 
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/rosenstiel/stories/2025/09/university-of-miami-scientists-launch-accessible-global-climate-modeling-framework.html">
+          <img src="/assets/images/news_2025_2.jpg" alt="Accessible global climate modeling framework" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">
+            Kirtman group members worked together to develop a global atmospheric modeling framework that blends powerful research capabilities with accessibility for students and scientists alike. Written entirely in Python, a high-level, general-purpose programming language, and designed to run on an interactive Jupyter Notebook, allowing anyone with a standard laptop to explore cutting-edge climate experiments. To access the article, click on the image.
+          </p>
+      </div>
+  </div>
+
+  <hr style="border: 1px solid black; margin: 20px 0;">
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2025/03/el-nino-inspires-a-young-mans-passion-for-science.html">
+          <img src="/assets/images/news_2025_3.jpg" alt="Distinguished Faculty Scholar Award" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">
+            Ben received the Distinguished Faculty Scholar Award on Monday, March 31, during the Faculty Senate Awards Ceremony. The Distinguished Faculty Scholar Award recognizes either a single outstanding scholarly achievement or a lifetime of distinguished accomplishment in any area of research or creative activity. Award winners are nominated by faculty of the University and are selected by a committee. Congratulations, Ben!
+          </p>
+      </div>
+  </div>
+
 </div>
+
 
 
 <!-- New Container Added Above -->
