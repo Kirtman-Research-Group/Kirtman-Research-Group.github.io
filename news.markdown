@@ -168,7 +168,7 @@ permalink: /news/
 
   <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://news.miami.edu/rosenstiel/stories/2025/09/university-of-miami-scientists-launch-accessible-global-climate-modeling-framework.html">
-          <img src="/assets/images/news_2025_2.jpg" alt="Accessible global climate modeling framework" style="width: 300px; height: auto;">
+          <img src="/assets/images/news_2025_2.png" alt="Accessible global climate modeling framework" style="width: 300px; height: auto;">
       </a>
       <div>
           <p style="margin-top: 10px; font-size: 14px;">
