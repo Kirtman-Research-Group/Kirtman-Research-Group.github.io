@@ -149,6 +149,24 @@ permalink: /news/
   }
 </style>
 
+<!-- New Container for 2025 -->
+<div class="new-container former-container">
+  <h2>2025</h2>
+
+  <div class="content-wrapper" style="padding-top: 10px;">
+      <a href="https://news.miami.edu/stories/2025/07/rosenstiel-school-sets-a-new-course.html">
+          <img src="/assets/images/news_2025_1.jpg" alt="Rosenstiel School sets a new course" style="width: 300px; height: auto;">
+      </a>
+      <div>
+          <p style="margin-top: 10px; font-size: 14px;">
+            Ben began his time at the Rosenstiel School back in 2007, and has since helped shape the careers of many scientists while contributing greatly to the weather and climate field. In August, Ben became the new dean of the Rosenstiel School. He succeeds Roni Avissar, who has served in that post since 2009. Congratulations, Ben! For more information on this, click on the image to read the full article!
+          </p>
+      </div>
+  </div>
+
+</div>
+
+
 <!-- New Container Added Above -->
 <div class="new-container former-container">
   <h2>2024</h2>
