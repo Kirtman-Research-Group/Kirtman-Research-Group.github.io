@@ -74,12 +74,12 @@ permalink: /group-updates/
     text-align: center;
   }
 
-  /* NEW: strict 50/50 split rows for image+text in the NEW TOP container */
+  /* 50/50 split rows for image+text */
   .split-row {
     width: 90%;
     margin: 0 auto;
     display: flex;
-    align-items: flex-start;
+    align-items: center;          /* (1) vertically center text vs image */
     justify-content: space-between;
     gap: 10px;
     text-align: left;
@@ -88,7 +88,7 @@ permalink: /group-updates/
     width: 50%;
   }
 
-  /* Make split-row images truly half-width (override the default .container img rule) */
+  /* Make split-row images truly half-width (override default .container img) */
   .split-row img {
     width: 100%;
     max-width: 100%;
@@ -101,27 +101,41 @@ permalink: /group-updates/
   .split-text {
     font-size: 14px;
     line-height: 1.4;
+    display: flex;               /* (1) keep text content centered relative to image height */
+    align-items: center;
+    height: 100%;
   }
 
-  /* Two images side-by-side */
+  /* (2) Make specific images smaller without affecting the whole layout */
+  .split-row img.half-size {
+    width: 50%;
+    margin: 0 auto;              /* keep centered within its 50% column */
+  }
+
+  /* Two images side-by-side (same height/size) */
   .two-image-row {
     width: 90%;
     margin: 0 auto;
     display: flex;
     gap: 10px;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: stretch;        /* (4) make columns match height */
   }
   .two-image-row .img-col {
     width: 50%;
     text-align: center;
+    display: flex;               /* (4) allow image to fill column evenly */
+    align-items: stretch;
   }
   .two-image-row .img-col img {
     width: 100%;
+    height: 260px;               /* (4) force same displayed height */
+    object-fit: cover;           /* crops as needed to keep same size */
     border-radius: 8px;
     display: block;
     margin: 0;
   }
+
   .two-image-caption {
     width: 90%;
     margin: 10px auto 0 auto;
@@ -134,15 +148,25 @@ permalink: /group-updates/
   @media (max-width: 900px) {
     .split-row {
       flex-direction: column;
+      align-items: stretch;
     }
     .split-col {
       width: 100%;
     }
+
+    /* On mobile, let “half-size” images be larger so they’re readable */
+    .split-row img.half-size {
+      width: 80%;
+    }
+
     .two-image-row {
       flex-direction: column;
     }
     .two-image-row .img-col {
       width: 100%;
+    }
+    .two-image-row .img-col img {
+      height: auto;              /* avoid awkward cropping on mobile */
     }
   }
 </style>
@@ -154,7 +178,7 @@ permalink: /group-updates/
     <img src="/assets/images/december2025_updates.png" alt="December 2025 Updates">
     <div class="note-italic">~ for more information on the following updates, please click their corresponding image ~</div>
     <div class="divider"></div>
-    <!-- 1 -->
+ <!-- 1 -->
     <div class="welcome-title">Ben Becomes the New Dean of the Rosenstiel School</div>
     <div class="divider"></div>
     <div class="split-row">
@@ -176,7 +200,8 @@ permalink: /group-updates/
         Tori is a first-year Ph.D. student focusing on understanding how global climate dynamics drive local coastal impacts to better inform adaptation and resilience strategies. Her research interests include coastal climate dynamics, downscaling climate models for regional applications, sub-seasonal predictions and exploring how sea level variability and extreme heat affect coastal communities. She is passionate about linking solution-driven climate research with regional adaptation, especially by integrating uncertainty into planning and improving communication with local officials. She grew up in Hollywood, Florida and has been a Miami Beach resident for over a decade, who loves spending time outdoors, rollerblading along the Beachwalk, exploring local parks, trying the newest restaurants, practicing yoga, photographing nature, hosting daytime disco parties on sunny days, and enjoying life with her husband and their dog.
       </div>
       <div class="split-col">
-        <img src="/assets/images/tori.png" alt="Tori Paige Sargent">
+        <!-- (2) half-size image -->
+        <img class="half-size" src="/assets/images/tori.png" alt="Tori Paige Sargent">
       </div>
     </div>
     <div class="divider"></div>
@@ -213,7 +238,8 @@ permalink: /group-updates/
     <div class="divider"></div>
     <div class="split-row">
       <div class="split-col">
-        <img src="/assets/images/K_V_GRAD.png" alt="Karen & Victoria Graduated">
+        <!-- (3) half-size image -->
+        <img class="half-size" src="/assets/images/K_V_GRAD.png" alt="Karen & Victoria Graduated">
       </div>
       <div class="split-col split-text">
         Both Karen Papazian and Victoria Schoenwald have completed their Ph.D.’s. Victoria’s dissertation is titled Understanding Regional Sea Level Rise Acceleration Along the North American Eastern Seaboard, and Karen’s is An Idealized Study of Cold Air Outbreaks. They have both begun their next chapter as Postdoc’s with Ben!
@@ -305,7 +331,7 @@ permalink: /group-updates/
       Pictures are from the yearly NOAA EPIC's UIFCW2025 event - NOAA Earth Prediction Innovation Center, yearly Unified Innovations in Forecast Capabilities Workshop. A couple of posters were presented there, highlighting some collaborative efforts between NOAA EPIC (including Natalie Perlin and some EPIC team members), University of Miami (Ben Kirtman), and Sonoma Tech (Samantha Kramer).
     </div>
     <div class="divider"></div>
-  <!-- 12 -->
+<!-- 12 -->
     <div class="welcome-title">Cait Gives COMPASS Talk &amp; Lecture</div>
     <div class="divider"></div>
     <div class="full-width-text">
