@@ -213,7 +213,7 @@ permalink: /group-updates/
     <div class="divider"></div>
     <div class="split-row">
       <div class="split-col">
-        <img src="/assets/images/karen_victoria_graduates.jpg" alt="Karen & Victoria Graduated">
+        <img src="/assets/images/K_V_GRAD.png" alt="Karen & Victoria Graduated">
       </div>
       <div class="split-col split-text">
         Both Karen Papazian and Victoria Schoenwald have completed their Ph.D.’s. Victoria’s dissertation is titled Understanding Regional Sea Level Rise Acceleration Along the North American Eastern Seaboard, and Karen’s is An Idealized Study of Cold Air Outbreaks. They have both begun their next chapter as Postdoc’s with Ben!
