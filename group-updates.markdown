@@ -203,7 +203,7 @@ permalink: /group-updates/
       </div>
       <div class="split-col">
         <a href="https://news.miami.edu/rosenstiel/stories/2025/09/university-of-miami-scientists-launch-accessible-global-climate-modeling-framework.html" target="_blank">
-          <img src="/assets/images/news_2025_2.jpg" alt="Kirtman group publication available">
+          <img src="/assets/images/publication.jpg" alt="Kirtman group publication available">
         </a>
       </div>
     </div>
@@ -213,7 +213,7 @@ permalink: /group-updates/
     <div class="divider"></div>
     <div class="split-row">
       <div class="split-col">
-        <img src="/assets/images/updates_2025_3.jpg" alt="Karen & Victoria Graduated">
+        <img src="/assets/images/karen_victoria_graduates.jpg" alt="Karen & Victoria Graduated">
       </div>
       <div class="split-col split-text">
         Both Karen Papazian and Victoria Schoenwald have completed their Ph.D.’s. Victoria’s dissertation is titled Understanding Regional Sea Level Rise Acceleration Along the North American Eastern Seaboard, and Karen’s is An Idealized Study of Cold Air Outbreaks. They have both begun their next chapter as Postdoc’s with Ben!
