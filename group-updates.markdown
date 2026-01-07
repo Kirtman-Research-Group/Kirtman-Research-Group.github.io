@@ -43,7 +43,7 @@ permalink: /group-updates/
   .welcome-title {
     font-size: 16px;
     font-weight: bold;
-    text-align: center; /* titles not justified */
+    text-align: center;
     margin: 20px 0;
   }
 
@@ -57,7 +57,6 @@ permalink: /group-updates/
     margin: 0 auto;
   }
 
-  /* Full-width body text (JUSTIFIED) */
   .full-width-text {
     font-size: 14px;
     width: 90%;
@@ -76,19 +75,19 @@ permalink: /group-updates/
     text-align: center;
   }
 
-  /* 50/50 split rows for image+text */
+  /* Split rows */
   .split-row {
     width: 90%;
     margin: 0 auto;
     display: flex;
-    align-items: stretch;   /* allow true vertical centering via column flex */
+    align-items: stretch;
     justify-content: space-between;
     gap: 10px;
   }
 
   .split-col {
     width: 50%;
-    display: flex;          /* enables vertical centering for content */
+    display: flex;
     align-items: center;
   }
 
@@ -102,7 +101,7 @@ permalink: /group-updates/
     margin: 0;
   }
 
-  /* Inner wrapper is what gets JUSTIFIED (fixes flex + justify issue) */
+  /* Justified text next to images (fixes flex-justify issue) */
   .split-text-inner {
     font-size: 14px;
     line-height: 1.4;
@@ -111,13 +110,13 @@ permalink: /group-updates/
     width: 100%;
   }
 
-  /* Smaller images for specific sections */
+  /* UPDATED: 75% sized images */
   .split-row img.half-size {
-    width: 50%;
+    width: 75%;
     margin: 0 auto;
   }
 
-  /* Two images side-by-side (same displayed size) */
+  /* Two images side-by-side */
   .two-image-row {
     width: 90%;
     margin: 0 auto;
@@ -128,19 +127,19 @@ permalink: /group-updates/
   }
   .two-image-row .img-col {
     width: 50%;
+    text-align: center;
     display: flex;
     align-items: stretch;
   }
   .two-image-row .img-col img {
     width: 100%;
-    height: 260px;      /* force same height */
-    object-fit: cover;  /* crop to match size */
+    height: 260px;
+    object-fit: cover;
     border-radius: 8px;
     display: block;
     margin: 0;
   }
 
-  /* Caption (JUSTIFIED) */
   .two-image-caption {
     width: 90%;
     margin: 10px auto 0 auto;
@@ -159,8 +158,9 @@ permalink: /group-updates/
     .split-col {
       width: 100%;
     }
+    /* Keep slightly larger on mobile so it doesn't look tiny */
     .split-row img.half-size {
-      width: 80%;
+      width: 85%;
     }
     .two-image-row {
       flex-direction: column;
@@ -169,7 +169,7 @@ permalink: /group-updates/
       width: 100%;
     }
     .two-image-row .img-col img {
-      height: auto; /* avoid awkward cropping on mobile */
+      height: auto;
     }
   }
 </style>
@@ -207,6 +207,7 @@ permalink: /group-updates/
         </div>
       </div>
       <div class="split-col">
+        <!-- UPDATED to 75% via CSS -->
         <img class="half-size" src="/assets/images/tori.png" alt="Tori Paige Sargent">
       </div>
     </div>
@@ -248,6 +249,7 @@ permalink: /group-updates/
     <div class="divider"></div>
     <div class="split-row">
       <div class="split-col">
+        <!-- UPDATED to 75% via CSS -->
         <img class="half-size" src="/assets/images/K_V_GRAD.png" alt="Karen &amp; Victoria Graduated">
       </div>
       <div class="split-col">
@@ -361,7 +363,7 @@ permalink: /group-updates/
     <div class="divider"></div>
   </div>
 
-  <!-- EXISTING CONTAINER (unchanged, but full-width text is now justified) -->
+  <!-- EXISTING CONTAINER -->
   <div class="container">
     <img src="/assets/images/update1.jpg" alt="Descriptive Image">
     <div class="divider"></div>
