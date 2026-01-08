@@ -312,7 +312,7 @@ permalink: /group-updates/
     <div class="divider"></div>
     <div class="split-row">
       <div class="split-col">
-        <a href="https://sites.google.com/hawaii.edu/enso-winter-school-2025/__;!!KVu0SnhVq1hAFvslES2Y!LqDjPG0PGJzsHRUbJl_5zcRvJq9B3aQZAkamPJjtoTHhvPP-CzmcGN42vqkKRbQtMq0QX1GdAl6ZZAErTdczX3Gg8ms$" target="_blank">
+        <a href="https://sites.google.com/hawaii.edu/enso-winter-school-2025/" target="_blank">
           <img src="/assets/images/updates_2025_7.png" alt="ENSO Winter School 2025">
         </a>
       </div>
