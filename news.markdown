@@ -53,7 +53,8 @@ permalink: /news/
     margin: 0;
     font-size: 14px; /* Smaller font size for all lines except the first */
     color: black;
-    text-align: left; /* Left-align the text */
+    text-align: justify; /* JUSTIFY text next to images */
+    text-justify: inter-word; /* helps spacing for some browsers */
   }
   .content-wrapper p.lightgreen a {
     color: green;
@@ -192,11 +193,10 @@ permalink: /news/
 
 </div>
 
-
-
 <!-- New Container Added Above -->
 <div class="new-container former-container">
   <h2>2024</h2>
+
   <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://www.youtube.com/watch?v=0yjFxhpfhog">
           <img src="/assets/images/24_1.jpg" alt="AI/ML Revolutionizing Weather and Climate Science" style="width: 300px; height: auto;">
@@ -207,6 +207,7 @@ permalink: /news/
   </div>
 
   <hr style="border: 1px solid black; margin: 20px 0;">
+
   <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://news.miami.edu/stories/2024/09/rising-global-temperatures-are-the-new-normal.html">
           <img src="/assets/images/24_4.jpg" alt="globaltemps" style="width: 300px; height: auto;">
@@ -215,8 +216,9 @@ permalink: /news/
           <p style="margin-top: 10px; font-size: 14px;">Ben discusses rising global temperatures, specifically because last year, Earth experienced its warmest year on record. To read the article with many quotes from Ben, you can click on the image.</p>
       </div>
   </div>
-  
+
   <hr style="border: 1px solid black; margin: 20px 0;">
+
   <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://news.miami.edu/rosenstiel/stories/2024/05/graduates-celebrate-a-new-beginning.html">
           <img src="/assets/images/24_5.jpg" alt="commencement" style="width: 300px; height: auto;">
@@ -225,8 +227,9 @@ permalink: /news/
           <p style="margin-top: 10px; font-size: 14px;">At the University of Miami's 2024 Commencement, Ben delivered his first commencement address. He stressed that graduate students' preserverance and ability to show compassion will help guide their future carreers. To read more about the event and to see photos click on the image!</p>
       </div>
   </div>
-  
+
   <hr style="border: 1px solid black; margin: 20px 0;">
+
   <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://www.vox.com/climate/368324/hurricane-season-2024-gulf-mexico-ocean-warming">
           <img src="/assets/images/24_3.jpg" alt="gulfofmexico" style="width: 300px; height: auto;">
@@ -236,8 +239,8 @@ permalink: /news/
       </div>
   </div>
 
-  
   <hr style="border: 1px solid black; margin: 20px 0;">
+
   <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://www.wlrn.org/environment/2024-01-23/university-of-miami-panel-climate-change-solutions">
           <img src="/assets/images/climatecafe.jpg" alt="climatecafe" style="width: 300px; height: auto;">
@@ -246,11 +249,13 @@ permalink: /news/
           <p style="margin-top: 10px; font-size: 14px;">In January, Ben was included on a panel of South Florida scientists for the University of Miami's Rosenstiel School's Climate Cafe Series. The panelists discussed the state of South Florida in current and future climate scenarios. The link to the article can be found by clicking on the image.</p>
       </div>
   </div>
+
 </div>
 
 <!-- Existing Container -->
 <div class="new-container former-container">
   <h2>2023</h2>
+
   <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://idsc.miami.edu/magazine/spring-2024/dr-ben-kirtman-honored-as-2023-agu-fellow/">
           <img src="/assets/images/ben_agu.jpg" alt="Ben AGU" style="width: 300px; height: auto;">
@@ -261,7 +266,7 @@ permalink: /news/
   </div>
 
   <hr style="border: 1px solid black; margin: 20px 0;">
-  
+
   <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://www.foxweather.com/watch/play-6f2936e47000b2b">
           <img src="/assets/images/ben_fw1.jpg" alt="Ben FXW" style="width: 300px; height: auto;">
@@ -270,11 +275,9 @@ permalink: /news/
           <p style="margin-top: 10px; font-size: 14px;">Ben discussed the challenges of snowfall forecasts on Fox Weather. Ben explained what goes into forecasting snow totals for a major snowstorm and why a nor'easter can be particularly challenging. To watch the interview, click on the image.</p>
       </div>
   </div>
-  
+
   <hr style="border: 1px solid black; margin: 20px 0;">
 
-  <!-- New Content Starts Here -->
-  
   <div class="content-wrapper" style="padding-top: 10px;">
       <a href="https://www.cnn.com/videos/world/2023/07/26/exp-climate-extremes-kirtman-interview-072601aseg2-cnni-world.cnn">
           <img src="/assets/images/23_1.jpg" alt="Ben on CNN" style="width: 300px; height: auto;">
@@ -360,7 +363,9 @@ permalink: /news/
           <p style="margin-top: 10px; font-size: 14px;">Following their blog post for NOAA's ENSO blog, Marybeth and Breanna were interviewed by The Water Desk. Their interviews touched upon teleconnections as well as atmospheric rivers due to their relevance recently in California. To read the article with their interviews, click on the image.</p>
       </div>
   </div>
+
 </div>
+
 <!-- New Container for 2022 -->
 <div class="new-container former-container">
   <h2>2022</h2>
@@ -414,7 +419,7 @@ permalink: /news/
           <img src="/assets/images/22_5.jpg" alt="Extreme Weather Events" style="width: 300px; height: auto;">
       </a>
       <div>
-          <p style="margin-top: 10px; font-size: 14px;">As the climate continues to change, Ben discussed what people should expect in terms of extreme weather events, globally. He also gave suggestions on things people can do in the immediate future to help alleviate the impacts of extreme weather events. To read the full article, click on the image.</p>
+          <p style="margin-top: 10px; font-size: 14px;">As the climate continues to change, Ben discussed what people should expect in terms of extreme weather events, globally. He also gave suggestions on things people can do in the immediate future to help alleviate the impacts of extreme weather events. To read the article, click on the image.</p>
       </div>
   </div>
 
@@ -473,6 +478,7 @@ permalink: /news/
       </div>
   </div>
 </div>
+
 <!-- New Container for 2021 -->
 <div class="new-container former-container">
   <h2>2021</h2>
@@ -542,6 +548,7 @@ permalink: /news/
   </div>
 
 </div>
+
 <!-- New Container for 2020 -->
 <div class="new-container former-container">
   <h2>2020</h2>
@@ -567,4 +574,3 @@ permalink: /news/
   </div>
 
 </div>
-
