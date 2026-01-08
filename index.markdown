@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'); /* Example of importing a Google Font */
 
@@ -100,15 +101,22 @@ layout: home
     font-weight: bold;
     color: black;
   }
-</style>
 
+  /* NEW: Justified text blocks for specific sections */
+  .welcome-text,
+  .seasoned-text {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+</style>
 
 <div class="main-container">
   <div class="content-container">
     <!-- Text (centered) -->
     <div style="max-width: 520px; margin: 0 auto; text-align: center;">
       <p style="font-weight: bold; text-decoration: underline;">Welcome To Our Lab Website</p>
-      <p>
+<!-- Justified paragraph (while keeping the title centered above) -->
+      <p class="welcome-text" style="text-align: justify;">
          The Kirtman Group at the University of Miami's Rosenstiel School of Marine, Atmospheric & Earth Science specializes in climate modeling and climate variability research. Our group is very diverse with concentrations from climate predictability and prediction to weather-climate interactions and high-resolution ocean modeling. We also play an instrumental role in the North American Multi-Model Ensemble prediction system.
       </p>
       <div class="research-box">
@@ -148,7 +156,8 @@ layout: home
     </div>
     <div style="flex: 1;">
       <p style="font-weight: bold; text-decoration: underline;">Seasoned Chaos Blog</p>
-      <p>
+<!-- Justified paragraph -->
+      <p class="seasoned-text">
         A few members of the group (Kelsey, Kayla, Marybeth, Victoria, Emily, and Kurt) have started a blog about S2S predictability called ‘Seasoned Chaos’. If you haven’t checked it out yet, be sure to see the great work they’ve all done by clicking on the button below! Posts are very informative and fun. New posts are made every 1-2 months.
       </p>
       <div style="margin-top: 32px; padding: 10px; background-color: lightblue; border: 1px solid #000; text-align: center;">
