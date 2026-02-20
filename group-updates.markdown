@@ -176,6 +176,90 @@ permalink: /group-updates/
 
 <div class="page-content">
 
+<!-- NEW TOP CONTAINER (February 2026 Updates) -->
+<div class="container">
+  <img src="/assets/images/Kirtman_Group_Updates_feb26.jpg" alt="February 2026 Updates">
+
+  <div class="note-italic">~ for more information on the following updates, please click their corresponding image ~</div>
+
+  <div class="divider"></div>
+
+  <!-- 1 -->
+  <div class="welcome-title">NMME Viewer Available Online</div>
+  <div class="divider"></div>
+
+  <div class="split-row">
+    <div class="split-col">
+      <a href="https://nmme.earth.miami.edu/figures/index.html" target="_blank">
+        <img src="/assets/images/nmme_plot.jpg" alt="NMME Viewer">
+      </a>
+    </div>
+    <div class="split-col">
+      <div class="split-text-inner">
+        Kayla Besong and Emily Becker worked on publishing the new NMME viewer on the RSMAS website. It has gone live, and can be accessed by clicking on the image to the left. If anyone has any plot requests that fit into this framework, please reach out to Kayla. They are pursuing a project to add a bias-corrected version of some temperature-related plots, and this will roll out slowly.
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- 2 -->
+  <div class="welcome-title">Job Updates!</div>
+  <div class="divider"></div>
+
+  <div class="full-width-text">
+    • Samantha Kramer left her position at Sonoma Technology and started her own company! More information can be found at
+    <a href="https://www.airiconsulting.com" target="_blank">https://www.airiconsulting.com</a>.<br><br>
+    • Kayla Besong has regained her role at the Pacific Tsunami Warning Center after earlier staffing reductions associated with DOGE initiatives. She had to reapply for the position and go through the reapplication process. After a year of fighting for her job, the reapplication process was successful!
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- 3 -->
+  <div class="welcome-title">Marybeth Will Give a Sea Secrets Talk</div>
+  <div class="divider"></div>
+
+  <div class="split-row">
+    <div class="split-col">
+      <a href="https://events.miami.edu/event/sea-secrets-2026-marybeth-arcodia-phd-how-ai-is-transforming-climate-prediction" target="_blank">
+        <img src="/assets/images/marybeth_sea_secrets.jpg" alt="Marybeth Sea Secrets Talk">
+      </a>
+    </div>
+    <div class="split-col">
+      <div class="split-text-inner">
+        On March 10th at 5:30pm Marybeth Arcodia will be giving a Sea Secrets talk. She will discuss how the climate system is chaotic and noisy - yet within this noise lie the windows of predictability that enable more accurate weather and climate forecasts. In this talk, Marybeth Arcodia explores how artificial intelligence is transforming our ability to forecast Earth’s climate.
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- 4 -->
+  <div class="welcome-title">Cait Will Be Presenting at the Rosenstiel Research Day</div>
+  <div class="divider"></div>
+
+  <div class="split-row">
+    <div class="split-col">
+      <div class="split-text-inner">
+        On March 20th, the Rosenstiel School will be hosting a Rosenstiel Research Day. Cait Martinez will be presenting a poster this year.
+      </div>
+    </div>
+    <div class="split-col">
+      <img src="/assets/images/rsmas_research_day.jpg" alt="RSMAS Research Day">
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- 5 -->
+  <div class="welcome-title">Photos from AMS &amp; AGU</div>
+  <div class="divider"></div>
+
+  <img src="/assets/images/conference_pics.jpg" alt="Photos from AMS and AGU">
+
+  <div class="divider"></div>
+</div>
+
   <!-- NEW TOP CONTAINER (December 2025 Updates) -->
   <div class="container">
     <img src="/assets/images/december2025_updates.png" alt="December 2025 Updates">
