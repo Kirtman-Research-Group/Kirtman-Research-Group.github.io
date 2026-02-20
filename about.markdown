@@ -427,8 +427,9 @@ permalink: /people/
       <img src="/assets/images/sam.jpg" alt="Dr. Samantha Kramer" style="width: 150px; height: auto;">
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Samantha Kramer</h1>
-          <p class="justified-text" style="margin-top: 10px; font-size: 14px;">Current Affiliation: Air Quality Data Scientist at Sonoma Technology in Petaluma, CA.</p>
+          <p class="justified-text" style="margin-top: 10px; font-size: 14px;">Current Affiliation: Founder and Principal Scientist at the Atmospheric Interdisciplinary Research Institute</p>
           <p class="justified-text" style="margin-top: 10px; font-size: 14px;">PhD work: My research focused on Saharan dust transport to Miami, Florida.</p>
+          <p class="justified-text" style="margin-top: 10px; font-size: 14px;"> My work emphasizes collaboration across agencies and institutions to translate complex science into meaningful outcomes for public health, policy, and environmental planning.</p>
       </div>
   </div>
 
