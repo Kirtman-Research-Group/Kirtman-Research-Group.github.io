@@ -96,7 +96,7 @@ permalink: /publications/
 
   <div class="divider"></div>
   <a href="https://link.springer.com/article/10.1007/s00382-026-08137-9?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260327&utm_content=10.1007/s00382-026-08137-9#citeas" target="_blank">
-        <span class="bold">Siqueira, L., Kirtman, B.P.</span> 
+        <span  class="underline">Siqueira, L., Kirtman, B.P.</span> 
         Do our models capture the range of ENSO events?. 
         Clim Dyn 64, 167 (2026). https://doi.org/10.1007/s00382-026-08137-9
       </a>
