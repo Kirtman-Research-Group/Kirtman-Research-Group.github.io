@@ -82,6 +82,30 @@ permalink: /publications/
     </div>
   </div>
 
+<!-- NEW 2026 CONTAINER STARTS HERE -->
+<div class="container">
+  <div class="sub-container">
+    <div class="year-title">2026</div>
+    <div class="publication-text">
+
+  <a href="https://www.nature.com/articles/s41467-026-69116-6#citeas" target="_blank">
+        Berenshtein, I., <span class="bold">Kirtman, B.</span>, de Mutsert, K. et al. 
+        Historical depletion and future drought-driven risks to Gulf of Mexico fisheries production. 
+        Nat Commun 17, 2409 (2026). https://doi.org/10.1038/s41467-026-69116-6
+      </a>
+
+  <div class="divider"></div>
+  <a href="https://link.springer.com/article/10.1007/s00382-026-08137-9?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260327&utm_content=10.1007/s00382-026-08137-9#citeas" target="_blank">
+        <span class="bold">Siqueira, L., Kirtman, B.P.</span> 
+        Do our models capture the range of ENSO events?. 
+        Clim Dyn 64, 167 (2026). https://doi.org/10.1007/s00382-026-08137-9
+      </a>
+
+  </div>
+  </div>
+</div>
+<!-- NEW 2026 CONTAINER ENDS HERE -->
+
   <!-- NEW 2025 CONTAINER STARTS HERE -->
   <div class="container">
     <div class="sub-container">
