@@ -296,7 +296,7 @@ permalink: /people/
         <a href="mailto:t.sargent@miami.edu">t.sargent@miami.edu</a>
       </p>
       <p class="justified-text" style="margin-top: 10px;">
-        I am a first-year Ph.D. student focused on understanding how global climate dynamics drive local coastal impacts to better inform adaptation and resilience strategies. My research interests include coastal climate dynamics, downscaling climate models for regional applications, sub-seasonal predictions and exploring how sea level variability and extreme heat affect coastal communities. I am passionate about linking solution-driven climate research with regional adaptation, especially by integrating uncertainty into planning and improving communication with local officials. I grew up in Hollywood, Florida and have been a Miami Beach resident for over a decade, who loves spending time outdoors, rollerblading along the beachwalk, exploring local parks, trying the newest restaurants, practicing yoga, photographing nature, hosting daytime disco parties on sunny days, and enjoying life with my husband and our dog.
+        I am a first-year Ph.D. student focused on understanding how global climate dynamics drive local coastal impacts to better shape adaptation and resilience strategies. My research focuses on coastal climate dynamics, with an emphasis on extreme precipitation events, sea level variability, and their impacts on vulnerable coastal communities. I am particularly interested in sub-seasonal to seasonal prediction and the challenge of translating climate forecasts into actionable, hyper-local adaptation planning. My work explores how large-scale climate variability can be downscaled to inform regional decision-making, especially in places like Miami Beach, where small changes in water levels and rainfall can have significant impacts. I am passionate about linking solution-driven climate research with policy by integrating uncertainty into planning, improving communication with local officials, and advancing innovative infrastructure strategies that make space for water rather than simply reacting to it. I am a University of Miami alumni, where I completed my undergraduate studies, and a lifelong Hurricanes fan. I grew up in Hollywood, Florida and have been a Miami Beach resident for over a decade. My personal connection to Miami shapes both my research and my perspective. Outside of my work, I love spending time outdoors, rollerblading along the Beachwalk, paddleboarding in Biscayne Bay, exploring local parks, practicing yoga, photographing nature, trying new restaurants, hosting daytime disco parties on sunny days, and enjoying the beautiful natural landscapes that Miami provides with my husband and our dog.
       </p>
     </div>
   </div>
@@ -427,9 +427,11 @@ permalink: /people/
       <img src="/assets/images/sam.jpg" alt="Dr. Samantha Kramer" style="width: 150px; height: auto;">
       <div>
           <h1 style="font-size: 24px; font-weight: bold;">Dr. Samantha Kramer</h1>
+        <p class="contact-email" style="font-size: 14px;">Contact Email: <a href="mailto:skramer@airiconsulting.com">skramer@airiconsulting.com</a></p>
           <p class="justified-text" style="margin-top: 10px; font-size: 14px;">Current Affiliation: Founder and Principal Scientist at the Atmospheric Interdisciplinary Research Institute</p>
           <p class="justified-text" style="margin-top: 10px; font-size: 14px;">PhD work: My research focused on Saharan dust transport to Miami, Florida.</p>
           <p class="justified-text" style="margin-top: 10px; font-size: 14px;"> My work emphasizes collaboration across agencies and institutions to translate complex science into meaningful outcomes for public health, policy, and environmental planning.</p>
+        <a href="https://airiconsulting.com" class="webpage-button">Webpage</a>
       </div>
   </div>
 
